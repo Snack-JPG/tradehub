@@ -1,0 +1,134 @@
+{
+  "plumbers": {
+    "qualifications": ["Gas Safe registered (for gas work)", "City & Guilds Level 2/3 in Plumbing", "Public liability insurance"],
+    "questions": ["Are you Gas Safe registered?", "Can you provide a written quote?", "Do you have public liability insurance?", "What guarantee do you offer on your work?", "Can you provide references from recent jobs?"],
+    "redFlags": ["No written quote or vague pricing", "Asking for full payment upfront", "Not Gas Safe registered for gas work", "No ID or credentials", "Pressure to decide immediately"],
+    "priceRange": "£40-£60/hour"
+  },
+  "electricians": {
+    "qualifications": ["NICEIC, NAPIT, or ELECSA registered", "Part P Building Regulations compliant", "18th Edition wiring regulations qualified", "Public liability insurance"],
+    "questions": ["Are you Part P registered?", "Can you provide electrical certificates?", "What's included in the quote?", "Do you have public liability insurance?", "Will you notify Building Control?"],
+    "redFlags": ["Not registered with a competent person scheme", "Won't provide certificates", "Quotes without seeing the work", "No insurance", "Unclear pricing"],
+    "priceRange": "£40-£60/hour"
+  },
+  "roofers": {
+    "qualifications": ["NFRC or CORC membership (recommended)", "Public liability insurance (£5m minimum)", "NVQ Level 2/3 in Roofing (for quality assurance)", "Insurance-backed guarantees available"],
+    "questions": ["Are you NFRC or CORC registered?", "What insurance do you carry?", "Do you offer guarantees on your work?", "Can I see examples of recent projects?", "What's included in the price?"],
+    "redFlags": ["Door-to-door offers after 'spotting damage'", "Large upfront payments demanded", "No insurance or proof of qualifications", "Pressure tactics", "Suspiciously low quotes"],
+    "priceRange": "£150-£400 minor repairs, £5,000-£12,000 full re-roof"
+  },
+  "builders": {
+    "qualifications": ["FMB (Federation of Master Builders) membership", "NHBC or similar warranty provider", "Public liability insurance (£5-10m)", "Employer's liability insurance if employing staff"],
+    "questions": ["Are you FMB registered?", "Can you provide references and photos of similar work?", "What insurance do you have?", "How will you manage the project timeline?", "What guarantees do you offer?"],
+    "redFlags": ["Cash-only, no receipts", "No written contract or scope of work", "Asking for large deposits (over 30%)", "Can't provide references", "Evasive about insurance"],
+    "priceRange": "£150-£250/day per tradesperson"
+  },
+  "landscapers": {
+    "qualifications": ["RHS qualified or City & Guilds in Horticulture/Landscaping", "APL (Association of Professional Landscapers) membership", "Public liability insurance", "Portfolio of completed projects"],
+    "questions": ["Are you APL registered or RHS qualified?", "Can I see your portfolio of similar projects?", "What's included in the quote (labour, materials, disposal)?", "Do you have insurance?", "What guarantees do you offer on plants and workmanship?"],
+    "redFlags": ["No portfolio or examples of work", "Vague quotes without itemisation", "No insurance", "Can't explain design choices or plant selection", "Demanding large upfront payments"],
+    "priceRange": "£150-£250/day, £2,000-£15,000+ for full garden redesigns"
+  },
+  "plasterers": {
+    "qualifications": ["NVQ Level 2/3 in Plastering", "Federation of Plastering and Drywall Contractors membership", "Public liability insurance", "Portfolio of completed work"],
+    "questions": ["Can I see examples of your recent work?", "Do you include prep work in your quote?", "How long will the plaster take to dry?", "What type of plaster will you use?", "Are materials included?"],
+    "redFlags": ["Can't show examples of previous work", "Quotes without seeing the walls", "Won't explain the process or timeline", "Suspiciously cheap quotes", "No insurance"],
+    "priceRange": "£150-£250/day or £10-£40/m² depending on work type"
+  },
+  "painters": {
+    "qualifications": ["Painting & Decorating NVQ Level 2/3", "Trade body membership (Dulux Select Decorator, etc.)", "Public liability insurance", "Portfolio of completed projects"],
+    "questions": ["Can I see photos of similar work you've done?", "What prep work is included?", "How many coats will you apply?", "What brand/quality of paint will you use?", "Is the quote itemised (labour, materials, prep)?"],
+    "redFlags": ["Won't include prep work in quote", "Vague about paint quality or brands", "Can't provide examples of work", "Quotes seem too good to be true", "Rushing the job or cutting corners on drying time"],
+    "priceRange": "£150-£250/day, £200-£500 per room"
+  },
+  "carpenters": {
+    "qualifications": ["City & Guilds or NVQ Level 2/3 in Carpentry/Joinery", "Institute of Carpenters membership", "Public liability insurance", "Portfolio showing range of work"],
+    "questions": ["Can I see examples of similar projects?", "Are you qualified in both carpentry and joinery?", "What timber/materials will you use?", "Do you include finishing (sanding, painting) in your quote?", "What guarantees do you offer?"],
+    "redFlags": ["Can't show examples of bespoke or similar work", "Unclear about materials or finishes", "Won't provide itemised quotes", "No insurance", "Rushing measurements or planning"],
+    "priceRange": "£150-£250/day, £1,000-£4,000+ for fitted furniture"
+  },
+  "locksmiths": {
+    "qualifications": ["Master Locksmiths Association (MLA) membership", "CRB/DBS checked (for security)", "Public liability insurance", "Registered business address"],
+    "questions": ["Are you MLA registered?", "What's the total cost including call-out, labour, and locks?", "Can you show ID when you arrive?", "Will you try non-destructive entry first?", "Can you provide a receipt?"],
+    "redFlags": ["Suspiciously low phone quotes that multiply on arrival", "No business address or landline", "Unmarked van with no branding", "Refusing to provide receipts", "Insisting locks must be drilled when picking is possible"],
+    "priceRange": "£80-£150 for emergency call-outs, £60-£100 standard work"
+  },
+  "handymen": {
+    "qualifications": ["Multi-skilled trade qualifications", "Public liability insurance", "Good references and reviews", "Clear about limitations (won't do gas/notifiable electrical work)"],
+    "questions": ["What qualifications do you have?", "Do you have insurance?", "Can you provide references?", "What jobs are you most experienced with?", "Do you supply materials or shall I?"],
+    "redFlags": ["Claiming to do gas or notifiable electrical work without qualifications", "No insurance", "Can't provide references", "Vague about what's included in price", "Unwilling to be honest about skill limitations"],
+    "priceRange": "£20-£40/hour, £120-£250/day"
+  },
+  "gas-engineers": {
+    "qualifications": ["Gas Safe registered (legally required)", "Commercial Gas if doing commercial work", "Public liability insurance", "Manufacturer training (for specific boiler brands)"],
+    "questions": ["Can I verify your Gas Safe registration number?", "Are you qualified to work on my boiler brand?", "What's included in the service/installation?", "Do you provide Gas Safe certificates?", "What guarantee do you offer?"],
+    "redFlags": ["Not Gas Safe registered or can't show ID card", "Won't provide certificates", "Quotes without seeing the boiler/system", "Pressure to replace rather than repair", "No insurance"],
+    "priceRange": "£50-£80/hour, £60-£90 for boiler service, £1,500-£3,500 for boiler installation"
+  },
+  "tilers": {
+    "qualifications": ["NVQ Level 2/3 in Wall & Floor Tiling", "Tile Association membership", "Public liability insurance", "Portfolio showing quality of finishes"],
+    "questions": ["Can I see examples of your tiling work?", "Will you remove old tiles or shall I?", "What adhesive and grout will you use?", "How will you handle corners and edges?", "Is grouting and sealing included?"],
+    "redFlags": ["Can't show examples of neat cuts and finishes", "Unclear about prep work needed", "Won't discuss tile layout or pattern", "Quotes without seeing the area", "No mention of waterproofing for wet areas"],
+    "priceRange": "£25-£60/m² depending on tile type and complexity"
+  },
+  "fencing": {
+    "qualifications": ["Fencing contractor certification", "Public liability insurance", "Knowledge of boundary laws", "Portfolio of completed fences"],
+    "questions": ["Can I see examples of your fencing work?", "Is removal of old fencing included?", "Will you concrete the posts?", "Do you check boundary lines?", "What guarantee do you offer?"],
+    "redFlags": ["Won't discuss boundary issues or planning permission", "Unclear about post installation method", "Can't show examples of similar fencing", "Quotes without measuring or seeing the site", "No insurance"],
+    "priceRange": "£40-£80/metre for closeboard panels installed"
+  },
+  "pest-control": {
+    "qualifications": ["BPCA (British Pest Control Association) certified", "RSPH Level 2 Award in Pest Management", "Public liability insurance", "Safe use of pesticides certification"],
+    "questions": ["Are you BPCA certified?", "What treatment will you use and is it safe for pets/children?", "How many visits are included?", "What guarantee do you offer?", "Do you identify entry points and provide prevention advice?"],
+    "redFlags": ["Not certified or trained", "Won't explain treatment methods", "Single-visit promises for serious infestations", "No guarantee or follow-up", "Unclear about chemical safety"],
+    "priceRange": "£80-£200 per treatment depending on pest type"
+  },
+  "drainage": {
+    "qualifications": ["Drainage engineer certification", "CCTV survey equipment and training", "Public liability insurance", "Knowledge of building regulations and water authority requirements"],
+    "questions": ["Do you provide CCTV surveys?", "What's the total cost for diagnosis and clearance?", "Will you identify the cause of blockages?", "Do you offer guarantees?", "Can you advise on who's responsible (private vs public sewer)?"],
+    "redFlags": ["Clearing blockages without diagnosing causes", "Won't provide CCTV evidence", "Unclear about costs before starting work", "Recommending expensive excavation without proper diagnosis", "No guarantee on clearance"],
+    "priceRange": "£80-£300 for unblocking, £100-£200 for CCTV survey"
+  },
+  "tree-surgeons": {
+    "qualifications": ["NPTC qualifications in chainsaw use and tree work", "Arboricultural Association membership", "Public liability insurance (£10m minimum)", "Knowledge of Tree Preservation Orders and planning law"],
+    "questions": ["What NPTC qualifications do you hold?", "Do you have £10m public liability insurance?", "Will you check for Tree Preservation Orders?", "How will you safely dismantle/fell the tree?", "What's included in waste removal?"],
+    "redFlags": ["Suggesting tree topping instead of proper pruning", "No qualifications or insurance", "Won't check TPOs or planning requirements", "Quotes without inspecting the tree", "Unclear about waste disposal"],
+    "priceRange": "£300-£800 small tree felling, £800-£2,000+ large trees"
+  },
+  "vehicle-recovery": {
+    "qualifications": ["Operator's license from Traffic Commissioner", "Goods in transit insurance", "Public liability insurance", "Proper recovery equipment (flatbed/wheel-lift)"],
+    "questions": ["Do you have operator's license and insurance?", "What's the total cost including mileage?", "How quickly can you reach me?", "What's your estimated arrival time?", "Is my vehicle insured during recovery?"],
+    "redFlags": ["Won't provide insurance details", "No fixed address or verifiable business", "Won't give price estimate upfront", "Cash-only payments", "Unmarked or poorly maintained vehicles"],
+    "priceRange": "£60-£100 local (<10 miles), £2-£3/mile long distance"
+  },
+  "mobile-tyre-fitting": {
+    "qualifications": ["Tyre fitting certification", "Public liability insurance", "Professional balancing and fitting equipment", "Trade body membership (TyreSafe, NTDA)"],
+    "questions": ["Are you qualified and insured?", "What's the total cost including tyre, fitting, and call-out?", "Can you repair my puncture or does it need replacing?", "What warranty do you provide on tyres and fitting?", "How do you dispose of old tyres?"],
+    "redFlags": ["Selling part-worn tyres without explaining risks", "Won't balance tyres properly", "Unclear about total costs", "No insurance", "Recommending replacement when repair is possible"],
+    "priceRange": "£70-£210 per tyre including fitting and call-out"
+  },
+  "emergency-glaziers": {
+    "qualifications": ["Glazing certification", "Public liability insurance", "24/7 availability", "Access to various glass types and sizes"],
+    "questions": ["What's the cost for boarding up and glass replacement?", "How quickly can you attend?", "Do you carry glass or need to order it?", "What guarantee do you offer?", "Will you help with insurance claims?"],
+    "redFlags": ["Vastly inflated emergency prices", "Pressure to use unnecessary specialist glass", "Won't provide itemized quotes", "No guarantee on work", "Demanding large cash payments upfront"],
+    "priceRange": "£80-£150 emergency call-out, £200-£500 total for boarding and glass replacement"
+  },
+  "appliance-repair": {
+    "qualifications": ["Manufacturer training/certification", "Electrical safety qualifications", "Public liability insurance", "Access to genuine or OEM parts"],
+    "questions": ["Are you manufacturer-trained for my appliance brand?", "What's the call-out fee and hourly rate?", "Can you diagnose before quoting for parts?", "What guarantee do you offer on repairs?", "Should I repair or replace?"],
+    "redFlags": ["Recommending expensive repairs without proper diagnosis", "Using non-genuine parts without explaining", "No guarantee on repairs", "Quotes without seeing the appliance", "Unclear about total costs"],
+    "priceRange": "£50-£80 call-out, £40-£80/hour labour, plus parts"
+  },
+  "garage-door-repair": {
+    "qualifications": ["Garage door installation and repair certification", "Public liability insurance", "Knowledge of spring safety procedures", "Electrical qualifications for automated doors"],
+    "questions": ["Are you qualified to work on garage door springs?", "What's the total cost including parts and labour?", "Do you test all safety features?", "What guarantee do you offer?", "Can you service and maintain my door?"],
+    "redFlags": ["Attempting DIY spring repairs without training", "Won't test auto-reverse safety features", "Recommending full replacement without diagnosing", "No guarantee", "Unclear about costs"],
+    "priceRange": "£60-£250 for repairs, £400-£1,500 for full replacement"
+  },
+  "skip-hire": {
+    "qualifications": ["Waste carrier license (Environment Agency)", "Public liability insurance", "Knowledge of permit requirements", "Legal waste disposal facilities"],
+    "questions": ["What size skip do I need for my project?", "Is the permit included or do I arrange it?", "What's included in the price (delivery, collection, disposal)?", "How long can I keep the skip?", "What can't I put in the skip?"],
+    "redFlags": ["No waste carrier license", "Unclear about permit requirements", "Hidden charges for collection or disposal", "Allowing prohibited items", "Illegal waste disposal"],
+    "priceRange": "£80-£150 mini skip, £180-£280 builder's skip (6-8 yards)"
+  }
+}

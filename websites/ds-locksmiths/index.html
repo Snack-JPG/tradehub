@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DS Locksmiths — Trusted Locksmith in Birmingham</title>
+  <meta name="description" content="5-star locksmith run by Dan, a reliable one-man operation in Birmingham. DS Locksmiths specialise in UPVC door repairs, lock changes, and emergency callout">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HomeAndConstructionBusiness",
+    "name": "DS Locksmiths",
+    "description": "5-star locksmith run by Dan, a reliable one-man operation in Birmingham. DS Locksmiths specialise in UPVC door repairs, lock changes, and emergency callout",
+    "telephone": "07969053820",
+    "areaServed": [{"@type": "City", "name": "Birmingham"}, {"@type": "City", "name": "Solihull"}, {"@type": "City", "name": "Erdington"}, {"@type": "City", "name": "Sutton Coldfield"}, {"@type": "City", "name": "Hall Green"}, {"@type": "City", "name": "Moseley"}, {"@type": "City", "name": "Kings Heath"}, {"@type": "City", "name": "Acocks Green"}],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": "185"
+    }
+  }
+  </script>
+  
+  <style>
+    
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      --bg: #f8f8f6;
+      --accent: #65750e;
+      --accent-light: #f0f4d4;
+      --dark: #1c1f0e;
+      --warm: #f5f5eb;
+      --stone: #78716c;
+      --stone-light: #a8a29e;
+      --border: #e7e0d8;
+      --radius: 12px;
+      --radius-full: 100px;
+    }
+    body {
+      font-family: 'Inter', -apple-system, sans-serif;
+      color: var(--dark);
+      background: var(--bg);
+      -webkit-font-smoothing: antialiased;
+      line-height: 1.6;
+    }
+    a { text-decoration: none; color: inherit; }
+    img { max-width: 100%; }
+    .section {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 56px 24px;
+    }
+    .section-label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--accent);
+      margin-bottom: 12px;
+    }
+    .section h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 2rem;
+      margin-bottom: 32px;
+    }
+    .btn-primary {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--dark);
+      color: white;
+      padding: 14px 32px;
+      border-radius: var(--radius-full);
+      font-weight: 600;
+      font-size: 0.95rem;
+      transition: all 0.2s;
+      border: none;
+      cursor: pointer;
+    }
+    .btn-primary:hover { opacity: 0.9; transform: translateY(-1px); }
+    .btn-secondary {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 1.5px solid var(--border);
+      padding: 14px 32px;
+      border-radius: var(--radius-full);
+      font-weight: 500;
+      font-size: 0.95rem;
+      color: var(--stone);
+      transition: all 0.2s;
+      background: transparent;
+      cursor: pointer;
+    }
+    .btn-secondary:hover { border-color: var(--dark); color: var(--dark); }
+    .divider { max-width: 960px; margin: 0 auto; padding: 0 24px; }
+    .divider hr { border: none; border-top: 1px solid var(--border); }
+    @media (max-width: 640px) {
+      .section h2 { font-size: 1.6rem; }
+    }
+    
+    
+    .th-nav {
+      padding: 20px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 960px;
+      margin: 0 auto;
+      position: sticky;
+      top: 0;
+      background: var(--bg);
+      z-index: 100;
+    }
+    .nav-name {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.3rem;
+    }
+    .nav-phone {
+      font-weight: 600;
+      font-size: 0.85rem;
+      background: var(--accent-light);
+      color: var(--dark);
+      padding: 8px 20px;
+      border-radius: 100px;
+      transition: all 0.2s;
+    }
+    .nav-phone:hover { background: var(--accent); color: white; }
+    
+    .th-footer {
+      border-top: 1px solid var(--border);
+      padding: 20px 24px;
+      text-align: center;
+    }
+    .th-footer p { font-size: 0.75rem; color: var(--stone-light); }
+    .th-footer a { color: var(--accent); font-weight: 500; }
+    .th-footer a:hover { text-decoration: underline; }
+    
+    .hero-b { max-width: 960px; margin: 0 auto; padding: 80px 24px 56px; text-align: center; }
+    .hero-b-badge {
+      display: inline-block; font-size: 0.75rem; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent);
+      margin-bottom: 20px; background: var(--accent-light); padding: 6px 16px;
+      border-radius: 100px;
+    }
+    .hero-b h1 {
+      font-family: 'DM Serif Display', serif; font-size: 3.4rem;
+      line-height: 1.1; max-width: 700px; margin: 0 auto;
+    }
+    .hero-b-sub {
+      margin-top: 20px; font-size: 1.15rem; color: var(--stone);
+      line-height: 1.7; max-width: 520px; margin-left: auto; margin-right: auto;
+    }
+    .hero-b-cta { margin-top: 36px; }
+    .hero-b-cta .btn-primary { padding: 16px 40px; font-size: 1.05rem; }
+    .hero-b-stats {
+      display: flex; justify-content: center; gap: 48px; margin-top: 40px;
+      padding-top: 40px; border-top: 1px solid var(--border);
+    }
+    .hero-b-stats .stat-num { font-family: 'DM Serif Display', serif; font-size: 1.8rem; }
+    .hero-b-stats .stat-label {
+      font-size: 0.78rem; color: var(--stone-light);
+      text-transform: uppercase; letter-spacing: 0.05em; font-weight: 500;
+    }
+    @media (max-width: 640px) {
+      .hero-b h1 { font-size: 2.4rem; }
+      .hero-b { padding: 56px 24px 40px; }
+      .hero-b-stats { gap: 24px; flex-wrap: wrap; }
+    }
+    
+    .trust-bar { max-width: 960px; margin: 0 auto; padding: 32px 24px; }
+    .trust-bar-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 16px;
+    }
+    .trust-item {
+      display: flex; align-items: center; gap: 12px;
+      padding: 16px 20px; background: var(--warm); border-radius: var(--radius);
+      font-size: 0.88rem; font-weight: 500;
+    }
+    .trust-icon { font-size: 1.3rem; flex-shrink: 0; }
+    @media (max-width: 640px) {
+      .trust-bar-grid { grid-template-columns: 1fr 1fr; }
+    }
+    
+    .svc-grid-list {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px;
+    }
+    .svc-grid-item {
+      display: flex; align-items: center; gap: 12px;
+      padding: 16px 20px; background: white; border: 1px solid var(--border);
+      border-radius: var(--radius); font-weight: 500; font-size: 0.9rem;
+      transition: border-color 0.2s;
+    }
+    .svc-grid-item:hover { border-color: var(--accent); }
+    .svc-grid-icon { font-size: 1.2rem; flex-shrink: 0; }
+    @media (max-width: 640px) { .svc-grid-list { grid-template-columns: 1fr 1fr; } }
+    @media (max-width: 380px) { .svc-grid-list { grid-template-columns: 1fr; } }
+    
+    .reviews-section { background: var(--warm); padding: 56px 0; overflow: hidden; }
+    .reviews-inner { max-width: 960px; margin: 0 auto; padding: 0 24px; }
+    .reviews-header {
+      display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 32px;
+    }
+    .reviews-nav { display: flex; gap: 8px; }
+    .reviews-nav button {
+      width: 40px; height: 40px; border-radius: 50%;
+      border: 1.5px solid var(--border); background: white; cursor: pointer;
+      font-size: 1rem; color: var(--dark); transition: all 0.2s;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .reviews-nav button:hover { border-color: var(--dark); background: var(--dark); color: white; }
+    .carousel-track { display: flex; gap: 16px; transition: transform 0.4s ease; }
+    .review-card {
+      background: white; border-radius: 16px; padding: 24px;
+      min-width: 260px; max-width: 260px; flex-shrink: 0;
+    }
+    .review-stars { color: var(--accent); font-size: 1rem; letter-spacing: 2px; }
+    .review-text {
+      margin-top: 12px; font-size: 0.88rem; line-height: 1.6;
+      display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .review-author { margin-top: 16px; font-size: 0.8rem; color: var(--stone-light); font-weight: 500; }
+    .reviews-count { text-align: center; margin-top: 24px; font-size: 0.85rem; color: var(--stone); }
+    @media (max-width: 640px) {
+      .review-card { min-width: 240px; max-width: 240px; }
+      .reviews-header { flex-direction: column; align-items: flex-start; gap: 16px; }
+    }
+    
+    .areas-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+    .area-tag {
+      padding: 10px 24px; border: 1px solid var(--border); border-radius: 100px;
+      font-size: 0.9rem; font-weight: 500; color: var(--stone); background: white;
+    }
+    
+    .faq-list { display: flex; flex-direction: column; gap: 8px; }
+    .faq-list details {
+      border: 1px solid var(--border); border-radius: var(--radius);
+      overflow: hidden; background: white; transition: all 0.2s;
+    }
+    .faq-list details[open] { border-color: var(--accent); }
+    .faq-list summary {
+      padding: 20px 24px; font-weight: 600; font-size: 0.95rem;
+      cursor: pointer; list-style: none; display: flex;
+      justify-content: space-between; align-items: center;
+    }
+    .faq-list summary::-webkit-details-marker { display: none; }
+    .faq-list summary::after { content: '+'; font-size: 1.3rem; color: var(--accent); transition: transform 0.2s; }
+    .faq-list details[open] summary::after { content: '−'; }
+    .faq-answer { padding: 0 24px 20px; font-size: 0.9rem; line-height: 1.7; color: var(--stone); }
+    
+    .cta-section { max-width: 960px; margin: 0 auto; padding: 64px 24px; text-align: center; }
+    .cta-section h2 {
+      font-family: 'DM Serif Display', serif; font-size: 2.4rem;
+      max-width: 500px; margin: 0 auto; line-height: 1.2;
+    }
+    .cta-section p { color: var(--stone); margin-top: 12px; font-size: 1rem; }
+    .cta-btn {
+      display: inline-flex; align-items: center; gap: 8px; margin-top: 28px;
+      background: var(--dark); color: white; padding: 16px 40px;
+      border-radius: 100px; font-weight: 600; font-size: 1.05rem; transition: all 0.2s;
+    }
+    .cta-btn:hover { opacity: 0.9; transform: translateY(-1px); }
+    .cta-number { margin-top: 16px; font-size: 0.85rem; color: var(--stone-light); }
+    @media (max-width: 640px) { .cta-section h2 { font-size: 1.8rem; } }
+    
+    .wa-btn {
+      position: fixed; bottom: 24px; right: 24px; z-index: 999;
+      width: 56px; height: 56px; border-radius: 50%;
+      background: #25D366; display: flex; align-items: center; justify-content: center;
+      box-shadow: 0 4px 16px rgba(37, 211, 102, 0.4);
+      transition: transform 0.2s;
+      animation: wa-pulse 2s infinite;
+    }
+    .wa-btn:hover { transform: scale(1.1); animation: none; }
+    .wa-btn svg { width: 28px; height: 28px; fill: white; }
+    @keyframes wa-pulse {
+      0%, 100% { box-shadow: 0 4px 16px rgba(37,211,102,0.4); }
+      50% { box-shadow: 0 4px 24px rgba(37,211,102,0.6); }
+    }
+    
+  </style>
+</head>
+<body>
+  <nav class="th-nav">
+    <div class="nav-name">DS Locksmiths</div>
+    <a href="tel:07969053820" class="nav-phone">07969 053820</a>
+  </nav>
+  <section class="hero-b">
+    <div class="hero-b-badge">24/7 Emergency Service</div>
+    <h1>Professional locksmith services in Birmingham.</h1>
+    <p class="hero-b-sub">5-star locksmith run by Dan, a reliable one-man operation in Birmingham. DS Locksmiths specialise in UPVC door repairs, lock changes, and emergency callouts. Dan knows his stuff, charges fairly, and gets the job done without any fuss. The kind of locksmith you find once and keep the number forever.</p>
+    <div class="hero-b-cta"><a href="tel:07969053820" class="btn-primary">📞 Call 07969 053820</a></div>
+    <div class="hero-b-stats"><div><div class="stat-num">5.0★</div><div class="stat-label">Rating</div></div><div><div class="stat-num">185</div><div class="stat-label">Reviews</div></div><div><div class="stat-num">24/7</div><div class="stat-label">Available</div></div></div>
+  </section>
+  <section class="trust-bar">
+    <div class="trust-bar-grid">
+      <div class="trust-item"><span class="trust-icon">🚨</span> 24/7 Emergency</div>
+<div class="trust-item"><span class="trust-icon">⏱️</span> 30 Min Response</div>
+<div class="trust-item"><span class="trust-icon">🛡️</span> Fully Insured</div>
+<div class="trust-item"><span class="trust-icon">📍</span> Local Service</div>
+
+    </div>
+  </section>
+  <section class="section">
+    <div class="section-label">What we do</div>
+    <h2>Services</h2>
+    <div class="svc-grid-list">
+      <div class="svc-grid-item"><span class="svc-grid-icon">🚪</span> UPVC Door Repairs</div>
+<div class="svc-grid-item"><span class="svc-grid-icon">🔒</span> Lock Changes</div>
+<div class="svc-grid-item"><span class="svc-grid-icon">🔒</span> Lock Repairs</div>
+<div class="svc-grid-item"><span class="svc-grid-icon">🔒</span> Emergency Lockout</div>
+<div class="svc-grid-item"><span class="svc-grid-icon">🚪</span> Door Realignment</div>
+<div class="svc-grid-item"><span class="svc-grid-icon">🛡️</span> Security Upgrades</div>
+<div class="svc-grid-item"><span class="svc-grid-icon">🔑</span> Key Cutting</div>
+<div class="svc-grid-item"><span class="svc-grid-icon">✓</span> Same Day Callout</div>
+
+    </div>
+  </section>
+  <section class="reviews-section">
+    <div class="reviews-inner">
+      <div class="reviews-header">
+        <div>
+          <div class="section-label">What people say</div>
+          <h2 style="font-family:'DM Serif Display',serif;font-size:2rem;">Customer Reviews</h2>
+        </div>
+        <div class="reviews-nav">
+          <button onclick="scrollCarousel(-1)" aria-label="Previous">←</button>
+          <button onclick="scrollCarousel(1)" aria-label="Next">→</button>
+        </div>
+      </div>
+      <div class="carousel-track" id="carousel">
+        <div class="review-card">
+          <div class="review-stars">★★★★★</div>
+          <p class="review-text">"Dan is a decent reliable locksmith. First time I've needed his services and very glad I contacted him. He gave me great advice and fair pricing."</p>
+          <p class="review-author">— Google Reviewer · Oct 2025</p>
+        </div>
+<div class="review-card">
+          <div class="review-stars">★★★★★</div>
+          <p class="review-text">"Dan came and repaired my old UPVC front door. He knew what he was doing and charged a very reasonable fee. The door hasn't worked this well in years."</p>
+          <p class="review-author">— Google Reviewer · Sep 2025</p>
+        </div>
+
+      </div>
+      <p class="reviews-count">Selected reviews · 185 reviews on Google</p>
+    </div>
+  </section>
+  <section class="section" style="padding-top:0">
+    <div class="section-label">Where we work</div>
+    <h2>Areas Covered</h2>
+    <div class="areas-tags"><span class="area-tag">Birmingham</span>
+<span class="area-tag">Solihull</span>
+<span class="area-tag">Erdington</span>
+<span class="area-tag">Sutton Coldfield</span>
+<span class="area-tag">Hall Green</span>
+<span class="area-tag">Moseley</span>
+<span class="area-tag">Kings Heath</span>
+<span class="area-tag">Acocks Green</span>
+</div>
+  </section>
+  <section class="section">
+    <div class="section-label">Common questions</div>
+    <h2>Frequently Asked Questions</h2>
+    <div class="faq-list"><details>
+        <summary>How quickly can you get to me?</summary>
+        <div class="faq-answer">We aim for a 15-30 minute response time across our coverage area. We're available 24/7 for emergency lockouts.</div>
+      </details>
+<details>
+        <summary>Will you damage my door?</summary>
+        <div class="faq-answer">We use non-destructive entry techniques wherever possible. In most lockout situations, we can gain entry without damaging your lock or door.</div>
+      </details>
+<details>
+        <summary>Do you provide a receipt and guarantee?</summary>
+        <div class="faq-answer">Yes, all our work comes with a receipt and guarantee. We only fit quality locks from trusted brands.</div>
+      </details>
+<details>
+        <summary>How much does it cost to change a lock?</summary>
+        <div class="faq-answer">Lock change prices depend on the type of lock required. We'll give you a clear price before starting any work.</div>
+      </details>
+<details>
+        <summary>Are you available at night and weekends?</summary>
+        <div class="faq-answer">Yes, we operate 24/7, 365 days a year — including nights, weekends, and bank holidays.</div>
+      </details>
+</div>
+  </section>
+  <section class="cta-section">
+    <h2>Ready to get started?</h2>
+    <p>Give us a call or drop a text. No obligation, just a chat.</p>
+    <a href="tel:07969053820" class="cta-btn">Call 07969 053820</a><p class="cta-number">or text if you prefer</p>
+  </section>
+  <a href="https://wa.me/447969053820" target="_blank" rel="noopener" class="wa-btn" aria-label="WhatsApp">
+    <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+  </a>
+
+    <script>
+    (function(){
+      const carousel = document.getElementById('carousel');
+      if (!carousel) return;
+      const cards = carousel.children;
+      const totalCards = cards.length;
+      if (totalCards === 0) return;
+      let currentIndex = 0;
+      let autoPlay;
+      function goToCard(index) {
+        currentIndex = index;
+        if (currentIndex >= totalCards) currentIndex = 0;
+        if (currentIndex < 0) currentIndex = totalCards - 1;
+        const card = cards[currentIndex];
+        const offset = card.offsetLeft - 24;
+        carousel.style.transform = 'translateX(-' + offset + 'px)';
+      }
+      window.scrollCarousel = function(d) { goToCard(currentIndex + d); };
+      function startAP() { autoPlay = setInterval(function(){ goToCard(currentIndex + 1); }, 3000); }
+      function stopAP() { clearInterval(autoPlay); }
+      startAP();
+      carousel.parentElement.addEventListener('mouseenter', stopAP);
+      carousel.parentElement.addEventListener('mouseleave', startAP);
+      document.querySelectorAll('.reviews-nav button').forEach(function(btn){
+        btn.addEventListener('click', function(){ stopAP(); setTimeout(startAP, 5000); });
+      });
+      let touchStartX = 0;
+      carousel.addEventListener('touchstart', function(e){ touchStartX = e.changedTouches[0].screenX; stopAP(); }, {passive:true});
+      carousel.addEventListener('touchend', function(e){
+        var diff = touchStartX - e.changedTouches[0].screenX;
+        if (Math.abs(diff) > 50) window.scrollCarousel(diff > 0 ? 1 : -1);
+        setTimeout(startAP, 5000);
+      }, {passive:true});
+    })();
+    </script>
+
+  <footer class="th-footer">
+    <p>&copy; 2026 DS Locksmiths &middot; Listed on <a href="https://tradehub.uk/trades/ds-locksmiths" target="_blank" rel="noopener">TradeHub</a></p>
+  </footer>
+</body>
+</html>

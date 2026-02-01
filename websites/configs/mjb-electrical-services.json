@@ -1,0 +1,43 @@
+{
+  "slug": "mjb-electrical-services",
+  "theme": "auto",
+  "hero": "hero_a",
+  "hero_headline": "Your Local Electrician in Halesowen",
+  "hero_subtitle": "300+ five-star reviews. 24/7 emergency callouts. Fair prices, no surprises — just reliable electrical work across the West Midlands.",
+  "blocks": [
+    "trust_bar",
+    "services_grid",
+    "gallery",
+    "how_it_works",
+    "reviews_carousel",
+    "about",
+    "accreditations",
+    "areas",
+    "faq",
+    "blog_list",
+    "contact_form",
+    "cta_banner"
+  ],
+  "whatsapp": true,
+  "blogs": true,
+  "custom_about": {
+    "heading": "Why Choose MJB?",
+    "text": "MJB Electrical Services is a trusted, local electrician based in Halesowen — proudly serving homeowners and businesses across the West Midlands for years. As a hands-on, one-man operation, you'll always know exactly who's turning up at your door. Every job gets the same care and attention, whether it's replacing a single switch or rewiring an entire house.\n\nWith over 300 five-star reviews, the reputation speaks for itself: clear communication, fair pricing, tidy work, and no hidden surprises. MJB specialises in fault finding and rectification — the tricky jobs other electricians can't solve. Available 24/7 for emergencies, because electrical problems don't wait for Monday morning."
+  },
+  "custom_how_it_works": {
+    "steps": [
+      {"title": "Get in Touch", "desc": "Call or message us with your electrical issue. We'll have a chat, understand what you need, and give you an honest quote — no obligation."},
+      {"title": "We'll Book You In", "desc": "We work around your schedule. You'll get a confirmed time slot and we'll keep you updated if anything changes — no waiting around all day."},
+      {"title": "Job Done Right", "desc": "We arrive on time, explain what we're doing at every step, and leave your home spotless. All work tested and certified."},
+      {"title": "Peace of Mind", "desc": "Every job comes with a satisfaction guarantee. If something's not right, we come back and fix it — that's our promise."}
+    ]
+  },
+  "custom_faq": [
+    {"q": "Do you offer emergency callouts?", "a": "Yes — we're available 24/7 for electrical emergencies across Halesowen, Birmingham, Dudley, and the wider West Midlands. Call us anytime on 07941 746878."},
+    {"q": "How much does a consumer unit upgrade cost?", "a": "Prices vary depending on the size of your property and existing wiring, but we always provide a clear, fixed quote before starting any work. No hidden fees or surprise charges."},
+    {"q": "Are you qualified and insured?", "a": "Absolutely. We're Checkatrade approved and fully insured. All work meets current BS 7671 wiring regulations and comes with the appropriate certification."},
+    {"q": "Can you help with fault finding?", "a": "It's one of our specialities. If you've got a tripping breaker, flickering lights, or a problem other electricians couldn't solve — give us a call. We have specialist equipment and years of experience tracking down faults."},
+    {"q": "Do you do small jobs?", "a": "Of course. Whether it's a single socket, a light fitting, or a full rewire — every job gets the same care and attention. No job too small."},
+    {"q": "What areas do you cover?", "a": "We're based in Halesowen and cover the wider West Midlands including Birmingham, Dudley, Stourbridge, Oldbury, Solihull, Smethwick, and more. If you're not sure, just ask."}
+  ]
+}

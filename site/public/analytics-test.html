@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TradeHub Analytics Test</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+    .container {
+      background: white;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #333;
+      margin-bottom: 10px;
+    }
+    .subtitle {
+      color: #666;
+      margin-bottom: 30px;
+    }
+    .test-section {
+      margin: 20px 0;
+      padding: 20px;
+      background: #f9f9f9;
+      border-radius: 4px;
+      border-left: 4px solid #3b82f6;
+    }
+    .test-section h3 {
+      margin-top: 0;
+      color: #3b82f6;
+    }
+    button, a.button {
+      display: inline-block;
+      padding: 12px 24px;
+      margin: 8px 8px 8px 0;
+      background: #3b82f6;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      text-decoration: none;
+      font-size: 14px;
+    }
+    button:hover, a.button:hover {
+      background: #2563eb;
+    }
+    .status {
+      margin-top: 20px;
+      padding: 15px;
+      background: #e0f2fe;
+      border-radius: 4px;
+      color: #0c4a6e;
+    }
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      max-width: 400px;
+    }
+    input {
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🔍 TradeHub Analytics Test Page</h1>
+    <p class="subtitle">This page tests all analytics events. Open DevTools → Network tab to see events being sent.</p>
+
+    <div class="test-section">
+      <h3>📞 Phone Tap Event</h3>
+      <p>Click the phone number below to trigger a <code>phone_tap</code> event:</p>
+      <a href="tel:07864670314" style="font-size: 20px; color: #3b82f6;">📞 07864 670314</a>
+    </div>
+
+    <div class="test-section">
+      <h3>💬 WhatsApp Tap Event</h3>
+      <p>Click to trigger a <code>whatsapp_tap</code> event:</p>
+      <a href="https://wa.me/447864670314" class="button">💬 Message on WhatsApp</a>
+    </div>
+
+    <div class="test-section">
+      <h3>✉️ Email Tap Event</h3>
+      <p>Click to trigger an <code>email_tap</code> event:</p>
+      <a href="mailto:test@example.com" style="font-size: 20px; color: #3b82f6;">✉️ test@example.com</a>
+    </div>
+
+    <div class="test-section">
+      <h3>📍 Directions Tap Event</h3>
+      <p>Click to trigger a <code>directions_tap</code> event:</p>
+      <a href="https://maps.google.com/?q=Birmingham+UK" class="button">📍 Get Directions</a>
+    </div>
+
+    <div class="test-section">
+      <h3>📧 Form Submit Event</h3>
+      <p>Submit this form to trigger a <code>form_submit</code> event:</p>
+      <form onsubmit="handleFormSubmit(event)">
+        <input type="text" placeholder="Your name" required>
+        <input type="email" placeholder="Your email" required>
+        <button type="submit">Submit Contact Form</button>
+      </form>
+    </div>
+
+    <div class="test-section">
+      <h3>👀 Page View Event</h3>
+      <p>A <code>page_view</code> event was automatically sent when you loaded this page.</p>
+    </div>
+
+    <div class="status">
+      <strong>✅ Analytics Active</strong><br>
+      Site ID: <code>test-site</code><br>
+      Tracking snippet loaded from: <code>/t.js</code><br>
+      Events sent to: <code>/api/events</code>
+    </div>
+
+    <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd;">
+      <h3>View Analytics Dashboard</h3>
+      <a href="/dashboard/test-site" class="button">📊 View Test Site Dashboard</a>
+      <a href="/admin/analytics?password=tradehub2026" class="button">🔐 Admin Dashboard</a>
+    </div>
+  </div>
+
+  <!-- TradeHub Analytics -->
+  <script src="/t.js" data-site="test-site" defer></script>
+
+  <script>
+    function handleFormSubmit(event) {
+      event.preventDefault();
+      alert('Form submitted! Check the Network tab to see the form_submit event.');
+      event.target.reset();
+    }
+  </script>
+</body>
+</html>

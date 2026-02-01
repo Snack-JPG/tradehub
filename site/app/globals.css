@@ -1,0 +1,140 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Premium Color System */
+    --color-navy-950: #0a0f1e;
+    --color-navy-900: #1e293b;
+    --color-navy-800: #334155;
+    --color-navy-700: #475569;
+    --color-amber-700: #b45309;
+    --color-amber-600: #d97706;
+    --color-amber-500: #f59e0b;
+    --color-teal-600: #0d9488;
+    --color-teal-500: #14b8a6;
+    --color-success-600: #16a34a;
+    --color-gold: #d4af37;
+
+    /* Enhanced Shadows */
+    --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.10), 0 1px 2px rgba(0, 0, 0, 0.06);
+    --shadow-card-hover: 0 12px 32px rgba(0, 0, 0, 0.18), 0 4px 8px rgba(0, 0, 0, 0.08);
+    --shadow-cta: 0 4px 16px rgba(217, 119, 6, 0.4), 0 2px 4px rgba(217, 119, 6, 0.2);
+    --shadow-cta-hover: 0 8px 24px rgba(217, 119, 6, 0.5), 0 4px 8px rgba(217, 119, 6, 0.3);
+
+    /* Typography */
+    --font-size-base: 1.0625rem; /* 17px */
+  }
+
+  /* Base typography improvements */
+  html {
+    scroll-behavior: smooth;
+    font-size: var(--font-size-base);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    font-feature-settings: 'kern' 1, 'liga' 1;
+  }
+
+  /* Enhanced heading styles */
+  h1, h2, h3, h4, h5, h6 {
+    letter-spacing: -0.015em;
+    font-feature-settings: 'kern' 1, 'liga' 1, 'dlig' 1;
+  }
+
+  /* Respect reduced motion preferences */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  /* Premium Button Hierarchy */
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-gradient-to-br from-amber-500 to-amber-600 px-6 py-3.5 font-semibold text-white shadow-cta transition-all duration-300 hover:scale-[1.02] hover:shadow-cta-hover active:scale-[0.98];
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg border-2 border-amber-600 bg-transparent px-6 py-3 font-semibold text-amber-600 transition-all duration-300 hover:bg-amber-50 hover:shadow-md active:scale-[0.98];
+  }
+
+  .btn-tertiary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-navy-800 px-6 py-3 font-semibold text-white transition-all duration-300 hover:bg-navy-700 hover:shadow-lg active:scale-[0.98];
+  }
+
+  /* Gradient text effect */
+  .text-gradient-amber {
+    @apply bg-gradient-to-r from-amber-500 via-amber-400 to-gold bg-clip-text text-transparent;
+  }
+
+  .text-gradient-premium {
+    @apply bg-gradient-premium bg-clip-text text-transparent;
+  }
+
+  /* Premium card styles */
+  .card-premium {
+    @apply rounded-xl border border-warmgray-200 bg-white shadow-card transition-all duration-300 hover:-translate-y-1 hover:border-amber-500 hover:shadow-card-hover;
+  }
+
+  /* Trust badge base */
+  .badge-verified {
+    @apply inline-flex items-center gap-1.5 rounded-full bg-success-100 px-3 py-1 text-sm font-semibold text-success-700 shadow-sm;
+  }
+
+  .badge-featured {
+    @apply inline-flex items-center gap-1.5 rounded-full bg-gradient-premium px-3 py-1 text-sm font-bold text-navy-950 shadow-amber-glow;
+  }
+}
+
+@layer utilities {
+  /* Text hierarchy utilities */
+  .text-heading-1 {
+    @apply font-serif text-5xl font-bold leading-tight tracking-tight text-navy-950 md:text-6xl;
+  }
+
+  .text-heading-2 {
+    @apply font-serif text-4xl font-bold leading-tight tracking-tight text-navy-950 md:text-5xl;
+  }
+
+  .text-heading-3 {
+    @apply font-serif text-3xl font-bold leading-snug tracking-tight text-navy-950 md:text-4xl;
+  }
+
+  .text-body-primary {
+    @apply text-base text-warmgray-700;
+  }
+
+  .text-body-secondary {
+    @apply text-sm text-warmgray-600;
+  }
+
+  .text-body-tertiary {
+    @apply text-sm text-warmgray-500;
+  }
+
+  /* Premium glass effect */
+  .glass {
+    @apply bg-white/80 backdrop-blur-md;
+  }
+
+  /* Shimmer effect for loading states */
+  .shimmer {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.4) 50%,
+      rgba(255, 255, 255, 0) 100%
+    );
+    background-size: 200% 100%;
+    animation: shimmer 2.5s linear infinite;
+  }
+}

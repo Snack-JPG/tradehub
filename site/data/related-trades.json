@@ -1,0 +1,15 @@
+{
+  "plumbers": ["gas-engineers", "builders", "tilers"],
+  "electricians": ["builders", "handymen", "gas-engineers"],
+  "roofers": ["builders", "plasterers", "carpenters"],
+  "builders": ["plumbers", "electricians", "plasterers"],
+  "landscapers": ["fencing", "builders", "handymen"],
+  "plasterers": ["painters", "builders", "carpenters"],
+  "painters": ["plasterers", "carpenters", "handymen"],
+  "carpenters": ["builders", "painters", "handymen"],
+  "locksmiths": ["handymen", "electricians", "builders"],
+  "handymen": ["plumbers", "electricians", "painters"],
+  "gas-engineers": ["plumbers", "builders", "electricians"],
+  "tilers": ["plasterers", "plumbers", "painters"],
+  "fencing": ["landscapers", "builders", "handymen"]
+}

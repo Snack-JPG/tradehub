@@ -1,0 +1,66 @@
+{
+  "solihull": {
+    "description": "Solihull is an affluent town in the West Midlands with a mix of period properties, modern estates, and characterful villages like Knowle and Dorridge. Homeowners here often need skilled tradespeople for renovations, extensions, and high-quality finishing work on properties ranging from Victorian terraces to contemporary new builds.",
+    "nearby": ["knowle", "dorridge", "shirley", "hall-green", "birmingham"]
+  },
+  "birmingham": {
+    "description": "Birmingham is the UK's second-largest city, with diverse housing from Victorian terraces in Moseley and Bournville to modern city-centre apartments and suburban semis. The city's growing property market creates constant demand for skilled tradespeople across all sectors, from emergency repairs to full renovations and new-build projects.",
+    "nearby": ["solihull", "sutton-coldfield", "moseley", "kings-heath", "hall-green"]
+  },
+  "redditch": {
+    "description": "Redditch is a historic needle-making town in Worcestershire, now a thriving commuter town with a mix of 1960s estates and newer developments. Homeowners here require tradespeople for maintenance of both older properties and modern homes, with particular demand for heating, roofing, and general building work.",
+    "nearby": ["bromsgrove", "astwood-bank", "studley", "alcester", "wythall"]
+  },
+  "bromsgrove": {
+    "description": "Bromsgrove is a prosperous market town in Worcestershire with a blend of period cottages, Victorian homes, and modern family housing. The town's affluent property market drives demand for quality tradespeople, especially for extensions, renovations, landscaping, and high-end finishing work on character properties.",
+    "nearby": ["redditch", "wythall", "birmingham", "astwood-bank", "studley"]
+  },
+  "sutton-coldfield": {
+    "description": "Sutton Coldfield is an upmarket area of north Birmingham known for large period properties, leafy suburbs, and the expansive Sutton Park. Homeowners in this affluent area regularly seek skilled tradespeople for extensions, renovations, landscaping, and maintaining the area's distinctive Victorian and Edwardian homes.",
+    "nearby": ["birmingham", "wythall", "solihull", "hampton-in-arden", "shirley"]
+  },
+  "knowle": {
+    "description": "Knowle is a picturesque village in the West Midlands, part of the Solihull borough, with a charming high street and mix of period cottages and modern family homes. The village's affluent character creates demand for quality tradespeople, particularly for renovations, extensions, and maintaining historic properties.",
+    "nearby": ["solihull", "dorridge", "shirley", "hampton-in-arden", "hall-green"]
+  },
+  "shirley": {
+    "description": "Shirley is a suburban area of Solihull with excellent schools, parks, and a thriving high street. The area features predominantly 1930s semis, some period properties, and modern developments. Homeowners here regularly need tradespeople for home improvements, loft conversions, kitchen and bathroom installations, and general maintenance.",
+    "nearby": ["solihull", "hall-green", "knowle", "moseley", "kings-heath"]
+  },
+  "moseley": {
+    "description": "Moseley is a vibrant, bohemian suburb of Birmingham known for its Victorian and Edwardian terraces, independent shops, and thriving arts scene. The area's period properties often require specialist tradespeople for restoration work, extensions, and maintaining the character features that make these homes so desirable.",
+    "nearby": ["birmingham", "kings-heath", "hall-green", "shirley", "solihull"]
+  },
+  "kings-heath": {
+    "description": "Kings Heath is a bustling suburb of Birmingham with a lively high street, excellent parks, and a mix of Victorian terraces, Edwardian homes, and post-war housing. The area's strong community and diverse housing stock create consistent demand for tradespeople across all sectors, from emergency repairs to full renovations.",
+    "nearby": ["birmingham", "moseley", "hall-green", "shirley", "solihull"]
+  },
+  "hall-green": {
+    "description": "Hall Green is a residential suburb of Birmingham known for its mix of 1930s semis, modern developments, and some period properties. The area's family-friendly character and well-maintained homes drive demand for tradespeople, particularly for extensions, garden landscaping, and general home improvements.",
+    "nearby": ["birmingham", "shirley", "solihull", "moseley", "kings-heath"]
+  },
+  "astwood-bank": {
+    "description": "Astwood Bank is a village near Redditch in Worcestershire, with a mix of period cottages, Victorian terraces, and modern housing estates. The village's rural character and growing population create demand for tradespeople, particularly for renovations, extensions, heating systems, and maintaining older properties.",
+    "nearby": ["redditch", "studley", "alcester", "bromsgrove", "wythall"]
+  },
+  "studley": {
+    "description": "Studley is a large village in Warwickshire with a rich industrial heritage, now a popular commuter location with a mix of period terraces, semis, and new developments. Homeowners here need tradespeople for both maintaining older properties and improving modern homes, with strong demand for building work and home extensions.",
+    "nearby": ["redditch", "alcester", "astwood-bank", "bromsgrove", "solihull"]
+  },
+  "alcester": {
+    "description": "Alcester is a historic market town in Warwickshire with beautiful Tudor and Georgian architecture, alongside modern developments. The town's many period properties require specialist tradespeople for restoration, conservation work, and sympathetic renovations, while newer homes need general maintenance and improvement work.",
+    "nearby": ["studley", "redditch", "astwood-bank", "bromsgrove", "solihull"]
+  },
+  "wythall": {
+    "description": "Wythall is a village in Worcestershire sitting on the edge of Birmingham, with a mix of 1950s-70s estates and newer developments. The area's suburban character and family homes create steady demand for tradespeople, particularly for roofing, heating, general building work, and garden landscaping.",
+    "nearby": ["bromsgrove", "redditch", "solihull", "birmingham", "sutton-coldfield"]
+  },
+  "hampton-in-arden": {
+    "description": "Hampton in Arden is an affluent village in the West Midlands near Birmingham Airport, known for its period properties, conservation area, and village green. The area's high property values and character homes drive demand for quality tradespeople, especially for restoration work, extensions, and high-end renovations.",
+    "nearby": ["solihull", "knowle", "dorridge", "birmingham", "sutton-coldfield"]
+  },
+  "dorridge": {
+    "description": "Dorridge is a prosperous village in the West Midlands, part of Solihull borough, with excellent schools and transport links. The village features a mix of period properties and modern family homes, with homeowners regularly seeking skilled tradespeople for extensions, renovations, landscaping, and maintaining high-value properties.",
+    "nearby": ["solihull", "knowle", "hampton-in-arden", "shirley", "birmingham"]
+  }
+}

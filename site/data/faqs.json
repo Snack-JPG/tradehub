@@ -1,0 +1,486 @@
+{
+  "plumbers": [
+    {
+      "question": "How much does a plumber charge per hour in the West Midlands?",
+      "answer": "Most plumbers in the West Midlands charge between £40-£60 per hour for standard work. Emergency call-outs (evenings, weekends, or bank holidays) can range from £80-£120 per hour. Many plumbers charge a call-out fee of £40-£80 which covers the first hour, then an hourly rate after that. Always ask for a written quote before work begins, especially for larger jobs like bathroom installations or boiler replacements."
+    },
+    {
+      "question": "Do plumbers need to be Gas Safe registered?",
+      "answer": "Yes, any plumber working on gas appliances (boilers, gas hobs, gas fires, etc.) must be Gas Safe registered by law. However, not all plumbers work with gas — some only do general plumbing like taps, pipes, bathrooms, and drainage. Always check a plumber's Gas Safe registration number on the official Gas Safe Register website before they work on any gas appliances. It's illegal and dangerous to use an unregistered engineer for gas work."
+    },
+    {
+      "question": "How quickly can a plumber come out for an emergency?",
+      "answer": "For genuine emergencies like burst pipes, major leaks, or no heating in winter, most emergency plumbers aim to attend within 1-2 hours, though this depends on their current workload and your location. Emergency services typically cost more (£80-£120+ per hour) and may include a higher call-out fee. If it's not a true emergency, booking a standard appointment is much more cost-effective."
+    },
+    {
+      "question": "What's the difference between a plumber and a heating engineer?",
+      "answer": "A plumber typically handles water systems: pipes, taps, toilets, showers, drainage, and bathroom installations. A heating engineer (often called a Gas Safe engineer) specialises in heating systems: boilers, radiators, central heating, and gas appliances. Many professionals are qualified in both areas and call themselves 'plumbing and heating engineers'. Always check their specific qualifications match the work you need."
+    },
+    {
+      "question": "Should I get multiple quotes from plumbers?",
+      "answer": "Yes, it's always recommended to get at least 2-3 quotes for any significant plumbing work. This helps you understand the market rate and what's included in the price. Be cautious of quotes that seem unusually low — they may use cheaper materials, cut corners, or add hidden costs later. Look for detailed, itemised quotes that break down labour, materials, and any additional charges like VAT or disposal fees."
+    }
+  ],
+  "electricians": [
+    {
+      "question": "How much does an electrician charge in the UK?",
+      "answer": "Electricians in the West Midlands typically charge £40-£60 per hour for qualified, registered professionals. Day rates range from £150-£300 depending on the job complexity. Emergency call-outs cost significantly more, usually £80-£150 per hour. Many electricians charge a minimum call-out fee (£50-£100) for small jobs. For larger projects like rewires or consumer unit upgrades, most will provide a fixed-price quote."
+    },
+    {
+      "question": "Do electricians need to be Part P registered?",
+      "answer": "Yes, for notifiable electrical work (new circuits, consumer unit replacements, work in bathrooms or outdoors), electricians should be registered with a competent person scheme like NICEIC, NAPIT, or ELECSA. This allows them to self-certify that work complies with Building Regulations Part P. If they're not registered, you'll need to notify Building Control yourself and pay for inspection, which can cost hundreds of pounds extra."
+    },
+    {
+      "question": "What certificates should an electrician provide?",
+      "answer": "After completing notifiable electrical work, your electrician must provide an Electrical Installation Certificate (for new circuits or major work) or a Minor Electrical Installation Works Certificate (for smaller jobs like adding sockets). These prove the work is safe and complies with BS 7671 wiring regulations. You'll need these certificates when selling your property or for insurance claims. Always ask for certificates before work begins."
+    },
+    {
+      "question": "How long does it take to rewire a house?",
+      "answer": "A full house rewire typically takes 5-10 days for a 3-bedroom home, depending on size, access, and whether you're living in the property during the work. The electrician will need to lift floorboards, chase walls for cables, fit new sockets and switches, install a new consumer unit, and test everything. Most rewires cost £2,500-£5,000+ depending on property size and specification. You'll usually need to redecorate afterwards."
+    },
+    {
+      "question": "Can I do electrical work myself in my own home?",
+      "answer": "You can legally do some basic electrical work yourself (like replacing a socket or light fitting), but it must comply with Building Regulations Part P. However, notifiable work (new circuits, consumer units, bathroom/outdoor work) must be certified by a registered electrician or inspected by Building Control. For safety and legal reasons, it's strongly recommended to hire a qualified electrician for anything beyond the most basic tasks. DIY electrical work that doesn't comply can affect insurance and home sales."
+    }
+  ],
+  "roofers": [
+    {
+      "question": "How much does it cost to repair a roof in the UK?",
+      "answer": "Minor roof repairs (fixing a few slipped tiles, repointing ridge tiles) typically cost £150-£400. More extensive repairs like replacing felt, fixing leaks, or repairing valleys can range from £400-£1,500. Emergency tarping or temporary repairs usually cost £100-£300. The cost depends on roof height, access, materials needed, and how quickly you need the work done. Always get a written quote and ask about guarantees on the work."
+    },
+    {
+      "question": "When should I replace my roof instead of repairing it?",
+      "answer": "Consider a full roof replacement if: your roof is over 50 years old (for slate) or 30+ years (for concrete tiles); there's widespread damage affecting more than 30% of the roof; you have persistent leaks in multiple areas; the roof structure (battens, felt) is deteriorating; or repair costs exceed 50% of replacement cost. A good roofer will honestly advise whether repair or replacement is more cost-effective long-term."
+    },
+    {
+      "question": "How long does a new roof last?",
+      "answer": "Natural slate roofs can last 80-100+ years with proper maintenance. Concrete tiles typically last 40-60 years. Clay tiles last 50-100 years. Modern flat roofs (EPDM rubber or fibreglass) last 25-50 years. Traditional felt flat roofs last only 10-15 years. The lifespan depends on materials, quality of installation, weather exposure, and maintenance. Regular inspections and prompt repairs extend roof life significantly."
+    },
+    {
+      "question": "Do roofers need to be qualified or registered?",
+      "answer": "While there's no legal requirement for roofers to be registered, reputable roofers often hold qualifications like NVQ Level 2/3 in Roofing or are members of trade bodies like the National Federation of Roofing Contractors (NFRC) or Confederation of Roofing Contractors (CORC). These memberships often include insurance-backed guarantees and adherence to standards. Always check they have public liability insurance (minimum £5 million) and ask for references from recent jobs."
+    },
+    {
+      "question": "What's included in a roof survey?",
+      "answer": "A professional roof survey includes: inspection of tiles/slates for damage or slipping; checking flashings, valleys, and ridge tiles; examining gutters and downpipes; inspecting roof structure from inside (loft) for rot, damp, or sagging; checking ventilation; photographing issues; and providing a detailed report with recommendations and cost estimates. Some roofers offer free surveys for potential work; independent surveys cost £200-£500+ but give unbiased advice before committing to expensive repairs."
+    }
+  ],
+  "builders": [
+    {
+      "question": "How much do builders charge per day in the UK?",
+      "answer": "Builders in the West Midlands typically charge £150-£250 per day for a skilled tradesperson, or £200-£350 for a team of two. Specialist builders or those in high-demand areas may charge more. Some builders prefer to quote per project rather than daily rates, especially for extensions or renovations. Always get a detailed written quote that breaks down labour, materials, skips, scaffolding, and any subcontractor costs. Be wary of cash-only builders offering suspiciously low rates."
+    },
+    {
+      "question": "Do I need planning permission for an extension?",
+      "answer": "It depends on the size and type of extension. Many single-storey rear extensions fall under permitted development rights (no planning permission needed) if they meet size limits: 3m for terraced/semi-detached houses, 4m for detached houses, and don't exceed 4m in height. However, you still need Building Regulation approval. Side extensions, two-storey extensions, and extensions in conservation areas or on listed buildings usually need full planning permission. Your builder or an architect can advise, but check with your local planning authority to be sure."
+    },
+    {
+      "question": "What's the difference between a builder and a general contractor?",
+      "answer": "In the UK, the terms are often used interchangeably, but a general contractor typically manages the entire project, coordinating multiple trades (electricians, plumbers, plasterers) and overseeing the build. A builder may focus more on the physical construction work themselves. For larger projects like extensions or whole-house renovations, you want a builder who can project-manage or hire a separate project manager to coordinate all trades and ensure work runs smoothly."
+    },
+    {
+      "question": "How long does a typical house extension take?",
+      "answer": "A single-storey extension typically takes 2-4 months from groundworks to completion. Two-storey extensions take 3-6 months. This includes: 2-4 weeks for groundwork and foundations, 2-3 weeks for structural work and roofing, 2-4 weeks for first fix (electrics, plumbing, plastering), and 1-2 weeks for second fix (finishing, decorating). Delays can occur due to weather, planning issues, or material shortages. Good builders build contingency time into schedules."
+    },
+    {
+      "question": "Should I use a builder with insurance?",
+      "answer": "Absolutely. Always use a builder with valid public liability insurance (minimum £2 million, ideally £5-10 million) which covers damage to your property or injuries during work. For larger projects, also look for employer's liability insurance if they have staff. Some builders also offer structural warranties (10-year insurance-backed guarantees) for extensions or new builds. Ask to see proof of insurance before work starts and verify it's current."
+    }
+  ],
+  "landscapers": [
+    {
+      "question": "How much does a landscaper cost in the UK?",
+      "answer": "Landscapers typically charge £150-£250 per day, or £200-£400 for a two-person team. For full garden redesigns, costs vary widely: small gardens (under 50m²) cost £2,000-£8,000; medium gardens (50-100m²) cost £5,000-£15,000; large gardens (100m²+) cost £10,000-£30,000+. Specific tasks like laying a patio cost £50-£100 per m², turfing costs £10-£20 per m², and fencing costs £40-£100 per metre. Always get itemised quotes from multiple landscapers."
+    },
+    {
+      "question": "What's the difference between a landscaper and a gardener?",
+      "answer": "A landscaper designs and constructs outdoor spaces: patios, driveways, decking, fencing, water features, garden structures, drainage, and major planting schemes. They focus on hard landscaping (construction) and soft landscaping (planting design). A gardener maintains gardens: mowing lawns, pruning, weeding, planting seasonal bedding, and general upkeep. Some professionals offer both services. For a full garden transformation or structural work, you need a landscaper; for ongoing maintenance, a gardener is ideal."
+    },
+    {
+      "question": "Do I need planning permission for landscaping?",
+      "answer": "Most landscaping work doesn't need planning permission, including patios, decking, garden walls, and planting. However, you may need permission for: raising ground levels more than 300mm (which affects drainage); building walls/fences over 2m high (or 1m if next to a road); significantly altering driveways (you need permission for new or wider driveways using non-porous materials); or work in conservation areas. Always check with your local planning authority for your specific project."
+    },
+    {
+      "question": "When is the best time of year for landscaping?",
+      "answer": "Spring (March-May) and autumn (September-November) are ideal for planting and turfing as soil conditions are best and plants establish well. Hard landscaping (patios, driveways, fencing) can be done year-round, though winter work may be delayed by wet weather or frozen ground. Summer is great for decking and outdoor structures, but avoid heavy planting in hot, dry spells. Book landscapers early for spring/summer as it's peak season — winter bookings may get discounts."
+    },
+    {
+      "question": "How do I choose a good landscaper?",
+      "answer": "Look for: professional qualifications (RHS, City & Guilds, or membership of the Association of Professional Landscapers); a portfolio of completed projects similar to yours; detailed, itemised quotes; proof of public liability insurance; references from recent clients; and clear contracts outlining timescales, costs, and materials. Avoid landscapers who demand large upfront payments (30% deposit is standard), can't provide references, or give vague verbal-only quotes. Good landscapers will visit your garden and discuss ideas before quoting."
+    }
+  ],
+  "plasterers": [
+    {
+      "question": "How much does plastering cost per room in the UK?",
+      "answer": "Skimming a standard 4x4m bedroom costs around £300-£600 (walls and ceiling). For an average 3-bedroom house, re-plastering all rooms costs £2,500-£5,000+. Plasterers typically charge £150-£250 per day or price per m² (£10-£25/m² for skimming, £20-£40/m² for full plastering including base coat). Smaller patch repairs cost £80-£200. Prices vary based on ceiling height, room access, condition of existing walls, and whether you need backing plaster or just a skim coat."
+    },
+    {
+      "question": "What's the difference between skimming and plastering?",
+      "answer": "Skimming is applying a thin finishing coat (2-3mm) of plaster over existing plaster, plasterboard, or painted walls to create a smooth surface ready for painting. Full plastering involves applying base coats (browning or bonding) to bare walls, then finishing with a skim coat. Skimming is quicker and cheaper; full plastering is necessary for new builds, severe damage, or walls that need levelling. A good plasterer will advise which your walls need."
+    },
+    {
+      "question": "How long does plaster take to dry before painting?",
+      "answer": "Fresh plaster typically takes 4-6 weeks to fully dry before painting, though this varies with weather, ventilation, and plaster thickness. You'll notice the plaster change from dark pink to light pink as it dries. First, apply a mist coat (watered-down emulsion) after 1 week, which helps the plaster breathe and provides a base for topcoats. Then apply final paint coats after 4-6 weeks. Painting too early traps moisture, causing paint to peel and potential damp issues."
+    },
+    {
+      "question": "Do plasterers remove old wallpaper?",
+      "answer": "Most plasterers prefer walls to be cleared of wallpaper before they start, as old paste can affect plaster adhesion. Some plasterers will remove wallpaper as an additional service (usually charged extra at £100-£200 per room). If you're having walls skimmed, old wallpaper must be completely removed first. If you're having full re-plastering, sometimes wallpaper can be skimmed over if it's firmly stuck, but stripping is still recommended for best results."
+    },
+    {
+      "question": "Can you plaster over artex or textured ceilings?",
+      "answer": "Yes, plasterers can skim over artex to create a smooth ceiling, which costs around £200-£400 per room. The artex must be firmly attached and sealed with PVA first. However, artex installed before 1985 may contain asbestos, so must be tested before any work. If asbestos is present, the artex should be removed by licensed asbestos removal specialists (£500-£1,500+ per room) before plastering. Never sand or damage old artex yourself — always get it tested first."
+    }
+  ],
+  "painters": [
+    {
+      "question": "How much do painters and decorators charge?",
+      "answer": "Painters and decorators in the West Midlands charge £150-£250 per day or £180-£300 for a team. For specific jobs: painting a room costs £200-£500 (depending on size), painting exterior of a 3-bed house costs £1,000-£2,500, wallpapering a room costs £150-£400. Prices vary based on prep work needed, number of coats, type of paint, ceiling height, and condition of surfaces. Always get detailed quotes including materials and prep work."
+    },
+    {
+      "question": "What's included in a painter's quote?",
+      "answer": "A professional quote should include: surface preparation (filling cracks, sanding, washing down); primer/undercoat and number of topcoats; type and quality of paint; painting ceilings, walls, woodwork, or all three; removal and refitting of fixtures (curtain rails, socket covers); protecting floors and furniture; and cleanup. Make sure the quote specifies materials brand/quality. Cheap quotes often cut corners on prep or use lower-quality paint that doesn't last."
+    },
+    {
+      "question": "How long does it take to paint a room?",
+      "answer": "Painting a standard bedroom (walls and ceiling) takes 1-2 days including prep, undercoat, and two topcoats. Larger rooms or those needing extensive prep (filling, sanding old paint) take 2-3 days. Whole house interior painting (3-bed house) takes 5-10 days. Exterior painting takes 3-7 days depending on house size and weather. Good decorators won't rush — proper prep and drying time between coats is essential for a lasting finish."
+    },
+    {
+      "question": "Should I paint or wallpaper?",
+      "answer": "It depends on your style and budget. Paint is cheaper (£200-£400 per room), easier to change, and better for rooms with moisture (bathrooms, kitchens). Wallpaper adds texture, pattern, and character (£300-£600+ per room including labour) but is harder to change and can peel in damp areas. Feature walls (one wallpapered wall, three painted) are a popular compromise. A good decorator can advise based on your wall condition, room use, and style preferences."
+    },
+    {
+      "question": "Do I need to prepare walls before the painter arrives?",
+      "answer": "Professional painters typically include prep in their quote, but you can save money by: moving furniture to the centre of rooms (or clearing rooms completely); removing curtains, pictures, and ornaments; and clearing access to walls. The painter will usually fill minor cracks, sand, wash walls, and cover furniture and floors. If walls need major repairs, stripping, or old wallpaper removing, discuss this beforehand as it may cost extra. Never paint over damp or mould — fix the source first."
+    }
+  ],
+  "carpenters": [
+    {
+      "question": "How much does a carpenter charge per day?",
+      "answer": "Carpenters in the West Midlands charge £150-£250 per day depending on experience and job complexity. For specific tasks: hanging a door costs £80-£150, fitting a kitchen costs £1,000-£2,500 (labour only), building fitted wardrobes costs £1,500-£4,000+, and fitting skirting boards costs £4-£10 per metre. Bespoke furniture projects are usually quoted per job. Always get detailed quotes and ask to see examples of previous work, especially for bespoke projects."
+    },
+    {
+      "question": "What's the difference between a carpenter and a joiner?",
+      "answer": "Joiners work in workshops making wooden components (doors, windows, staircases, cabinets, furniture) that are later installed on site. Carpenters work on-site installing these components, building structures (roofs, floors, stud walls), fitting kitchens, hanging doors, and doing second-fix work. In practice, many tradespeople are skilled in both carpentry and joinery and use the terms interchangeably. For bespoke furniture or made-to-measure work, you want a joiner; for fitting and installation, a carpenter."
+    },
+    {
+      "question": "How long does it take to fit a kitchen?",
+      "answer": "Fitting a standard kitchen takes 3-5 days for an experienced carpenter, plus additional time for electricians and plumbers (1-2 days each). This includes: removing old kitchen (1 day), installing base and wall units (1-2 days), fitting worktops and splashbacks (1 day), hanging doors and fitting handles (1 day). Complex kitchens with islands, bespoke units, or structural changes take longer (7-10 days). Always factor in time for other trades and potential delays if issues are discovered."
+    },
+    {
+      "question": "Can a carpenter fix squeaky floors?",
+      "answer": "Yes, carpenters can fix squeaky floorboards by securing loose boards with screws, adding wooden shims between joists and boards, or replacing damaged boards. This typically costs £100-£300 depending on the extent of the problem. Access from below (if there's a basement or crawlspace) makes repairs easier and cheaper. If the whole floor needs replacing or structural issues exist, costs increase significantly (£500-£2,000+ per room for new flooring and joists)."
+    },
+    {
+      "question": "Should I use solid wood or MDF for fitted furniture?",
+      "answer": "Solid wood is more expensive (£2,000-£5,000+ for fitted wardrobes) but durable, long-lasting, and adds value. MDF is cheaper (£1,000-£2,500), takes paint beautifully for a smooth finish, and doesn't warp like solid wood can. For painted furniture, MDF is ideal and cost-effective. For natural wood finishes or heirloom-quality pieces, solid wood (oak, walnut, pine) is worth the investment. A good carpenter will recommend materials based on your budget, room use, and desired finish."
+    }
+  ],
+  "locksmiths": [
+    {
+      "question": "How much does an emergency locksmith cost?",
+      "answer": "Emergency locksmith call-outs typically cost £80-£150 for the first hour, plus the cost of locks (£30-£150 each depending on type). Evening, night, weekend, or bank holiday call-outs cost more (£100-£200+). Standard non-emergency lock changes cost £60-£100 for labour plus locks. Be wary of locksmiths quoting very low prices on the phone then adding hidden charges on arrival. Always ask for a full quote including VAT, call-out fee, labour, and locks before work starts."
+    },
+    {
+      "question": "Will a locksmith damage my door?",
+      "answer": "A professional locksmith will use non-destructive entry methods whenever possible, picking or manipulating locks without damage. However, if you're locked out with no keys and have high-security locks, some damage may be unavoidable. The locksmith should explain options and costs before proceeding. If the lock needs forcing, they'll typically drill the cylinder (which can be replaced) rather than damaging the door itself. Always use a registered locksmith (Master Locksmiths Association member) for best results."
+    },
+    {
+      "question": "How long does it take for a locksmith to arrive?",
+      "answer": "For genuine emergencies (locked out, broken lock, security issue), most local locksmiths aim to arrive within 30-60 minutes, though this depends on their location and current jobs. Some 24/7 services arrive within 20-30 minutes in urban areas. For non-emergency lock changes or installations, you can book an appointment at a convenient time. Always confirm arrival time when calling and get the locksmith's name, company, and vehicle details for security."
+    },
+    {
+      "question": "Can a locksmith make keys without the original?",
+      "answer": "Yes, locksmiths can cut new keys by measuring the lock or using a key code (usually found on the lock or original keys). For standard locks, this is straightforward. For high-security locks, you may need to prove ownership of the property. Some modern keys with electronic chips or restricted keyways require specialist equipment or ordering from the manufacturer (which takes longer and costs more). Always provide proof of address and ID to legitimate locksmiths."
+    },
+    {
+      "question": "What's the difference between a uPVC lock and a mortice lock?",
+      "answer": "Mortice locks (also called deadlocks or sash locks) fit inside wooden doors and are operated by a key, with the bolt sliding into a pocket cut into the door frame. They're very secure and common on front doors. uPVC door locks are multipoint locking systems built into plastic doors, securing at multiple points when you lift the handle. They're more complex and often require specialist locksmiths. Both types meet insurance standards (BS3621 for mortice, TS007/PAS24 for uPVC) when fitted correctly."
+    }
+  ],
+  "handymen": [
+    {
+      "question": "How much does a handyman charge per hour?",
+      "answer": "Handymen in the West Midlands typically charge £20-£40 per hour or £120-£250 per day, depending on skills and job complexity. Many charge a minimum fee (£50-£80) for small jobs to cover travel and time. For specific tasks: assembling flat-pack furniture costs £40-£100 per item, putting up shelves costs £40-£80, boxing in pipes costs £100-£200, and fixing squeaky doors costs £30-£60. Always get quotes for larger jobs to avoid hourly rates adding up unexpectedly."
+    },
+    {
+      "question": "What jobs can a handyman do?",
+      "answer": "Handymen handle small repairs and odd jobs: assembling flat-pack furniture, hanging pictures and shelves, replacing taps and toilet seats, minor tiling, painting and decorating, fixing squeaky doors, replacing door handles, patching plaster, putting up curtain rails, basic carpentry, and general maintenance. However, handymen cannot do work requiring specialist qualifications: gas work (need Gas Safe registration), notifiable electrical work (need Part P registration), or structural alterations (need qualified builder). Always check their skills match your job."
+    },
+    {
+      "question": "Should I hire a handyman or a specialist tradesperson?",
+      "answer": "For small, simple jobs that don't require specific qualifications (flat-pack assembly, shelving, minor repairs), a handyman is cost-effective and convenient. For larger jobs, complex work, or anything requiring certification (gas, electrics, structural changes), always use a qualified specialist. A good handyman will tell you honestly if a job needs a specialist. Using unqualified people for specialist work is dangerous, illegal, and can affect insurance and property value."
+    },
+    {
+      "question": "Do handymen provide their own tools and materials?",
+      "answer": "Most handymen bring standard tools (drills, saws, screwdrivers, ladders) as part of their service. For materials (screws, rawlplugs, paint, fixtures), some include these in their quote, while others ask you to purchase them or charge separately. For larger items (shelving units, toilet seats, taps), you usually buy these yourself to ensure you get the style you want. Always clarify what's included in the quote to avoid confusion on the day."
+    },
+    {
+      "question": "Can I get a handyman for just one hour?",
+      "answer": "While it's possible, most handymen charge a minimum fee (£50-£80) to make very short jobs worthwhile, as they need to cover travel time and fuel. This minimum usually covers 1-2 hours of work. To get value from a handyman visit, prepare a list of small jobs (the 'to-do list' you've been putting off) and tackle several in one visit. This is more cost-effective than multiple short call-outs and most handymen are happy to work through a list."
+    }
+  ],
+  "gas-engineers": [
+    {
+      "question": "How much does a Gas Safe engineer charge?",
+      "answer": "Gas Safe engineers in the West Midlands charge £50-£80 per hour for standard work, or £150-£250 per day. Boiler services cost £60-£90. New boiler installations cost £1,500-£3,500 (including boiler). Emergency call-outs cost £80-£150+ per hour, often with a higher minimum charge (£150-£250). Landlord gas safety certificates cost £60-£90. Always get written quotes for installations or major repairs, and verify the engineer's Gas Safe registration number before work begins."
+    },
+    {
+      "question": "What does a boiler service include?",
+      "answer": "An annual boiler service includes: visual inspection of the boiler and flue; checking gas pressure and flow; testing safety devices (flame sensors, pressure relief valve); inspecting heat exchanger for corrosion; cleaning components; testing combustion efficiency; checking for gas leaks; and inspecting condensate pipe. The engineer will highlight any issues and advise on repairs. A service takes 30-60 minutes and costs £60-£90. It's essential for safety, efficiency, and maintaining manufacturer warranties."
+    },
+    {
+      "question": "How do I know if my boiler needs replacing?",
+      "answer": "Consider replacing your boiler if: it's over 10-15 years old (newer boilers are 25-30% more efficient); you're spending £300+ per year on repairs; it's constantly breaking down; replacement parts are obsolete or expensive; you have rising energy bills despite similar usage; or the boiler is oversized/undersized for your needs. A Gas Safe engineer can advise whether repair or replacement is more cost-effective. New A-rated boilers pay for themselves through energy savings within 5-8 years."
+    },
+    {
+      "question": "Do I need a Gas Safe certificate for my boiler?",
+      "answer": "If you're a landlord, you legally need an annual Gas Safety Certificate (CP12) for all rental properties with gas appliances, which costs £60-£90. Homeowners don't legally need certificates, but it's highly recommended to have your boiler serviced annually for safety and efficiency. When a new boiler is installed or major work is done, the Gas Safe engineer will provide a Building Regulations Compliance Certificate proving the work meets legal standards — keep this safe for when you sell your home."
+    },
+    {
+      "question": "Can any plumber work on my boiler?",
+      "answer": "No. Only Gas Safe registered engineers can legally work on gas boilers, fires, hobs, or any gas appliances. It's a criminal offence for unregistered people to do gas work, and using them puts you at risk of carbon monoxide poisoning, gas leaks, explosions, and invalidates your home insurance. Always check the engineer's Gas Safe ID card (with photo) and verify their registration number on the official Gas Safe Register website before allowing any gas work."
+    }
+  ],
+  "tilers": [
+    {
+      "question": "How much does tiling cost per square metre?",
+      "answer": "Tilers typically charge £25-£40 per m² for labour (standard ceramic tiles, straightforward layouts). Porcelain tiles, large-format tiles, or complex patterns cost £40-£60+ per m². For a standard bathroom (4m²), expect to pay £300-£600 for labour, plus tiles (£15-£60+ per m²). Kitchen splashbacks cost £150-£400 for labour. Floor tiling is often slightly cheaper than wall tiling. Prices vary based on tile size, pattern complexity, wall condition, and whether old tiles need removing (add £10-£20 per m²)."
+    },
+    {
+      "question": "How long does it take to tile a bathroom?",
+      "answer": "Tiling a standard bathroom (walls only, around 10-15m²) takes 2-3 days for an experienced tiler: half a day to remove old tiles and prepare walls, 1-2 days to fix new tiles, and half a day for grouting and finishing. If tiling the floor too, add another day. This doesn't include plumbing, electrical work, or fitting the bathroom suite — it's tiling only. Complex patterns, large tiles, or poor wall condition extend the time required."
+    },
+    {
+      "question": "Do I need to remove old tiles before re-tiling?",
+      "answer": "Usually yes. While you can sometimes tile over existing tiles if they're firmly stuck and the wall is structurally sound, it's generally better to remove old tiles first. This ensures proper adhesion, reveals any underlying damp or damage, and avoids making walls too thick (which affects fixtures and fittings). Removing tiles costs £10-£20 per m² extra and creates mess, but gives a better, longer-lasting result. Your tiler will assess and advise on the best approach."
+    },
+    {
+      "question": "What's the best tile size for a small bathroom?",
+      "answer": "For small bathrooms, medium-sized tiles (30x60cm or 30x30cm) work well — they create fewer grout lines than small tiles (making the space feel larger) without overwhelming the room like very large tiles can. Large-format tiles (60x60cm+) can work but often require more cutting and wastage in small spaces. Metro/subway tiles (20x10cm) are popular for feature walls. Light colours and glossy finishes reflect light and make small bathrooms feel bigger. Your tiler can mock up options to help you decide."
+    },
+    {
+      "question": "How long after tiling can I use my shower?",
+      "answer": "Wait at least 24-48 hours after grouting before using a tiled shower, and ideally 72 hours for best results. This allows adhesive and grout to fully cure. Using the shower too early can cause tiles to shift, grout to crack, or waterproofing to fail. Your tiler should seal grout and silicone joints — wait 24 hours after sealing before showering. For floor tiles, avoid heavy use for 24 hours, and don't place heavy furniture for at least 48 hours."
+    }
+  ],
+  "fencing": [
+    {
+      "question": "How much does fencing cost per metre in the UK?",
+      "answer": "Fencing costs vary by type: closeboard panels (most popular) cost £50-£80 per metre installed, lap panels cost £40-£60 per metre, picket fencing costs £45-£70 per metre, and trellis costs £30-£50 per metre. This includes panels, posts, concrete, and labour. For a typical 15-metre garden fence, expect to pay £750-£1,200. Higher or more robust fencing costs more. Always get quotes including removal of old fencing, which adds £10-£15 per metre."
+    },
+    {
+      "question": "How long does a fence last?",
+      "answer": "Pressure-treated softwood fencing (most common in UK gardens) lasts 15-25 years with proper maintenance. Cheaper, untreated fencing lasts only 5-10 years. Hardwood fencing lasts 25-40+ years but costs significantly more. Regular treatment with wood preserver or stain every 2-3 years extends fence life. Concrete posts last longer than wooden posts (which rot at ground level after 10-15 years). Metal or composite fencing lasts 30-50+ years but has higher upfront costs."
+    },
+    {
+      "question": "Do I need permission to put up a fence?",
+      "answer": "You don't need planning permission for most garden fencing if it's under 2 metres high (or 1 metre if next to a road/footpath). However, you may need permission if: your property is listed, in a conservation area, or designated land; the fence would obstruct a highway; or you're increasing the fence height significantly. Always check boundary lines on your deeds — you can only fence land you own. If the fence is on a boundary, discuss with neighbours first to avoid disputes."
+    },
+    {
+      "question": "Should fence panels be fitted to the inside or outside of posts?",
+      "answer": "Fence panels are typically fitted to the side facing your property (inside), with posts visible on the outside. This is the traditional method and means the 'good side' of the fence (smooth panel side) faces outward toward neighbours — considered polite in the UK. However, some prefer panels on the outside for a neater look from their garden. Discuss with your fencing contractor and, if it's a boundary fence, with your neighbour to agree on the arrangement."
+    },
+    {
+      "question": "Can I replace a fence myself or should I hire a professional?",
+      "answer": "Competent DIYers can install simple panel fencing, but it's physically demanding, requires tools (post hole digger, saw, level, drill), and takes 1-2 days for a typical garden. Professional fencing contractors work faster (often completing in a day), ensure posts are perfectly level and secure, dispose of old fencing, and guarantee their work. If the ground is uneven, access is difficult, or you need gates installed, professionals are strongly recommended. Labour costs £200-£400 for a typical 15m fence — often worth it for the time, effort, and quality."
+    }
+  ],
+  "pest-control": [
+    {
+      "question": "How much does pest control cost in the UK?",
+      "answer": "Pest control costs vary by pest type and property size. Typical costs: mice/rats treatment £80-£200, wasp nest removal £50-£120, bed bugs £150-£400, ants £80-£150, cockroaches £150-£300. Full house fumigation costs £300-£800+. Some pest controllers charge per visit (£80-£150), while others offer treatment packages. Emergency call-outs cost more. Always get quotes that specify the number of treatments included, as most pests require 2-3 visits for complete eradication."
+    },
+    {
+      "question": "Are pest control treatments safe for pets and children?",
+      "answer": "Professional pest control companies use approved pesticides that are safe when applied correctly. However, you should keep pets and children away during treatment and for the period specified by the technician (usually 2-4 hours). Modern treatments are targeted and use minimal chemicals. Inform the pest controller about pets, children, and any allergies beforehand. They can often use pet-safe alternatives or recommend non-chemical methods like heat treatment for bed bugs."
+    },
+    {
+      "question": "How quickly can pest control come out for an emergency?",
+      "answer": "For urgent infestations (wasps nests near entrances, severe rodent problems, commercial premises), most pest control companies aim to attend within 24-48 hours, with some offering same-day emergency services for an additional fee. Non-urgent issues may have 3-7 day waiting times. Emergency call-outs cost 20-50% more than standard appointments. For true emergencies like wasp nests in high-traffic areas, same-day service is often available."
+    },
+    {
+      "question": "Do I need multiple pest control treatments?",
+      "answer": "Yes, most pest problems require 2-3 treatments for complete eradication. Rodents typically need 2-4 visits to ensure all breeding cycles are interrupted. Bed bugs require at least 2 treatments spaced 10-14 days apart. Cockroaches need 2-3 treatments over 4-6 weeks. Single treatments rarely work because they don't eliminate eggs or breeding populations. Reputable pest controllers include follow-up visits in their quotes and offer guarantees (usually 3-12 months)."
+    },
+    {
+      "question": "Should I use professional pest control or DIY solutions?",
+      "answer": "For minor issues (single wasp nest, small ant problem), DIY treatments from hardware stores often work. However, professional pest control is recommended for: recurring infestations, rodents (rats/mice), bed bugs, cockroaches, or structural pests like woodworm. Professionals use stronger, more effective treatments, identify entry points and breeding sites, and provide guarantees. DIY attempts often fail or make problems worse, costing more in the long run. For health and safety reasons, always use professionals for commercial premises."
+    }
+  ],
+  "drainage": [
+    {
+      "question": "How much does drain unblocking cost?",
+      "answer": "Simple drain unblocking costs £80-£150 for a straightforward blockage cleared with rods or a drain snake. More complex blockages requiring high-pressure water jetting cost £150-£300. CCTV drain surveys (to identify problems) cost £100-£200. If excavation or repairs are needed, costs rise to £500-£2,000+ depending on depth and extent. Emergency drain clearance (evenings/weekends) costs £100-£250. Many drainage specialists offer fixed-price unblocking with CCTV survey included."
+    },
+    {
+      "question": "What causes drains to block?",
+      "answer": "Common causes include: fat, oil, and grease buildup from kitchens; wet wipes, sanitary products, and cotton buds flushed down toilets; hair and soap scum in bathroom drains; tree roots penetrating cracked pipes; collapsed or misaligned drains; foreign objects accidentally flushed; and heavy rainfall overwhelming combined sewers. Regular maintenance (monthly drain cleaner, not pouring grease down sinks, using drain guards) prevents most blockages. Old clay pipes are particularly prone to root infiltration and collapse."
+    },
+    {
+      "question": "Do I need a CCTV drain survey?",
+      "answer": "CCTV drain surveys are essential when: you have recurring blockages in the same location; you're buying a property and want to check drain condition; you're planning an extension or building work near drains; you suspect drain damage (subsidence, cracks in walls); or drainage specialists recommend it after clearing a blockage. The camera footage shows exact blockage locations, pipe damage, root infiltration, and structural issues. Costs £100-£200 but can save thousands by identifying problems early."
+    },
+    {
+      "question": "Who is responsible for blocked drains — me or the water company?",
+      "answer": "You're responsible for drains within your property boundary (private drains and lateral drains up to the point they connect to the public sewer). The water company is responsible for public sewers (shared drains serving multiple properties). If a blockage is in the public sewer, the water company must clear it for free. If it's your private drain, you pay. However, if a blockage in your drain is caused by issues in the public sewer (e.g., collapse), the water company may be liable. Your drainage specialist can advise on responsibility."
+    },
+    {
+      "question": "How often should drains be cleaned professionally?",
+      "answer": "Domestic drains don't usually need routine professional cleaning unless you have recurring problems. However, preventative maintenance is recommended for: commercial kitchens (every 3-6 months); properties with old clay drains (annual inspection); homes prone to blockages (6-12 months); and properties with trees near drains (annual check for root intrusion). Regular DIY maintenance (monthly enzyme drain cleaner, avoiding pouring grease, using sink strainers) prevents most blockages and reduces the need for professional intervention."
+    }
+  ],
+  "tree-surgeons": [
+    {
+      "question": "How much does tree surgery cost in the UK?",
+      "answer": "Tree surgery costs vary by job complexity and tree size. Tree felling (small to medium trees) costs £300-£800; large trees cost £800-£2,000+. Tree pruning/crown reduction costs £150-£600 depending on size. Stump grinding costs £80-£200 per stump. Emergency storm damage removal costs £500-£2,000+. Costs increase if access is difficult or if the tree is near buildings/power lines. Always get multiple quotes and check the tree surgeon is insured and qualified."
+    },
+    {
+      "question": "Do I need permission to cut down a tree in my garden?",
+      "answer": "It depends. You need permission if: the tree has a Tree Preservation Order (TPO) — check with your local council; you're in a conservation area (6 weeks' notice to the council required); or the tree is mentioned in planning conditions. You don't need permission for trees without TPOs outside conservation areas, but you must check first. Felling a protected tree without permission can result in fines up to £20,000. Your tree surgeon can advise, but always verify with your council's tree officer."
+    },
+    {
+      "question": "When is the best time to prune or fell trees?",
+      "answer": "The best time to prune most trees is during their dormant season (November to March in the UK) when sap flow is minimal and disease risk is lower. However, this varies by species: oak trees should be pruned in winter to avoid oak wilt; fruit trees benefit from summer pruning; and some species tolerate year-round pruning. Emergency storm damage can be addressed anytime. Tree felling can be done year-round but is easier in winter when leaves are down. Always consult a qualified tree surgeon for species-specific advice."
+    },
+    {
+      "question": "What qualifications should a tree surgeon have?",
+      "answer": "Reputable tree surgeons should have: NPTC (National Proficiency Tests Council) qualifications in chainsaw use and tree work; membership of the Arboricultural Association or similar professional body; public liability insurance (minimum £5 million, ideally £10 million); risk assessment and method statements (RAMS) for all work; and knowledge of relevant regulations (Tree Preservation Orders, conservation areas). Ask to see proof of qualifications and insurance. Avoid unqualified 'gardeners' offering tree work — tree surgery is dangerous and requires specialist training."
+    },
+    {
+      "question": "What's the difference between tree pruning and tree topping?",
+      "answer": "Tree pruning is the selective removal of branches to improve tree health, shape, or safety. It's done by qualified arborists following best practices (British Standard BS 3998). Tree topping (cutting the main trunk or removing large portions of the crown) is harmful, weakens the tree, encourages disease, and creates hazardous regrowth. Reputable tree surgeons never top trees. If someone suggests topping, get a second opinion from a qualified arborist. Proper crown reduction or thinning achieves the desired result without damaging the tree."
+    }
+  ],
+  "vehicle-recovery": [
+    {
+      "question": "How much does vehicle recovery cost in Birmingham?",
+      "answer": "Local vehicle recovery (under 10 miles) costs £60-£100 during normal hours. Medium distance (10-30 miles) costs £100-£150. Long-distance recovery is usually £2-£3 per mile. Evening, weekend, and motorway recoveries cost 20-50% more. Specialist recovery (for low sports cars, modified vehicles, or heavy vans) costs £100-£200+. If you have breakdown cover (AA, RAC, etc.), recovery may be included. Always get a price quote before recovery begins to avoid surprise charges."
+    },
+    {
+      "question": "What's the difference between breakdown cover and calling a recovery driver directly?",
+      "answer": "Breakdown cover (AA, RAC, Green Flag, etc.) is annual insurance. You pay upfront (£40-£200/year), and they send a recovery driver when needed. If you don't have breakdown cover, you call a recovery driver directly and pay the full cost (£60-£150+). Breakdown cover is cost-effective if you break down more than once a year or drive long distances. For a one-off local recovery, calling directly may be cheaper. Many recovery drivers offer 'pay as you go' roadside assistance or annual membership."
+    },
+    {
+      "question": "Can a recovery driver fix my car at the roadside?",
+      "answer": "Some recovery drivers offer basic roadside assistance: jump-starts (flat battery), tyre changes (if you have a spare), fuel delivery (if you've run out), and minor fixes like replacing blown fuses. However, most focus on transportation rather than repairs. If your breakdown requires mechanical work, they'll usually tow you to a garage. If you have breakdown cover, check what roadside assistance is included. Recovery drivers must have proper training and insurance to attempt repairs."
+    },
+    {
+      "question": "How quickly can a recovery driver reach me in Birmingham?",
+      "answer": "Most local recovery drivers aim for 30-60 minute response times for emergency callouts in Birmingham. Response can be longer during peak hours (rush hour, Friday evenings), bad weather, or if you're in a remote area. Motorway breakdowns are often prioritized due to safety concerns. When you call, ask for an estimated arrival time (ETA). Reputable recovery services track their vehicles via GPS and provide accurate updates. If stuck on a motorway, move to a safe location and call 999 if you're in immediate danger."
+    },
+    {
+      "question": "Is my vehicle insured while being recovered?",
+      "answer": "Legitimate recovery drivers must have 'goods in transit' insurance covering your vehicle while in their care (typically up to £5,000-£10,000). This protects against damage during loading, transport, and unloading. Always confirm the recovery driver has this insurance before letting them take your vehicle. Your own car insurance doesn't usually cover damage during recovery. If damage occurs, the recovery driver's insurance should cover it. Get the driver's insurance details and take photos before recovery for evidence if needed."
+    }
+  ],
+  "mobile-tyre-fitting": [
+    {
+      "question": "How much does mobile tyre fitting cost?",
+      "answer": "Mobile tyre fitting costs include the tyre itself (£40-£150+ per tyre depending on size and brand) plus fitting (£10-£20 per tyre) and a mobile call-out fee (£20-£40). Total cost for one tyre: £70-£210+. Most mobile fitters offer discounts for multiple tyres (e.g., 4 tyres fitted for £200-£600 total including call-out). This is comparable to garage prices but with the convenience of coming to your location. Emergency call-outs (evenings/weekends) may cost £50-£100 extra."
+    },
+    {
+      "question": "How long does mobile tyre fitting take?",
+      "answer": "Fitting one tyre typically takes 15-20 minutes. Fitting all four tyres takes 45-60 minutes. The fitter needs safe, level ground with enough space to work around your vehicle. They'll remove the old tyre, fit the new one, balance it, inflate to correct pressure, and dispose of the old tyre. Some mobile fitters can also repair punctures (20-30 minutes if repairable). Book a time when you'll be at home, work, or another safe location for 30-90 minutes depending on the job."
+    },
+    {
+      "question": "Can mobile tyre fitters repair punctures or only replace tyres?",
+      "answer": "Yes, most mobile tyre fitters can repair punctures if they're in the central tread area, smaller than 6mm, and the tyre hasn't been driven flat. Sidewall damage cannot be repaired. Puncture repairs cost £15-£40 and take 20-30 minutes. If the puncture is too large, the tyre is worn below the legal limit (1.6mm tread depth), or there's structural damage, replacement is necessary. The fitter will assess and advise — reputable fitters won't repair unsafe tyres."
+    },
+    {
+      "question": "Are mobile tyre fitters qualified and insured?",
+      "answer": "Reputable mobile tyre fitters should have: technical training in tyre fitting and balancing; public liability insurance covering any damage to your vehicle during fitting; professional equipment (tyre changing machine, balancing equipment, torque wrenches); membership of a trade body (e.g., TyreSafe, NTDA); and the ability to dispose of old tyres legally. Check reviews, ask about insurance, and ensure they provide a fitting guarantee. Avoid uncertified individuals offering cheap fitting — improper installation is dangerous."
+    },
+    {
+      "question": "Can I buy my own tyres and have a mobile fitter fit them?",
+      "answer": "Some mobile tyre fitters will fit tyres you've purchased online (often called 'part-worn fitting'), but many prefer to supply tyres themselves to control quality and provide warranties. Fitting-only services typically cost £15-£30 per tyre plus call-out (£20-£40). However, buying from the fitter often includes free fitting and guarantees. If you buy budget tyres online, ensure they meet UK legal standards (BS AU 50, ECE markings). Reputable fitters may refuse to fit tyres they consider unsafe or non-compliant."
+    }
+  ],
+  "emergency-glaziers": [
+    {
+      "question": "How much does emergency glazing cost?",
+      "answer": "Emergency glazing costs include call-out (£80-£150), temporary boarding up (£60-£120), and glass replacement (£80-£300+ per window depending on size and glass type). Total cost for emergency boarding and next-day glass replacement: £200-£500 for a standard window. Double glazing costs more (£150-£400 per unit). Emergency rates (evenings, weekends, nights) are 30-50% higher than daytime rates. Insurance often covers emergency glazing after burglaries or accidents — check your policy excess before calling."
+    },
+    {
+      "question": "How quickly can an emergency glazier attend?",
+      "answer": "Emergency glaziers typically aim for 1-2 hour response times for genuine emergencies (broken windows making property insecure, especially at night or after burglary). Response may be faster for urgent situations in built-up areas like Birmingham city centre. Non-urgent repairs (cracked but secure windows) may have longer wait times or next-day appointments. When calling, explain the urgency and security risk. Reputable glaziers prioritize vulnerable situations (elderly occupants, children, severe weather)."
+    },
+    {
+      "question": "What's the difference between boarding up and glass replacement?",
+      "answer": "Boarding up is a temporary measure where the glazier secures the broken window with plywood or plastic sheeting, making your property secure until permanent glass replacement can be arranged. This is done immediately during emergency call-outs (especially at night). Glass replacement follows (usually next day) when the correct glass is sourced and measured. Emergency glaziers often board up immediately (£60-£120) then return to fit new glass (£80-£400+ depending on glass type). Some carry common glass sizes and can replace immediately."
+    },
+    {
+      "question": "Will my home insurance cover emergency glazing?",
+      "answer": "Most home insurance policies cover accidental damage and malicious damage (vandalism, burglary) to windows. Check your policy documents for: glass cover (often included but may have an excess of £50-£150); whether emergency call-outs are covered; if you need to use the insurer's approved glaziers; and any limits on claim amounts. After a burglary, report to police first (you'll need a crime reference number). Take photos of damage before boarding up. Keep all receipts for insurance claims."
+    },
+    {
+      "question": "Can emergency glaziers fit double glazing or only single panes?",
+      "answer": "Emergency glaziers can fit both single and double glazing, but double-glazed units often need to be specially ordered and manufactured (taking 3-7 days). For immediate security, they'll board up or fit temporary single glazing, then return to install the correct double-glazed unit once it's ready. Some glaziers carry common double-glazed unit sizes for faster replacement. uPVC frame damage may also need specialist repair. Discuss options with the glazier — they can advise on temporary solutions until permanent repairs are completed."
+    }
+  ],
+  "appliance-repair": [
+    {
+      "question": "How much does appliance repair cost in the UK?",
+      "answer": "Appliance repair costs vary by appliance and fault. Call-out fees are £50-£80, then labour costs £40-£80 per hour plus parts. Common repairs: washing machine drum bearing £120-£200, dishwasher pump £80-£150, oven element £60-£120, fridge thermostat £80-£150. If the repair costs more than 50% of a new appliance's price, replacement is often more economical. Get a diagnosis and quote before committing to repairs. Some engineers waive call-out fees if you proceed with the repair."
+    },
+    {
+      "question": "Is it worth repairing or replacing a broken appliance?",
+      "answer": "Consider repair if: the appliance is under 5 years old; it's a high-end model; the repair costs less than 50% of replacement; the fault is simple (thermostat, element, pump). Consider replacement if: the appliance is over 10 years old; it's had multiple repairs; repair costs exceed 50-70% of new; it's a budget model; or it's inefficient (old fridges/freezers use much more energy than modern A-rated models). Your repair technician should advise honestly on the most cost-effective option."
+    },
+    {
+      "question": "How long does appliance repair take?",
+      "answer": "Simple repairs (changing an oven element, replacing a thermostat) take 30-60 minutes. More complex repairs (washing machine bearings, compressor replacement) take 1-3 hours. If parts need ordering, the repair may require two visits: one for diagnosis, then a second visit when parts arrive (3-7 days later). Emergency same-day repairs are available from some engineers but cost more. Book repairs when you'll be home for 2-4 hours to allow for diagnosis, parts, and fitting."
+    },
+    {
+      "question": "Are appliance repair technicians qualified?",
+      "answer": "Reputable appliance repair technicians should have: manufacturer training and certification (especially for warranty work); electrical safety qualifications (PAT testing, Part P for built-in appliances); public liability insurance; genuine parts or access to OEM (original equipment manufacturer) parts; and membership of trade bodies like AMDEA or APEX. Check reviews, ask about qualifications, and ensure they provide guarantees on repairs (typically 3-12 months). Avoid unqualified 'handymen' — appliance repair requires specialist knowledge and safety training."
+    },
+    {
+      "question": "Do appliance repairs come with a guarantee?",
+      "answer": "Yes, reputable appliance repair companies provide guarantees on both labour and parts (typically 3-6 months for parts, 12 months for labour). This means if the same fault recurs within the guarantee period, they'll fix it free of charge. Always ask about guarantees before booking repairs and get them in writing. Manufacturer repairs (for appliances under warranty) usually carry 12-month guarantees. If a repair fails quickly, it may indicate a deeper problem — the engineer should diagnose this rather than repeatedly fixing the same issue."
+    }
+  ],
+  "garage-door-repair": [
+    {
+      "question": "How much does garage door repair cost?",
+      "answer": "Garage door repairs vary by fault: spring replacement £80-£150, motor/opener repair £100-£250, cable replacement £60-£120, panel replacement £100-£300, track realignment £60-£120. Call-out fees are £40-£80. Emergency call-outs (door stuck closed trapping your car) cost £100-£200. Full garage door replacement costs £400-£1,500+ depending on size, material, and automation. Get multiple quotes for major repairs or replacements."
+    },
+    {
+      "question": "Why won't my garage door open or close?",
+      "answer": "Common causes include: broken springs (most common — door feels heavy or won't lift); faulty motor/opener (check power, remote batteries); misaligned tracks (door sticks or makes grinding noises); broken cables (door hangs unevenly); sensor issues (automatic doors won't close if sensors are blocked or misaligned); or remote control problems (replace batteries, reprogram remote). Never attempt to repair springs yourself — they're under extreme tension and can cause serious injury. Call a qualified garage door technician."
+    },
+    {
+      "question": "How long does garage door repair take?",
+      "answer": "Simple repairs (remote programming, sensor adjustment) take 15-30 minutes. Spring replacement takes 30-60 minutes. Motor/opener replacement takes 1-2 hours. Panel replacement takes 1-3 hours depending on damage. Full door installation takes 2-4 hours. Emergency repairs (stuck door) are prioritized and often completed within 2-4 hours of calling. The technician will diagnose the issue, quote for parts and labour, then complete repairs on the spot if parts are available."
+    },
+    {
+      "question": "Can I repair my garage door myself or should I hire a professional?",
+      "answer": "You can handle simple tasks like: replacing remote batteries, cleaning/lubricating tracks, tightening loose bolts, and cleaning sensors. However, NEVER attempt to repair or replace springs yourself — they're under extreme tension and can cause severe injury or death if released incorrectly. Motor, cable, and structural repairs should also be done by qualified technicians who have the right tools, parts, and safety knowledge. Professional repair costs £60-£250 but ensures safety and proper function."
+    },
+    {
+      "question": "How often should garage doors be serviced?",
+      "answer": "Garage doors should be serviced annually, especially if automated. Annual servicing includes: lubricating moving parts (hinges, rollers, tracks), checking spring tension and wear, testing auto-reverse safety features, inspecting cables and pulleys, tightening hardware, and checking motor/opener function. Regular servicing costs £60-£120 but prevents expensive breakdowns (spring replacements cost £80-£150). Well-maintained garage doors last 15-30 years; neglected doors fail prematurely and can be dangerous (especially heavy automated doors)."
+    }
+  ],
+  "skip-hire": [
+    {
+      "question": "How much does skip hire cost in the UK?",
+      "answer": "Skip hire costs vary by size and duration: mini skip (2-3 yards) costs £80-£150 for 1-2 weeks; midi skip (4-5 yards) costs £120-£200; builder's skip (6-8 yards) costs £180-£280; large skip (10-12 yards) costs £250-£400; and roll-on/roll-off skips (20-40 yards) cost £400-£800+. Prices include delivery, collection, and disposal. Extra charges apply for: permit fees if the skip goes on the road (£20-£60), extended hire beyond 2 weeks (£10-£20/week), and certain waste types (asbestos, tyres, fridges)."
+    },
+    {
+      "question": "What size skip do I need?",
+      "answer": "Mini skip (2-3 yards): small bathroom refit, garden clearance. Midi skip (4-5 yards): kitchen refit, large garden clearance. Builder's skip (6-8 yards): most common size, suitable for full room renovations, replacing a roof, large clearances. Large skip (10-12 yards): multi-room renovations, garage clearance, full house clearance. Roll-on/roll-off (20-40 yards): complete house renovation, commercial projects. If unsure, describe your project to the skip hire company — they'll recommend the right size. It's better to slightly oversize than undersize."
+    },
+    {
+      "question": "Do I need a permit for a skip?",
+      "answer": "You need a permit (from your local council, costs £20-£60) if the skip will be placed on a public road, pavement, or grass verge. You DON'T need a permit if the skip goes on your private property (driveway, front garden). Some skip hire companies arrange permits for you (fee added to your invoice); others require you to obtain it. Permit applications take 3-5 working days to process, so plan ahead. Placing a skip on the road without a permit can result in fines and the skip being removed."
+    },
+    {
+      "question": "What can't I put in a skip?",
+      "answer": "Items banned from skips include: asbestos (requires specialist disposal), electrical items (fridges, freezers, TVs — WEEE regulations), batteries, tyres, fluorescent tubes, gas bottles, paints/solvents, food waste, medical waste, and hazardous chemicals. Some skip companies accept mattresses and plasterboard for an extra fee. Mixing prohibited items can result in additional charges (£50-£200+) or refusal to collect. If you have banned items, ask the skip company about specialist disposal or take them to your local recycling centre."
+    },
+    {
+      "question": "How long can I keep a skip for?",
+      "answer": "Standard skip hire is 1-2 weeks (included in the base price). If you need longer, most companies offer extended hire for £10-£20 per additional week. For long-term projects (over 4 weeks), negotiate a rate upfront or arrange for the skip to be collected and replaced when full. Skips left on the road require permit renewals if kept beyond the permitted period (usually 2-4 weeks). Plan your project timeline to maximize the hire period and avoid extra charges."
+    }
+  ]
+}

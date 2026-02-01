@@ -1,0 +1,4248 @@
+[
+  {
+    "name": "A.B Plastering & Rendering",
+    "slug": "ab-plastering-rendering",
+    "trade_type": "plasterers",
+    "area": "Birmingham",
+    "phone": "07864 670314",
+    "email": "",
+    "website_url": "",
+    "description": "Top-rated plastering and rendering service based in Birmingham. Owner Adam delivers outstanding quality at competitive prices, with a perfect 5-star Google rating across 64 reviews.",
+    "services": [
+      "Plastering",
+      "Rendering",
+      "Skimming",
+      "Dry Lining",
+      "Patch Repairs"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Kings Heath",
+      "Hall Green",
+      "Moseley",
+      "Solihull"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Outstanding quality and competitive prices. Adam is brilliant at what he does.",
+        "date": "2025-11-15"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Fantastic plastering work throughout our house. Clean, tidy, and professional from start to finish.",
+        "date": "2025-09-20"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 64,
+    "featured": true,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Solihull Handyman",
+    "slug": "solihull-handyman",
+    "trade_type": "handymen",
+    "area": "Solihull",
+    "phone": "07565 562834",
+    "email": "",
+    "website_url": "",
+    "description": "Versatile handyman service run by Dean, covering Solihull and surrounding areas. From furniture assembly and TV mounting to blinds, electrics, and general repairs. 52 reviews and counting.",
+    "services": [
+      "Furniture Assembly",
+      "TV Mounting",
+      "Blinds Fitting",
+      "Minor Electrics",
+      "General Repairs",
+      "Shelving",
+      "Odd Jobs"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Shirley",
+      "Knowle",
+      "Hall Green",
+      "Dorridge"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Dean is a lovely, polite gentleman who's highly skilled. Did a brilliant job.",
+        "date": "2025-10-12"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 4,
+        "text": "Great work fitting our blinds and mounting the TV. Tidy and professional.",
+        "date": "2025-08-05"
+      }
+    ],
+    "rating": 4.6,
+    "review_count": 52,
+    "featured": true,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Mayfield Heating and Plumbing",
+    "slug": "mayfield-heating-and-plumbing",
+    "trade_type": "gas-engineers",
+    "area": "Redditch",
+    "phone": "07730 052127",
+    "email": "",
+    "website_url": "",
+    "description": "Gas Safe registered heating and plumbing specialists based in Redditch. Run by Ali and Naz, known for going above and beyond \u2014 including emergency call-outs on New Year's Day. Perfect 5-star rating.",
+    "services": [
+      "Boiler Installation",
+      "Boiler Repair",
+      "Gas Safety Checks",
+      "Central Heating",
+      "Radiator Installation",
+      "Emergency Plumbing"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Bromsgrove",
+      "Studley",
+      "Alcester",
+      "Astwood Bank"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Ali and Naz went above and beyond on New Year's Day. Absolute lifesavers!",
+        "date": "2025-01-02"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Very professional and reasonably priced.",
+        "date": "2025-10-18"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 29,
+    "featured": true,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [
+      "Gas Safe"
+    ],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "JBA Gardens Ltd",
+    "slug": "jba-gardens-ltd",
+    "trade_type": "landscapers",
+    "area": "Solihull",
+    "phone": "0121 517 1920",
+    "email": "",
+    "website_url": "https://www.jbagardens.co.uk",
+    "description": "Family-run landscaping company based in Solihull, established in 2010. Run by brothers James and David with over 30 years combined experience. Specialists in all aspects of hard landscaping with a focus on quality, honesty, punctuality and reliability.",
+    "services": [
+      "Hard Landscaping",
+      "Patios",
+      "Block Paving",
+      "Walls",
+      "Fencing",
+      "Decking",
+      "Turfing",
+      "Raised Beds",
+      "Garden Design",
+      "Lawn Mowing",
+      "High Pressure Cleaning",
+      "Pressure Washing",
+      "Soft Landscaping"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Shirley",
+      "Knowle",
+      "Dorridge",
+      "Hall Green",
+      "Moseley"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "From start to finish, professional, polite, considerate of neighbours. Brilliant patio work.",
+        "date": "2025-09-10"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "James and the team transformed our garden completely. Couldn't be happier with the result.",
+        "date": "2025-07-22"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 27,
+    "featured": true,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Skye's the Limit Landscaping and Fencing",
+    "slug": "skyes-the-limit-landscaping",
+    "trade_type": "landscapers",
+    "area": "Solihull",
+    "phone": "07554 427983",
+    "email": "Skyesthelimitlandscapes@outlook.com",
+    "website_url": "",
+    "description": "Local landscape and fencing provider based in Solihull, covering all aspects of garden work.",
+    "services": [
+      "Landscaping",
+      "Fencing",
+      "Garden Design",
+      "Garden Maintenance"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Shirley",
+      "Birmingham",
+      "Hall Green",
+      "Knowle"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Fantastic fencing work. The lads were friendly, professional and left everything tidy.",
+        "date": "2025-08-15"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Great job on our new patio. Really pleased with the finish.",
+        "date": "2025-06-20"
+      }
+    ],
+    "rating": 4.8,
+    "review_count": 22,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Hughes Garden Maintenance",
+    "slug": "hughes-garden-maintenance",
+    "trade_type": "landscapers",
+    "area": "Solihull",
+    "phone": "07882 898739",
+    "email": "",
+    "website_url": "",
+    "description": "Highly rated garden maintenance service in the Solihull area. 35 perfect reviews on Google. Reliable, tidy, and always leave the garden looking its best.",
+    "services": [
+      "Garden Maintenance",
+      "Lawn Care",
+      "Hedge Trimming",
+      "Garden Clearance",
+      "Turfing",
+      "Planting"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Shirley",
+      "Hall Green",
+      "Knowle"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Fantastic job, always leave the garden looking tidy. Highly recommended.",
+        "date": "2025-11-01"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Reliable and professional. Been using them for over a year now and always impressed.",
+        "date": "2025-08-28"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 35,
+    "featured": true,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Astwood Bank Roofing",
+    "slug": "astwood-bank-roofing",
+    "trade_type": "roofers",
+    "area": "Redditch",
+    "phone": "01527 892829",
+    "email": "",
+    "website_url": "",
+    "description": "Experienced roofing contractor run by Steve, based in Astwood Bank near Redditch. Known for prompt service, high-standard work, and fair pricing. 4.8-star Google rating.",
+    "services": [
+      "Roofing",
+      "Roof Repairs",
+      "Guttering",
+      "Fascias & Soffits",
+      "Building Maintenance"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Astwood Bank",
+      "Bromsgrove",
+      "Studley"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Steve was very prompt, high standard work, completed in half the time I expected.",
+        "date": "2025-10-05"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Fair pricing and excellent workmanship. Would definitely use again.",
+        "date": "2025-07-18"
+      }
+    ],
+    "rating": 4.8,
+    "review_count": 16,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Daniel Ellis Roofing Ltd",
+    "slug": "daniel-ellis-roofing",
+    "trade_type": "roofers",
+    "area": "Redditch",
+    "phone": "07977 250792",
+    "email": "daniel-ellis-84@hotmail.co.uk",
+    "website_url": "https://www.danielellisroofing.com",
+    "description": "Professional roofing company based in Redditch with over 30 years experience. Covers all aspects of roof construction and repairs for domestic, commercial, house builders and developers. Ltd company established 2019.",
+    "services": [
+      "Complete Re-Roofing",
+      "Roof Repairs",
+      "Slate Roofing",
+      "Felt Roofing",
+      "Roof Tiling",
+      "Leadwork",
+      "Roof Cleaning",
+      "Guttering"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Bromsgrove",
+      "Studley",
+      "Astwood Bank"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "They did a great job of repairing my Mum's roof. Very pleased with the result.",
+        "date": "2025-09-12"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 4,
+        "text": "Good quality work at a reasonable price. Would recommend.",
+        "date": "2025-06-30"
+      }
+    ],
+    "rating": 4.6,
+    "review_count": 11,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Russells Roofing",
+    "slug": "russells-roofing",
+    "trade_type": "roofers",
+    "area": "Redditch",
+    "phone": "07866 091462",
+    "email": "",
+    "website_url": "",
+    "description": "Reliable roofing service based in Redditch, delivering high-standard roofing work across the local area.",
+    "services": [
+      "Roof Repairs",
+      "Ridge Tiles",
+      "Flat Roofing",
+      "Guttering"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Bromsgrove",
+      "Astwood Bank"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "They have done the job to a very high standard. Really pleased.",
+        "date": "2025-08-22"
+      }
+    ],
+    "rating": 4.7,
+    "review_count": 8,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Redditch Roofing Ltd",
+    "slug": "redditch-roofing-ltd",
+    "trade_type": "roofers",
+    "area": "Redditch",
+    "phone": "07925 218139",
+    "email": "",
+    "website_url": "",
+    "description": "Local roofing contractor serving Redditch and surrounding areas. Customers praise their professionalism and quality workmanship.",
+    "services": [
+      "Roof Repairs",
+      "Full Re-roofs",
+      "Flat Roofing",
+      "Guttering",
+      "Chimney Work"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Bromsgrove",
+      "Studley",
+      "Alcester"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Very happy with our experience. Professional team and great results.",
+        "date": "2025-07-10"
+      }
+    ],
+    "rating": 4.7,
+    "review_count": 10,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Topview1 Roofing",
+    "slug": "topview1-roofing",
+    "trade_type": "roofers",
+    "area": "Redditch",
+    "phone": "01527 337098",
+    "email": "",
+    "website_url": "",
+    "description": "Established roofing company based at The Business Centre, Edward Street, Redditch. Covering all aspects of roofing across the local area.",
+    "services": [
+      "Roof Repairs",
+      "Full Re-roofs",
+      "Flat Roofing",
+      "Guttering",
+      "Fascias & Soffits"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Bromsgrove",
+      "Studley",
+      "Astwood Bank"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Professional job done quickly and to a high standard. Recommended.",
+        "date": "2025-06-15"
+      }
+    ],
+    "rating": 4.5,
+    "review_count": 6,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Locked Out Locksmiths",
+    "slug": "locked-out-locksmiths",
+    "trade_type": "locksmiths",
+    "area": "Solihull",
+    "phone": "0330 010 1019",
+    "email": "",
+    "website_url": "",
+    "description": "24-hour emergency locksmith based on Warwick Road, Solihull. Covering lockouts, lock repairs, key cutting, and digital lock installations across Solihull and Birmingham.",
+    "services": [
+      "Emergency Lockouts",
+      "Lock Repair",
+      "Lock Replacement",
+      "Key Cutting",
+      "Digital Lock Installation",
+      "Home Security"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Birmingham",
+      "Shirley",
+      "Knowle",
+      "Hall Green"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Helped with a digital lock install. Quick, professional, and great price.",
+        "date": "2025-10-20"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Called at midnight after locking myself out. Arrived in 20 minutes. Lifesaver!",
+        "date": "2025-08-14"
+      }
+    ],
+    "rating": 4.8,
+    "review_count": 15,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "JP Plastering",
+    "slug": "jp-plastering",
+    "trade_type": "plasterers",
+    "area": "Birmingham",
+    "phone": "07812 774787",
+    "email": "",
+    "website_url": "",
+    "description": "Fully qualified local plastering company based in Solihull, covering Birmingham and surrounding areas. Aims to exceed customer expectations and leaves every job clean and tidy.",
+    "services": [
+      "Plastering",
+      "Skimming",
+      "Rendering",
+      "Dry Lining",
+      "Coving"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Shirley",
+      "Birmingham",
+      "Knowle",
+      "Dorridge"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Best plasterer in the Midlands, fair priced. Can't fault the work.",
+        "date": "2025-11-08"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Brilliant finish on our living room ceiling. Neat, tidy, and affordable.",
+        "date": "2025-09-15"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 20,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "CORELEC Ltd Electrical Services",
+    "slug": "corelec-ltd",
+    "trade_type": "electricians",
+    "area": "Solihull",
+    "phone": "07827 917677",
+    "email": "",
+    "website_url": "",
+    "description": "NICEIC Approved electrical contractor based in Solihull. Fully qualified and insured, covering domestic, commercial and industrial installations. Specialist in inspection & testing, fault finding, and electrical maintenance.",
+    "services": [
+      "Electrical Installation",
+      "Inspection & Testing",
+      "Fault Finding & Rectification",
+      "Electrical Maintenance",
+      "Domestic Electrical",
+      "Commercial Electrical",
+      "Industrial Electrical"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Shirley",
+      "Knowle",
+      "Hall Green",
+      "Birmingham"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Reasonable quote, did the job quickly and was very polite. Would use again.",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Great work installing new sockets throughout the house. Clean and professional.",
+        "date": "2025-07-20"
+      }
+    ],
+    "rating": 4.8,
+    "review_count": 12,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [
+      "NICEIC Approved Contractor",
+      "Fully Insured"
+    ],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Four Walls Painting & Decorating",
+    "slug": "four-walls-painting-decorating",
+    "trade_type": "painters",
+    "area": "Birmingham",
+    "phone": "07970 650744",
+    "email": "",
+    "website_url": "",
+    "description": "Quality painting and decorating service based in Kings Norton, Birmingham. Female professional decorator who is CRB checked, delivering work quickly and tidily.",
+    "services": [
+      "Interior Painting",
+      "Exterior Painting",
+      "Decorating",
+      "Wallpapering"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Kings Norton",
+      "Northfield",
+      "Bournville",
+      "Selly Oak"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Fay was fast and accurate. Our rooms look great \u2014 really pleased with the finish.",
+        "date": "2025-09-25"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Brilliant decorator. Transformed our hallway and landing. Highly recommend.",
+        "date": "2025-07-12"
+      }
+    ],
+    "rating": 4.8,
+    "review_count": 15,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [
+      "CRB Checked"
+    ],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "JB Services Fencing & Landscaping",
+    "slug": "jb-services-fencing-landscaping",
+    "trade_type": "landscapers",
+    "area": "Redditch",
+    "phone": "07516 420861",
+    "email": "",
+    "website_url": "",
+    "description": "Fencing and landscaping specialists based in Redditch. Quality workmanship with outstanding attention to detail. Available 24 hours.",
+    "services": [
+      "Fencing",
+      "Landscaping",
+      "Patios",
+      "Garden Clearance",
+      "Turfing",
+      "Decking"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Bromsgrove",
+      "Studley",
+      "Astwood Bank",
+      "Alcester"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Quality of work and attention to detail was outstanding. Couldn't be happier.",
+        "date": "2025-10-30"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "New fence and patio look fantastic. Professional team, fair price.",
+        "date": "2025-08-10"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 18,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "RoofTec Developments",
+    "slug": "rooftec-developments",
+    "trade_type": "roofers",
+    "area": "Redditch",
+    "phone": "07931 229547",
+    "email": "",
+    "website_url": "",
+    "description": "Expert roofing solutions based in Studley, covering Redditch and surrounding areas. Provides new roof installations, repairs, guttering, cladding and flat roofing for homes and businesses.",
+    "services": [
+      "New Roof Installations",
+      "Roof Repairs",
+      "Guttering",
+      "Cladding",
+      "Flat Roofing"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Studley",
+      "Bromsgrove",
+      "Alcester"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Refelted our flat roof and replaced a missing ridge tile. Great job, fair price.",
+        "date": "2025-09-05"
+      }
+    ],
+    "rating": 4.6,
+    "review_count": 8,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Inline Fencing Redditch",
+    "slug": "inline-fencing-redditch",
+    "trade_type": "fencing",
+    "area": "Redditch",
+    "phone": "07575 543989",
+    "email": "",
+    "website_url": "",
+    "description": "Top quality fencing and garden services in Redditch. Built to last with no cut corners \u2014 transparency and client satisfaction are key. Offers 7.5% discount on materials. Highly rated on Checkatrade and Google.",
+    "services": [
+      "Garden Fencing",
+      "Block Paving",
+      "Paving & Driveways",
+      "Garden Clearance",
+      "Garden Makeovers",
+      "Garden Drainage",
+      "Hedging",
+      "Wire Fencing",
+      "Tree Surgery",
+      "Turf & Soil Supplies"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Studley",
+      "Bromsgrove",
+      "Alcester"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Absolutely amazing job, done quickly and competently. Really pleased.",
+        "date": "2025-08-18"
+      }
+    ],
+    "rating": 4.8,
+    "review_count": 10,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Healthy Heating & Plumbing",
+    "slug": "healthy-heating-plumbing",
+    "trade_type": "gas-engineers",
+    "area": "Redditch",
+    "phone": "",
+    "email": "",
+    "website_url": "",
+    "description": "Gas engineer and central heating specialist based in Redditch. Perfect 5-star Google rating with 11 reviews. Gas Safe registered for all boiler and heating work.",
+    "services": [
+      "Boiler Repair",
+      "Boiler Installation",
+      "Central Heating",
+      "Gas Safety Checks",
+      "Radiator Installation"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Bromsgrove",
+      "Studley",
+      "Astwood Bank"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Excellent service, very professional. Fixed our boiler issue quickly.",
+        "date": "2025-11-20"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Reliable and honest gas engineer. Highly recommended.",
+        "date": "2025-09-08"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 11,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [
+      "Gas Safe"
+    ],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Multi Fix",
+    "slug": "multi-fix-handyman",
+    "trade_type": "handymen",
+    "area": "Birmingham",
+    "phone": "07527 170348",
+    "email": "",
+    "website_url": "https://multifix247.wixsite.com/website",
+    "description": "Top 3 rated handyman in Birmingham by ThreeBestRated. Whether you already have materials or need them picked up, Multi Fix handles everything from hanging shelves to full renovations.",
+    "services": [
+      "Shelving",
+      "Light Bulb Replacement",
+      "Full Renovations",
+      "Furniture Assembly",
+      "General Repairs",
+      "Painting",
+      "Plumbing Fixes",
+      "Carpentry"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Kings Heath",
+      "Moseley",
+      "Hall Green",
+      "Solihull"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Arrived on time, completed the job promptly. Very professional.",
+        "date": "2025-10-15"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 4,
+        "text": "Good handyman, did several jobs around the house in one visit. Fair price.",
+        "date": "2025-08-02"
+      }
+    ],
+    "rating": 4.6,
+    "review_count": 14,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Angel Plastering Services",
+    "slug": "angel-plastering-services",
+    "trade_type": "plasterers",
+    "area": "Birmingham",
+    "phone": "07507 145205",
+    "email": "",
+    "website_url": "",
+    "description": "Father and son plastering team \u2014 Dave and Gareth Hall. Based in Shirley, Birmingham. 22 reviews at 4.9 stars. Known for quality plastering and excellent customer service.",
+    "services": [
+      "Plastering",
+      "Skimming",
+      "Rendering",
+      "Dry Lining",
+      "Patch Repairs",
+      "Coving"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Shirley",
+      "Solihull",
+      "Hall Green",
+      "Kings Heath"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Dave and Gareth did a fantastic job. Clean, professional, and reasonably priced.",
+        "date": "2025-10-25"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Brilliant plastering throughout our house. Would highly recommend the Hall Brothers.",
+        "date": "2025-08-30"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 22,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "A D Bruce Carpentry",
+    "slug": "ad-bruce-carpentry",
+    "trade_type": "carpenters",
+    "area": "Solihull",
+    "phone": "07952 224566",
+    "email": "",
+    "website_url": "",
+    "description": "Domestic carpentry specialist based in Solihull. Undertakes all aspects of carpentry including doors, windows, stairs, flooring, cupboards, decking and fencing. Provides a speedy, friendly and professional service.",
+    "services": [
+      "Doors & Windows",
+      "uPVC Doors & Windows",
+      "Stair Balustrades",
+      "Handrails & Spindles",
+      "Laminate Flooring",
+      "Cupboards",
+      "Decking",
+      "Fencing",
+      "Flat Pack Assembly"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Shirley",
+      "Knowle",
+      "Hall Green",
+      "Birmingham"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Customer centred tradesmen. Our French fold doors look great!",
+        "date": "2025-09-18"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Andy and Jamie did a brilliant job with our fitted wardrobes. Highly skilled.",
+        "date": "2025-07-05"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 3,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Fitzmaurice Construction",
+    "slug": "fitzmaurice-construction",
+    "trade_type": "builders",
+    "area": "Redditch",
+    "phone": "07537 921764",
+    "email": "",
+    "website_url": "",
+    "description": "Carpentry and building services based in Redditch. Professional and reliable team with competitive rates and free quotes. 5-star rated on Bark for loft conversions. Serves Redditch, Birmingham and surrounding areas.",
+    "services": [
+      "Extensions",
+      "Loft Conversions",
+      "Renovations",
+      "Carpentry",
+      "General Building"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Birmingham",
+      "Bromsgrove",
+      "Solihull"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Best price and most professional builder we spoke to. Excellent extension work.",
+        "date": "2025-06-10"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Chris and the team did a fantastic job on our renovation. Highly recommend.",
+        "date": "2025-03-15"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 2,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Mark Elsmore Fencing",
+    "slug": "mark-elsmore-fencing",
+    "trade_type": "fencing",
+    "area": "Redditch",
+    "phone": "01527 541440",
+    "email": "",
+    "website_url": "",
+    "description": "Established fencing contractor based in Headless Cross, Redditch. Provides fencing, paving, block paving, landscaping and gates for domestic customers.",
+    "services": [
+      "Garden Fencing",
+      "Paving & Driveways",
+      "Block Paving",
+      "Landscaping",
+      "Gates & Railings"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Headless Cross",
+      "Astwood Bank",
+      "Studley",
+      "Bromsgrove"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Great fencing work, neat and tidy. Mark is reliable and fairly priced.",
+        "date": "2025-08-05"
+      }
+    ],
+    "rating": 4.7,
+    "review_count": 5,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "T S Tiling",
+    "slug": "ts-tiling",
+    "trade_type": "tilers",
+    "area": "Redditch",
+    "phone": "07732 594343",
+    "email": "",
+    "website_url": "",
+    "description": "Redditch-based tiler with over 10 years experience. Experienced in mosaics, ceramic, porcelain and all kinds of natural stone. Also provides aqua boarding, underfloor heating and all kinds of wood flooring.",
+    "services": [
+      "Ceramic Tiling",
+      "Porcelain Tiling",
+      "Mosaic Tiling",
+      "Natural Stone Tiling",
+      "Aqua Boarding",
+      "Underfloor Heating",
+      "Solid Wood Flooring",
+      "Engineered Wood Flooring",
+      "Laminate Flooring"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Birmingham",
+      "Solihull",
+      "Bromsgrove",
+      "Studley"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Andy did an amazing job with our kitchen tiles. Neat, precise, and great value.",
+        "date": "2025-09-22"
+      }
+    ],
+    "rating": 4.8,
+    "review_count": 8,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "R W B Plumbing",
+    "slug": "rwb-plumbing",
+    "trade_type": "plumbers",
+    "area": "Birmingham",
+    "phone": "07947 346245",
+    "email": "",
+    "website_url": "",
+    "description": "Local plumber covering Birmingham and surrounding areas. Available for all domestic plumbing work including repairs, installations, and emergency call-outs.",
+    "services": [
+      "Emergency Plumbing",
+      "Bathroom Fitting",
+      "Tap Repairs",
+      "Leak Repairs",
+      "Radiator Installation"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Kings Heath",
+      "Moseley",
+      "Hall Green"
+    ],
+    "reviews": [],
+    "rating": 0,
+    "review_count": 0,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Lees Handyman Services",
+    "slug": "lees-handyman-services",
+    "trade_type": "handymen",
+    "area": "Solihull",
+    "phone": "07751 361215",
+    "email": "",
+    "website_url": "",
+    "description": "Property maintenance services based in Solihull, covering Shirley, Birmingham City Centre and South Warwickshire. Provides a range of maintenance services for businesses and private households.",
+    "services": [
+      "General Repairs",
+      "Furniture Assembly",
+      "Shelving",
+      "Painting",
+      "Odd Jobs"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Shirley",
+      "Birmingham City Centre",
+      "South Warwickshire"
+    ],
+    "reviews": [],
+    "rating": 0,
+    "review_count": 0,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Doctor Locks",
+    "slug": "doctor-locks",
+    "trade_type": "locksmiths",
+    "area": "Solihull",
+    "phone": "0121 369 9878",
+    "email": "",
+    "website_url": "https://doctor-locks.co.uk",
+    "description": "Specialist locksmith in Birmingham with 240+ five-star reviews. Provides residential, commercial and emergency locksmith services using non-destructive methods. Available 24/7 for lockouts, lock changes, and security upgrades.",
+    "services": [
+      "Emergency Lockouts",
+      "Lock Repair & Replacement",
+      "Key Cutting & Duplication",
+      "Home Security Consultations",
+      "Lock Installation",
+      "Master Key Systems",
+      "Access Control Systems",
+      "Safe Installation & Opening",
+      "Security Audits",
+      "Keyless Entry Systems",
+      "Anti-Snap Locks",
+      "uPVC Door Locks"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Birmingham",
+      "Redditch",
+      "Bromsgrove",
+      "Sutton Coldfield",
+      "Shirley"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Called them after being locked out at 11pm. Arrived within 30 minutes and had me back in quickly. Fantastic service.",
+        "date": "2025-12-10"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Upgraded all our locks after a break-in. Professional, knowledgeable, and reassuring. Highly recommend.",
+        "date": "2025-10-28"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "20+ years experience really shows. Best locksmith in the area by far.",
+        "date": "2025-08-15"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 240,
+    "featured": true,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "J.F. Locksmiths",
+    "slug": "jf-locksmiths-birmingham",
+    "trade_type": "locksmiths",
+    "area": "Birmingham",
+    "phone": "",
+    "email": "",
+    "website_url": "https://jflocksmithsbirmingham.com",
+    "description": "24/7 locksmith with 30+ years experience and 190+ five-star reviews. Which? Trusted Trader accredited and DBS-checked. No call-out charge during working hours, 30-60 minute response time across Birmingham and West Midlands.",
+    "services": [
+      "Emergency Lockouts",
+      "Lock Changing & Replacement",
+      "uPVC Door Locks",
+      "Car Key Locksmith",
+      "Key Extraction",
+      "Anti-Snap Locks",
+      "Key Cutting",
+      "Commercial Locksmith",
+      "Residential Locksmith"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Tamworth",
+      "Walsall",
+      "Wolverhampton",
+      "Dudley",
+      "West Bromwich"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "30-minute response time as promised. Professional, no hidden charges. The best locksmith in Birmingham.",
+        "date": "2025-11-22"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Which? Trusted Trader for good reason. Fantastic emergency service when we were locked out with the kids.",
+        "date": "2025-09-30"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "No call-out charge and had us back in within the hour. Can't recommend enough.",
+        "date": "2025-07-14"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 190,
+    "featured": true,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [
+      "Which? Trusted Trader",
+      "DBS Checked"
+    ],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Solihull Gas and Heating Solutions",
+    "slug": "solihull-gas-heating-solutions",
+    "trade_type": "gas-engineers",
+    "area": "Redditch",
+    "phone": "",
+    "email": "",
+    "website_url": "https://www.sghs.co.uk",
+    "description": "Friendly local heating engineers based in Redditch, serving Solihull, Bromsgrove and surrounding areas. Gas Safe registered for all boiler, heating and gas work. Free quotations on all services.",
+    "services": [
+      "Boiler Repair",
+      "Boiler Installation",
+      "Boiler Servicing",
+      "Gas Safety Checks",
+      "Gas Fire Servicing",
+      "Radiator Replacement",
+      "Central Heating"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Solihull",
+      "Bromsgrove",
+      "Knowle",
+      "Hampton in Arden",
+      "Wythall"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Family-run business that really cares. Fixed our boiler quickly and at a fair price.",
+        "date": "2025-11-05"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Annual service done professionally. Trustworthy and reliable gas engineer.",
+        "date": "2025-08-20"
+      }
+    ],
+    "rating": 4.8,
+    "review_count": 15,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [
+      "Gas Safe Registered"
+    ],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "J M Plumbing & Heating",
+    "slug": "jm-plumbing-heating",
+    "trade_type": "plumbers",
+    "area": "Birmingham",
+    "phone": "",
+    "email": "",
+    "website_url": "https://jmplumbingheating.co.uk",
+    "description": "Fully qualified plumber and heating engineer based in Birmingham, covering Solihull, Redditch and Bromsgrove. Gas Safe registered with NVQ qualifications. 17 reviews with excellent ratings for professionalism and reliability.",
+    "services": [
+      "Boiler Installation",
+      "Central Heating Installation",
+      "Boiler Servicing",
+      "General Plumbing",
+      "Powerflushing",
+      "Radiator Installation",
+      "Gas Work",
+      "Tiling"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Redditch",
+      "Bromsgrove"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "James is professional, honest, and does excellent work. Fitted our new boiler perfectly.",
+        "date": "2025-10-12"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Great plumber \u2014 reliable, tidy, and very fairly priced. Highly recommend.",
+        "date": "2025-07-28"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 17,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [
+      "Gas Safe Registered",
+      "NVQ Level 2 Plumbing",
+      "NVQ Level 2 Tiling",
+      "Fully Insured"
+    ],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "PG Landscapes & General Builders",
+    "slug": "pg-landscapes-general-builders",
+    "trade_type": "landscapers",
+    "area": "Solihull",
+    "phone": "0121 243 3543",
+    "email": "",
+    "website_url": "",
+    "description": "Dual-trade landscaping and general building service based in the Solihull area. Handles everything from garden transformations to structural building work.",
+    "services": [
+      "Landscaping",
+      "Patios",
+      "Fencing",
+      "Extensions",
+      "General Building",
+      "Garden Design"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Shirley",
+      "Birmingham",
+      "Hall Green",
+      "Knowle"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Great landscaping work on our back garden. Professional team.",
+        "date": "2025-09-14"
+      }
+    ],
+    "rating": 4.5,
+    "review_count": 5,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Solihull Sparky Limited",
+    "slug": "solihull-sparky",
+    "trade_type": "electricians",
+    "area": "Solihull",
+    "phone": "0121 244 3970",
+    "email": "tristan@solihullsparky.co.uk",
+    "website_url": "https://solihullsparky.co.uk",
+    "description": "Local electrician serving Solihull and Birmingham. Offering emergency electrical services, LED lighting upgrades, and full domestic and commercial electrical work. Highly recommended on Google and Nextdoor.",
+    "services": [
+      "Emergency Electrical",
+      "LED Lighting Upgrades",
+      "Domestic Electrical",
+      "Commercial Electrical",
+      "Rewiring",
+      "Fuse Board Upgrades"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Birmingham",
+      "Castle Bromwich",
+      "Sheldon"
+    ],
+    "reviews": [
+      {
+        "author": "Chris H.",
+        "rating": 5,
+        "text": "Excellent service, very polite, very efficient, good price.",
+        "date": "2024-06-25"
+      }
+    ],
+    "rating": 4.8,
+    "review_count": 28,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [
+      "Checkatrade"
+    ],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Birmingham Emergency Electrician",
+    "slug": "birmingham-emergency-electrician",
+    "trade_type": "electricians",
+    "area": "Birmingham",
+    "phone": "07480 535929",
+    "email": "",
+    "website_url": "https://birminghamemergencyelectrician.co.uk",
+    "description": "24/7 emergency electrician serving Birmingham for both residential and commercial properties. Handles everything from power outages and alarm faults to complete emergency rewiring. Clear upfront pricing with no hidden costs.",
+    "services": [
+      "Emergency Electrical Repair",
+      "Fuse Board Replacement",
+      "Emergency Rewiring",
+      "Power Outage Diagnosis",
+      "Commercial Electrical",
+      "Domestic Electrical",
+      "Alarm Systems",
+      "Plug & Socket Repair"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Redditch",
+      "Bromsgrove",
+      "Sutton Coldfield"
+    ],
+    "reviews": [],
+    "rating": 0,
+    "review_count": 0,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "MJC Plumbing & Heating",
+    "slug": "mjc-plumbing-heating",
+    "trade_type": "plumbers",
+    "area": "Solihull",
+    "phone": "",
+    "email": "",
+    "website_url": "https://www.mjc-plumbingheating.co.uk",
+    "description": "Professional plumber and heating engineer covering Solihull, Knowle and Dorridge. Handles installation, repair, servicing and testing across gas, water and heating systems. No hidden charges or upfront fees.",
+    "services": [
+      "Central Heating Repair",
+      "Boiler Installation",
+      "Boiler Servicing",
+      "Gas Testing",
+      "General Plumbing",
+      "Water Systems"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Knowle",
+      "Dorridge",
+      "Shirley"
+    ],
+    "reviews": [],
+    "rating": 0,
+    "review_count": 0,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [
+      "Gas Safe"
+    ],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "DM Property Services",
+    "slug": "dm-property-services",
+    "trade_type": "builders",
+    "area": "Redditch",
+    "phone": "",
+    "email": "",
+    "website_url": "https://dmpropertyservices.com",
+    "description": "Experienced builder specialising in home extensions, renovations and conversions in Redditch and surrounding areas. Led by Dan, the team is known for professionalism, excellent communication and outstanding craftsmanship across projects of all sizes.",
+    "services": [
+      "Home Extensions",
+      "Kitchen Extensions",
+      "Renovations",
+      "Barn Conversions",
+      "Garage Conversions",
+      "New Kitchens",
+      "Bathroom Fitting",
+      "Bespoke Shelving",
+      "Flooring",
+      "Period Property Renovation"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Headless Cross",
+      "Birmingham",
+      "Solihull",
+      "Bromsgrove"
+    ],
+    "reviews": [
+      {
+        "author": "Dave",
+        "rating": 5,
+        "text": "Dan and his team are second to none. Well done, happy new year and all the best for the future.",
+        "date": "2025-12-30"
+      },
+      {
+        "author": "Verified Customer",
+        "rating": 5,
+        "text": "We were absolutely delighted with the work Dan did on our kitchen extension and utility room in Headless Cross, Redditch. His professionalism, expertise, and attention to detail were truly impressive.",
+        "date": "2025-06-15"
+      },
+      {
+        "author": "Verified Customer",
+        "rating": 5,
+        "text": "From start to finish, Dan and his team were friendly, professional, and efficient. Their attention to detail is outstanding. It's clear they really take pride in their work.",
+        "date": "2025-09-20"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 15,
+    "featured": true,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [
+      "Checkatrade"
+    ],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "BGL Building Services",
+    "slug": "bgl-building-services",
+    "trade_type": "builders",
+    "area": "Birmingham",
+    "phone": "07806 556519",
+    "email": "",
+    "website_url": "https://www.bglbuilding.co.uk",
+    "description": "Building team with over 50 years combined experience, specialising in new houses and extensions across Birmingham, Solihull, Sutton Coldfield and Redditch. Reputation for high quality construction work.",
+    "services": [
+      "New Builds",
+      "Extensions",
+      "Construction",
+      "General Building"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Kings Norton",
+      "Solihull",
+      "Sutton Coldfield",
+      "Redditch"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Excellent quality work on our extension. Professional team, kept to schedule, and the finish was superb.",
+        "date": "2025-08-10"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 10,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Bill Boyce Decorators",
+    "slug": "bill-boyce-decorators",
+    "trade_type": "painters",
+    "area": "Solihull",
+    "phone": "0121 744 0040",
+    "email": "",
+    "website_url": "https://billboycedecorators.co.uk",
+    "description": "Family-run decorating business based in Solihull with over 39 years experience. Works to the highest standard across private houses, hotels, restaurants, schools, offices, shops and care homes throughout the West Midlands.",
+    "services": [
+      "Interior Decorating",
+      "Exterior Decorating",
+      "Commercial Decorating",
+      "Hotel & Restaurant Decorating",
+      "Office Decorating",
+      "Shop Fitting",
+      "Care Home Decorating"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Shirley",
+      "Stratford-upon-Avon",
+      "Henley-in-Arden",
+      "Sutton Coldfield",
+      "Leamington",
+      "Warwick",
+      "Coventry",
+      "Redditch"
+    ],
+    "reviews": [],
+    "rating": 0,
+    "review_count": 0,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "MWR Decorators",
+    "slug": "mwr-decorators",
+    "trade_type": "painters",
+    "area": "Birmingham",
+    "phone": "07540 360159",
+    "email": "mark.wross182@gmail.com",
+    "website_url": "https://mwrdecorators.co.uk",
+    "description": "Professional painters and decorators with over 25 years experience covering Birmingham and the wider West Midlands (25-mile radius). Works with both commercial and domestic clients on interior and exterior projects.",
+    "services": [
+      "Interior Painting",
+      "Exterior Painting",
+      "uPVC Painting",
+      "Wallpaper Hanging",
+      "Paint Spraying",
+      "Commercial Decorating",
+      "Domestic Decorating"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Bromsgrove",
+      "Burton Upon Trent",
+      "Coventry",
+      "Dudley",
+      "Cannock",
+      "Lichfield",
+      "Nuneaton",
+      "Redditch",
+      "Stratford-upon-Avon",
+      "Warwick",
+      "Walsall",
+      "Wolverhampton",
+      "West Bromwich"
+    ],
+    "reviews": [],
+    "rating": 0,
+    "review_count": 0,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Duncan Osborne Ceramic Tiling",
+    "slug": "duncan-osborne-ceramic-tiling",
+    "trade_type": "tilers",
+    "area": "Southam",
+    "phone": "07307 207287",
+    "email": "",
+    "website_url": "",
+    "description": "Expert ceramic tiler based in Southam, Warwickshire with over 30 years of experience. Duncan delivers exceptional craftsmanship across all types of tiling projects, earning a near-perfect 4.99 rating from delighted customers.",
+    "services": [
+      "Ceramic Tiling",
+      "Porcelain Tiling",
+      "Floor Tiling",
+      "Wall Tiling",
+      "Bathroom Tiling",
+      "Kitchen Tiling"
+    ],
+    "areas_served": [
+      "Southam",
+      "Warwick",
+      "Leamington Spa",
+      "Stratford-upon-Avon",
+      "Solihull",
+      "Kenilworth"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "If there was an Oscar of the tiling world, Duncan would win hands down! He is such a talented tiler.",
+        "date": "2025-10-15"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Outstanding quality of work and attention to detail. Duncan takes real pride in his craft.",
+        "date": "2025-08-20"
+      }
+    ],
+    "rating": 4.99,
+    "review_count": 12,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Rob Tompson Carpentry & Kitchens",
+    "slug": "rob-tompson-carpentry-kitchens",
+    "trade_type": "carpenters",
+    "area": "Warwick",
+    "phone": "07360 496435",
+    "email": "",
+    "website_url": "",
+    "description": "Professional carpentry and kitchen fitting service based in Warwick, covering all of Warwickshire. Rob delivers a friendly, high-quality service with a perfect 5-star rating across 14 reviews.",
+    "services": [
+      "Carpentry",
+      "Kitchen Fitting",
+      "Joinery",
+      "Door Fitting",
+      "Flooring",
+      "Bespoke Woodwork"
+    ],
+    "areas_served": [
+      "Warwick",
+      "Leamington Spa",
+      "Stratford-upon-Avon",
+      "Solihull",
+      "Kenilworth",
+      "Henley-in-Arden"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Rob was brilliant, communication excellent, carried the work out quickly and finished on time. Very high standard of work and professionalism.",
+        "date": "2025-11-10"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Fantastic craftsmanship and attention to detail. Would highly recommend Rob for any carpentry work.",
+        "date": "2025-09-05"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 14,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "N Bird & Son Roofing",
+    "slug": "n-bird-son-roofing",
+    "trade_type": "roofers",
+    "area": "Solihull",
+    "phone": "0800 195 6946",
+    "email": "",
+    "website_url": "https://www.nbirdandsonroofing.co.uk/",
+    "description": "Family-run roofing specialists based in Solihull with an outstanding 4.9-star rating across 610+ reviews. N Bird & Son are known for their thorough approach \u2014 sending photos and detailed explanations of the work needed before starting. From flat roof repairs to full re-roofs, their team delivers professional results with clear communication throughout.",
+    "services": [
+      "Roof Repairs",
+      "Flat Roofing",
+      "Pitched Roofing",
+      "Chimney Repairs",
+      "Guttering",
+      "Fascias & Soffits",
+      "Roof Inspections",
+      "Emergency Roof Repairs"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Birmingham",
+      "Shirley",
+      "Knowle",
+      "Dorridge",
+      "Hall Green",
+      "Moseley",
+      "Kings Heath"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "We would highly recommend Harry and his team and have used them many times now. From a prompt response following a query, to scaffolding up the next day.",
+        "date": "2025-10-15"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Luke and the team were all thoroughly professional throughout. They kept us updated with photographs of our roof and explanations of exactly what they were doing.",
+        "date": "2025-09-20"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "We were dreading getting our flat roof fixed as we knew significant underlying water damage was likely. We went with N Bird because they seemed the most professional and transparent.",
+        "date": "2025-08-10"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 610,
+    "featured": true,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "HydroGreen Heating and Gas Engineering",
+    "slug": "hydrogreen-heating-gas-engineering",
+    "trade_type": "gas-engineers",
+    "area": "Birmingham",
+    "phone": "07443 365157",
+    "email": "",
+    "website_url": "",
+    "description": "Perfect 5-star rated gas engineers covering Birmingham and Solihull with over 500 reviews. HydroGreen specialise in boiler repairs, gas pipe installations, and emergency callouts \u2014 often responding the same day. Led by Naeem, they are known for excellent communication, fair pricing, and getting the job done right first time.",
+    "services": [
+      "Boiler Repairs",
+      "Boiler Installation",
+      "Gas Pipe Installation",
+      "Gas Safety Certificates",
+      "Central Heating",
+      "Emergency Gas Engineer",
+      "Landlord Gas Checks",
+      "Radiator Installation"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Erdington",
+      "Solihull",
+      "Sutton Coldfield",
+      "Kings Heath",
+      "Hall Green",
+      "Moseley",
+      "Aston"
+    ],
+    "reviews": [
+      {
+        "author": "Alex Montgomery Fleming",
+        "rating": 5,
+        "text": "10/10 would recommend. We needed a gas pipe removed asap before a kitchen installation. Naeem had great communication, completed the work to an excellent standard at a very reasonable price.",
+        "date": "2025-11-10"
+      },
+      {
+        "author": "Jonathan Brickman",
+        "rating": 5,
+        "text": "Very pleased with the service received by Hydrogreen. My boiler broke down on a Saturday, and they came out repairing the boiler and issuing a landlord gas safety certificate all in one visit.",
+        "date": "2025-10-05"
+      },
+      {
+        "author": "Cyra Lee",
+        "rating": 5,
+        "text": "Had a boiler emergency and HydroGreen were able to come out very quickly, which was a huge relief. The engineer was friendly, professional, and explained everything clearly.",
+        "date": "2025-09-15"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 504,
+    "featured": true,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Duplicut Locksmiths Ltd",
+    "slug": "duplicut-locksmiths-ltd",
+    "trade_type": "locksmiths",
+    "area": "Sutton Coldfield",
+    "phone": "0121 354 1449",
+    "email": "",
+    "website_url": "https://www.duplicut.co.uk/",
+    "description": "Long-established locksmiths in Sutton Coldfield with a stellar reputation \u2014 4.7 stars across 530+ reviews. Duplicut are the go-to for key cutting, lock repairs, and security upgrades at honest prices. Customers rave about their fast turnaround, helpful staff, and prices that put the big online firms to shame.",
+    "services": [
+      "Key Cutting",
+      "Lock Repairs",
+      "Lock Replacement",
+      "Emergency Locksmith",
+      "Security Upgrades",
+      "UPVC Lock Repairs",
+      "Safe Opening",
+      "Auto Key Duplication"
+    ],
+    "areas_served": [
+      "Sutton Coldfield",
+      "Birmingham",
+      "Erdington",
+      "Four Oaks",
+      "Walmley",
+      "Boldmere",
+      "Great Barr",
+      "Kingstanding"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Amazing find! The reviews are all 100% true \u2014 I found extortionate prices online but thankfully found these experts. Brilliant service and fair prices.",
+        "date": "2025-11-20"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Absolutely fantastic! Dealt with Barry to sort some new extra keys for recently purchased Kubota. Brilliant service turned around same day.",
+        "date": "2025-10-08"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Really helpful. I needed a duplicate key and it took me 10 minutes to get that for 15 pounds. They are really helpful and kind people.",
+        "date": "2025-09-12"
+      }
+    ],
+    "rating": 4.7,
+    "review_count": 531,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Complete Heating, Plumbing and Emergency Services",
+    "slug": "complete-heating-plumbing",
+    "trade_type": "plumbers",
+    "area": "Redditch",
+    "phone": "0800 050 2345",
+    "email": "",
+    "website_url": "https://www.complete-heating.co.uk/",
+    "description": "Perfect 5-star plumbing and heating company based in Redditch with nearly 400 reviews. Run by John, who is praised for same-day responses, honest diagnostics, and reliable workmanship. Whether it is a boiler breakdown, a leaking pipe, or a full bathroom installation, Complete Heating consistently delivers when other companies do not even pick up the phone.",
+    "services": [
+      "Boiler Repairs",
+      "Boiler Installation",
+      "Emergency Plumbing",
+      "Leak Detection",
+      "Bathroom Installation",
+      "Central Heating",
+      "Pipe Repairs",
+      "Toilet & Tap Repairs"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Bromsgrove",
+      "Studley",
+      "Alcester",
+      "Astwood Bank",
+      "Solihull",
+      "Birmingham"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "John came out on a Tuesday to diagnose an issue with my boiler. He came out the same day I called which was extremely quick. By Friday he had the problem sorted.",
+        "date": "2025-11-01"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "John was brilliant at sorting out my toilet that stopped flushing. He is fast, experienced, skilled, clean and reliable. All major parts were replaced efficiently.",
+        "date": "2025-09-25"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Called John when two other companies did not respond. Arranged to meet at my Father's to attempt to locate a leak in wet room flooring. John immediately found the issue.",
+        "date": "2025-08-15"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 392,
+    "featured": true,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Status Heating Limited",
+    "slug": "status-heating-limited",
+    "trade_type": "gas-engineers",
+    "area": "Solihull",
+    "phone": "0345 257 0130",
+    "email": "",
+    "website_url": "https://www.statusheating.co.uk",
+    "description": "Established gas heating specialists in Shirley, Solihull with 4.7 stars across 400+ reviews. Status Heating handle everything from annual boiler services to full heating system installations. Their engineers are consistently praised for being punctual, competent, and tidy \u2014 explaining exactly what they are doing every step of the way.",
+    "services": [
+      "Boiler Servicing",
+      "Boiler Installation",
+      "Central Heating Installation",
+      "Gas Safety Certificates",
+      "Warm Air Systems",
+      "Radiator Installation",
+      "Thermostat Installation",
+      "Power Flushing"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Shirley",
+      "Hall Green",
+      "Moseley",
+      "Kings Heath",
+      "Knowle",
+      "Dorridge",
+      "Birmingham"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Outstanding service from Status Heating. Had a full assessment and quote for replacing my warm air system. Professional and thorough throughout.",
+        "date": "2025-11-15"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Status came to service my Mum's gas boiler. Chap was punctual, competent and friendly. Explained what he was doing and left everything tidy.",
+        "date": "2025-10-10"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 4,
+        "text": "Very pleased with the standard of the installation work. Billy and Andy are a good team.",
+        "date": "2025-09-01"
+      }
+    ],
+    "rating": 4.7,
+    "review_count": 408,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Speedy Locksmith Birmingham",
+    "slug": "speedy-locksmith-birmingham",
+    "trade_type": "locksmiths",
+    "area": "Birmingham",
+    "phone": "07466 428611",
+    "email": "",
+    "website_url": "http://www.locksmith-birmingham.co.uk/",
+    "description": "Perfect 5-star emergency locksmith covering Birmingham with 370+ glowing reviews. Run by Val, a true professional who arrives within the estimated time, quickly assesses the issue, and resolves it without fuss. Customers highlight his honest pricing, clear communication, and the peace of mind he provides during stressful lockout situations.",
+    "services": [
+      "Emergency Lockout",
+      "Lock Repairs",
+      "Lock Replacement",
+      "UPVC Door Locks",
+      "Lock Upgrades",
+      "Security Assessments",
+      "Key Cutting",
+      "24/7 Emergency Callout"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Great Barr",
+      "Queslett",
+      "Kingstanding",
+      "Perry Barr",
+      "Erdington",
+      "Sutton Coldfield",
+      "Handsworth"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Fantastic service from Val. My mother in law was locked out and he texted to keep me informed of his arrival time. Quick and professional.",
+        "date": "2025-11-05"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "5 STAR service from a true professional tradesman! Val arrived within the time given, quickly assessed the issue with my lock and resolved it rapidly.",
+        "date": "2025-10-20"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "I had the pleasure of requesting the services of Val as my door lock was intermittently sticking. He provided peace of mind and excellent workmanship.",
+        "date": "2025-09-08"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 370,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "C & T Locksmiths",
+    "slug": "c-t-locksmiths",
+    "trade_type": "locksmiths",
+    "area": "Birmingham",
+    "phone": "",
+    "email": "",
+    "website_url": "",
+    "description": "Highly rated Birmingham locksmiths with 4.9 stars across 370+ reviews. C & T Locksmiths have built a rock-solid reputation for reliable, affordable locksmith services across the city. Whether you are locked out, need new locks fitted, or want a security upgrade, they deliver prompt and professional service every time.",
+    "services": [
+      "Emergency Lockout",
+      "Lock Changes",
+      "Lock Repairs",
+      "Key Cutting",
+      "UPVC Lock Repairs",
+      "Security Upgrades",
+      "Boarding Up",
+      "Access Control"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Edgbaston",
+      "Selly Oak",
+      "Harborne",
+      "Kings Norton",
+      "Northfield",
+      "Bournville",
+      "Moseley"
+    ],
+    "reviews": [],
+    "rating": 4.9,
+    "review_count": 371,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Mere Green Fencing",
+    "slug": "mere-green-fencing",
+    "trade_type": "fencing",
+    "area": "Sutton Coldfield",
+    "phone": "",
+    "email": "",
+    "website_url": "",
+    "description": "Top-rated fencing specialists in Sutton Coldfield boasting 4.9 stars from 364 reviews. Mere Green Fencing are the local go-to for garden fencing, fence repairs, and gate installations. Known for quality materials, clean workmanship, and competitive pricing that keeps customers coming back year after year.",
+    "services": [
+      "Garden Fencing",
+      "Fence Repairs",
+      "Fence Panel Replacement",
+      "Gate Installation",
+      "Close Board Fencing",
+      "Trellis & Decorative Fencing",
+      "Post Replacement",
+      "Storm Damage Repairs"
+    ],
+    "areas_served": [
+      "Sutton Coldfield",
+      "Mere Green",
+      "Four Oaks",
+      "Streetly",
+      "Little Aston",
+      "Boldmere",
+      "Walmley",
+      "Great Barr"
+    ],
+    "reviews": [],
+    "rating": 4.9,
+    "review_count": 364,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "LockFit Birmingham Locksmiths",
+    "slug": "lockfit-birmingham-locksmiths",
+    "trade_type": "locksmiths",
+    "area": "Birmingham",
+    "phone": "0121 663 6277",
+    "email": "",
+    "website_url": "",
+    "description": "Professional locksmiths in Cotteridge, Birmingham with a 4.9-star rating. LockFit offer same-day lock changes, emergency lockouts, and window repairs. Customers praise the speed of service \u2014 enquire in the morning, locks changed by the afternoon. A reliable local choice when security matters.",
+    "services": [
+      "Lock Changes",
+      "Emergency Lockout",
+      "Window Repairs",
+      "UPVC Lock Repairs",
+      "Lock Upgrades",
+      "Key Cutting",
+      "Security Surveys"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Cotteridge",
+      "Kings Norton",
+      "Stirchley",
+      "Bournville",
+      "Selly Oak",
+      "Moseley",
+      "Kings Heath"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Excellent service. I enquired in the morning and had my lock changed the same day. Lovely gentleman who came and he was very professional.",
+        "date": "2025-10-12"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "I just wanted to drop a note to let you know how happy I am with the new downstairs windows. I have already noticed how much warmer it is.",
+        "date": "2025-09-05"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 340,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Power Plus Heating Ltd",
+    "slug": "power-plus-heating-ltd",
+    "trade_type": "gas-engineers",
+    "area": "Birmingham",
+    "phone": "07305 928834",
+    "email": "",
+    "website_url": "",
+    "description": "Independent Gas Safe registered engineer and plumber based in Birmingham, run by Saboor Khan. Power Plus Heating covers all gas, plumbing, and heating work across the West Midlands \u2014 from boiler installations and repairs to gas cooker fitting and annual servicing. A one-man operation built on word of mouth with 336 five-star Google reviews. Known for being reliable, communicative, and competitively priced. Available for 24/7 emergency breakdowns.",
+    "services": [
+      "Boiler Replacement",
+      "Boiler Servicing",
+      "Boiler Repairs",
+      "Gas Safety Certificates",
+      "Central Heating",
+      "Radiator Installation",
+      "Thermostat Fitting",
+      "Emergency Callouts"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "City Centre",
+      "Edgbaston",
+      "Digbeth",
+      "Jewellery Quarter",
+      "Aston",
+      "Ladywood",
+      "Nechells"
+    ],
+    "reviews": [
+      {
+        "author": "Jose Luis V.",
+        "rating": 5,
+        "text": "Saboor did a fantastic job diagnosing and replacing our boiler. He was efficient, professional, and delivered excellent quality work. I highly recommend his services to anyone looking for reliable and skilled workmanship.",
+        "date": "2025-10-31"
+      },
+      {
+        "author": "Vandna V.",
+        "rating": 5,
+        "text": "Power Plus Heating have done regular boiler service at my place for the last couple of years and they have been excellent. Saboor Khan is the main person whom I have dealt with in the company. He is very competent, a thorough professional and extremely polite to talk to. I would recommend them to everyone.",
+        "date": "2026-01-17"
+      },
+      {
+        "author": "Belinda K.",
+        "rating": 5,
+        "text": "Mr Khan was a complete professional, great communication, prompt with his work, went over and above regarding the gas safe work he engaged in. What a delight to have someone so knowledgeable and personable. I will be recommending him to everyone I can.",
+        "date": "2025-12-31"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 336,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [
+      "Gas Safe Registered"
+    ],
+    "added_date": "2026-01-31",
+    "outreach_target": true,
+    "address": "Bath Row, Birmingham B1 1JW"
+  },
+  {
+    "name": "DGM Locksmiths",
+    "slug": "dgm-locksmiths",
+    "trade_type": "locksmiths",
+    "area": "Birmingham",
+    "phone": "07436 606683",
+    "email": "",
+    "website_url": "",
+    "description": "5-star emergency locksmith in Birmingham run by Gabriel. DGM Locksmiths specialise in high-security lock upgrades, emergency lockouts, and same-day callouts. Gabriel consistently arrives within the hour, assesses the situation quickly, and gets customers back into their homes without fuss. Outstanding reviews for professionalism and fair pricing.",
+    "services": [
+      "Emergency Lockout",
+      "High Security Locks",
+      "Yale 3-Star Cylinders",
+      "Lock Changes",
+      "Lock Repairs",
+      "UPVC Door Locks",
+      "Same Day Callout",
+      "Security Upgrades"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Bartley Green",
+      "Quinton",
+      "Harborne",
+      "Edgbaston",
+      "Selly Oak",
+      "Northfield",
+      "Longbridge"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "I contacted DGM Locksmiths to change my old lock to a Yale 3-Star high-security cylinder, and the service was outstanding.",
+        "date": "2025-11-15"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Called DGM locksmiths as I had lost the key to a door in my house. Gabriel came out within 10 minutes and sorted everything quickly.",
+        "date": "2025-10-01"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 290,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "MJB Electrical Services",
+    "slug": "mjb-electrical-services",
+    "trade_type": "electricians",
+    "area": "Halesowen",
+    "phone": "07941 746878",
+    "email": "",
+    "website_url": "",
+    "description": "Local Halesowen electricians with 300+ five-star reviews. MJB Electrical Services handle everything from extractor fan installations to full rewires across the West Midlands. Known for clear communication, fair pricing, and leaving every job spotless. Available 24/7 for emergency callouts with specialist fault-finding expertise built over many years in the trade.",
+    "services": [
+      "Full Rewiring",
+      "Consumer Unit Upgrades",
+      "Extractor Fan Installation",
+      "LED Lighting Upgrades",
+      "Fault Finding & Rectification",
+      "Socket & Switch Installation",
+      "Electrical Testing (EICR)",
+      "PAT Testing",
+      "Cooker & Oven Connections",
+      "Emergency Callouts (24/7)",
+      "Commercial Electrical Work",
+      "Electric Underfloor Heating"
+    ],
+    "areas_served": [
+      "Halesowen",
+      "Birmingham",
+      "Dudley",
+      "Stourbridge",
+      "Oldbury",
+      "Blackheath",
+      "Quinton",
+      "Bartley Green",
+      "Cradley Heath",
+      "Rowley Regis",
+      "Smethwick",
+      "West Bromwich",
+      "Solihull",
+      "Harborne",
+      "Edgbaston",
+      "Selly Oak"
+    ],
+    "reviews": [
+      {
+        "author": "Verified Customer",
+        "rating": 5,
+        "text": "Installed a new cooker hood and light fitting in my daughter's room. Did a fantastic job \u2014 the cooker hood is perfectly fitted, had to core out a new hole for it. He even sorted out a faulty switch while he was there which wasn't part of the quote. Very good price, will definitely be having him back.",
+        "date": "2025-12-15"
+      },
+      {
+        "author": "Verified Customer",
+        "rating": 5,
+        "text": "Great experience \u2014 fitted an extractor fan in the bathroom, replaced existing light with a new LED one. Gives so much more light than the previous one. Price was very reasonable too. Would definitely recommend, will be using again for other electrical jobs.",
+        "date": "2025-11-08"
+      },
+      {
+        "author": "Verified Customer",
+        "rating": 5,
+        "text": "MJB came to replace three broken switches in my flat. Excellent job and I was kept very well informed about what needed doing and when they would arrive. Would thoroughly recommend.",
+        "date": "2025-10-22"
+      },
+      {
+        "author": "Verified Customer",
+        "rating": 5,
+        "text": "After a DIY disaster, they came out on a Saturday afternoon and fixed the problem. Gave helpful hints and tips to avoid any future issues. Surprisingly great prices too! Will definitely use them for future projects.",
+        "date": "2025-09-15"
+      },
+      {
+        "author": "Verified Customer",
+        "rating": 5,
+        "text": "Really happy with the job done at quite short notice \u2014 relocation of electric oven socket to allow a new oven to be reinstalled. No hesitation in recommending MJB.",
+        "date": "2025-08-30"
+      },
+      {
+        "author": "Verified Customer",
+        "rating": 5,
+        "text": "MJB Electrical Services offer a fantastic service. Kept me updated as to when he would arrive, explained everything clearly. Very fair and I strongly recommend their service.",
+        "date": "2025-07-18"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 301,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [
+      "Checkatrade Approved",
+      "Nextdoor Recommended"
+    ],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Pipe Guys",
+    "slug": "pipe-guys",
+    "trade_type": "plumbers",
+    "area": "Birmingham",
+    "phone": "07869 837241",
+    "email": "",
+    "website_url": "",
+    "description": "4.9-star plumbing and heating specialists based in Marston Green, east Birmingham. Run by Ryan and Keith, Pipe Guys deliver professional boiler services, installations, and general plumbing with a friendly, no-nonsense approach. Customers love their punctuality, tidiness, and willingness to explain everything in plain English.",
+    "services": [
+      "Boiler Servicing",
+      "Boiler Installation",
+      "General Plumbing",
+      "Heating Repairs",
+      "Radiator Installation",
+      "Pipe Repairs",
+      "Bathroom Plumbing",
+      "Power Flushing"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Marston Green",
+      "Solihull",
+      "Sheldon",
+      "Chelmsley Wood",
+      "Castle Bromwich",
+      "Coleshill",
+      "Water Orton"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Had Pipe Guys round to do my boiler service and sort out a few heating issues at my house. Ryan did a top, professional job.",
+        "date": "2025-10-20"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Had a new boiler fitted by Ryan and Keith and was very happy with them. They're polite, friendly, well mannered and tidy in their work.",
+        "date": "2025-09-10"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 275,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Perry Plumbing & Heating Ltd",
+    "slug": "perry-plumbing-heating",
+    "trade_type": "plumbers",
+    "area": "Sutton Coldfield",
+    "phone": "0121 387 0304",
+    "email": "",
+    "website_url": "",
+    "description": "Highly rated plumbing and heating company in Sutton Coldfield with a 4.9-star rating. Perry Plumbing are known for great communication, turning up on time, and getting the job done at a fair price. Whether it is a boiler service, a full installation, or an emergency repair, their professional team delivers consistently excellent results.",
+    "services": [
+      "Boiler Servicing",
+      "Boiler Installation",
+      "Emergency Plumbing",
+      "Central Heating",
+      "Radiator Repairs",
+      "Pipe Repairs",
+      "Gas Safety Certificates",
+      "Bathroom Plumbing"
+    ],
+    "areas_served": [
+      "Sutton Coldfield",
+      "Erdington",
+      "Walmley",
+      "Minworth",
+      "Water Orton",
+      "Castle Bromwich",
+      "Four Oaks",
+      "Birmingham"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "I can highly recommend Perry Plumbing. I called them for a service on my boiler and a fault \u2014 within a couple of days they had it sorted.",
+        "date": "2025-11-12"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Had our Viessmann boiler serviced by Perrys. Great communication, quick to book, good price, turned up spot on time.",
+        "date": "2025-10-05"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 260,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Morris Mica Hardware & Locksmiths",
+    "slug": "morris-mica-locksmiths",
+    "trade_type": "locksmiths",
+    "area": "Redditch",
+    "phone": "01527 545818",
+    "email": "",
+    "website_url": "",
+    "description": "Established hardware store and locksmith in Headless Cross, Redditch with a 4.8-star rating. Morris Mica combine old-school hardware knowledge with professional locksmith services. From key cutting to full lock replacements, they offer efficient, tidy, and affordable work. A proper local business with a wide range of DIY, gardening, and security products too.",
+    "services": [
+      "Key Cutting",
+      "Lock Replacement",
+      "Lock Repairs",
+      "Security Locks",
+      "UPVC Lock Repairs",
+      "Hardware Supplies",
+      "Paint Mixing",
+      "DIY Supplies"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Headless Cross",
+      "Crabbs Cross",
+      "Astwood Bank",
+      "Studley",
+      "Bromsgrove",
+      "Alcester"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Surprisingly wide range of DIY, gardening and homewares including wood, key cutting and paint mixing. Trade ranges too.",
+        "date": "2025-10-18"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Excellent locksmith service in Beoley. Very efficient, tidy, and affordable. My new locks look and work perfectly.",
+        "date": "2025-09-15"
+      }
+    ],
+    "rating": 4.8,
+    "review_count": 245,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Peacock Heating Ltd",
+    "slug": "peacock-heating-ltd",
+    "trade_type": "gas-engineers",
+    "area": "Birmingham",
+    "phone": "07720 004020",
+    "email": "",
+    "website_url": "",
+    "description": "Perfect 5-star gas engineer run by Des, covering Birmingham and surrounding areas. Peacock Heating handle boiler installations, replacements, and servicing with a reputation for going the extra mile. Customers repeatedly use Des for multiple properties \u2014 a sign of genuine trust built through reliable, efficient work and fair pricing.",
+    "services": [
+      "Boiler Installation",
+      "Boiler Replacement",
+      "Boiler Servicing",
+      "Central Heating",
+      "Gas Safety Certificates",
+      "Radiator Installation",
+      "Heating Repairs",
+      "Combi Boiler Fitting"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Kings Heath",
+      "Moseley",
+      "Hall Green",
+      "Edgbaston",
+      "Harborne",
+      "Selly Oak"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Des does a great job, won't let you down. Fitted new boiler at our last house and didn't hesitate to use him again for a replacement at our new place.",
+        "date": "2025-11-05"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Totally recommend, Des was very efficient and excellent in his work. New combi fitted and went the extra mile with some additional work.",
+        "date": "2025-09-18"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 250,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Hyper Locksmiths",
+    "slug": "hyper-locksmiths",
+    "trade_type": "locksmiths",
+    "area": "Birmingham",
+    "phone": "07466 785492",
+    "email": "",
+    "website_url": "",
+    "description": "5-star emergency locksmith in Birmingham with lightning-fast response times \u2014 often arriving within 20-25 minutes of your call, even during Friday evening rush hour. Hyper Locksmiths get you back in quickly, efficiently, and at a fair price. The kind of locksmith you save the number for.",
+    "services": [
+      "Emergency Lockout",
+      "Lock Changes",
+      "Lock Repairs",
+      "UPVC Lock Repairs",
+      "Door Opening",
+      "Security Upgrades",
+      "24/7 Callout",
+      "Lock Fitting"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Edgbaston",
+      "Moseley",
+      "Kings Heath",
+      "Harborne",
+      "Selly Oak",
+      "Bournville",
+      "Stirchley"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Fantastic service. Arrived within 20-25 minutes from my call on a Friday evening with heavy traffic and the door was open in no time.",
+        "date": "2025-10-25"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Got locked out my flat and he came within the 45 minutes as arranged. Very efficient and friendly locksmith. Was done in minutes.",
+        "date": "2025-09-12"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 230,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Lawnswood Fencing Ltd",
+    "slug": "lawnswood-fencing-ltd",
+    "trade_type": "fencing",
+    "area": "Dudley",
+    "phone": "01384 634082",
+    "email": "",
+    "website_url": "",
+    "description": "Reliable fencing specialists in Dudley with a 4.7-star rating. Lawnswood Fencing supply and fit fence panels with impressive turnaround times \u2014 orders ready within days and fitting squeezed into the schedule at short notice. Two-man team that works quickly and tidily. Great for both supply-only and full installation.",
+    "services": [
+      "Fence Panel Supply",
+      "Fence Installation",
+      "Made to Measure Panels",
+      "Fence Repairs",
+      "Gate Installation",
+      "Close Board Fencing",
+      "Concrete Posts",
+      "Garden Fencing"
+    ],
+    "areas_served": [
+      "Dudley",
+      "Stourbridge",
+      "Halesowen",
+      "Brierley Hill",
+      "Kingswinford",
+      "Sedgley",
+      "Wolverhampton",
+      "Oldbury"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Excellent service from start to finish. Ordered panels including a made to measure panel and order was ready within a few days.",
+        "date": "2025-10-30"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Ordered 5 new panels Wednesday and they managed to fit them into their schedule the next day. The two men had the job done quickly and tidily.",
+        "date": "2025-09-08"
+      }
+    ],
+    "rating": 4.7,
+    "review_count": 220,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Jack The Plumber",
+    "slug": "jack-the-plumber",
+    "trade_type": "plumbers",
+    "area": "Birmingham",
+    "phone": "07933 138914",
+    "email": "",
+    "website_url": "https://jacktheplumber.co.uk/",
+    "description": "Perfect 5-star plumber covering Birmingham with a name you won't forget. Jack provides brilliant service from first contact \u2014 clear explanations, quick responses even over weekends, and quality workmanship. Whether it is a stopcock repair, a bathroom strip-out, or a full installation, Jack and his team turn up when they say they will and get it sorted at a fair price.",
+    "services": [
+      "Emergency Plumbing",
+      "Boiler Repairs",
+      "Tap Repairs",
+      "Toilet Repairs",
+      "Leak Repairs",
+      "Pipe Work",
+      "Bathroom Plumbing",
+      "General Plumbing"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Kings Heath",
+      "Moseley",
+      "Hall Green",
+      "Stirchley",
+      "Bournville",
+      "Edgbaston"
+    ],
+    "reviews": [
+      {
+        "author": "Julie Penn",
+        "rating": 5,
+        "text": "Jack the Plumber provided brilliant service from the first contact. I was quickly provided with clearly explained options for the job I needed doing and there was no pressure to take the more expensive option. The quote was fast with the breakdown for the job set out.",
+        "date": "2025-12-01"
+      },
+      {
+        "author": "Deborah White",
+        "rating": 5,
+        "text": "Had a great experience with Jack The Plumber today. Was able to help me on a Monday after contacting over the weekend. Fixed a stopcock, removed a bath and sink and relocated our washing machine all within a couple of hours. Explained everything they were doing.",
+        "date": "2025-11-01"
+      },
+      {
+        "author": "Clive Parry",
+        "rating": 5,
+        "text": "Great service and good value. Jack and his team are responsive and helpful. They took care with the installation and left a high quality finish. 100% recommend.",
+        "date": "2025-10-15"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 236,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Birmingham Secure Locksmith",
+    "slug": "birmingham-secure-locksmith",
+    "trade_type": "locksmiths",
+    "area": "Birmingham",
+    "phone": "07974 999194",
+    "email": "",
+    "website_url": "",
+    "description": "5-star emergency locksmith covering Birmingham with same-day callouts and professional service. Birmingham Secure Locksmith are the ones to call when you are locked out \u2014 they arrive at the agreed time, know exactly what they are doing, and get you back in without damaging your door. Fair prices and no hidden charges.",
+    "services": [
+      "Emergency Lockout",
+      "Lock Changes",
+      "Lock Repairs",
+      "Door Opening",
+      "UPVC Lock Repairs",
+      "Security Locks",
+      "Same Day Callout",
+      "Boarding Up"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Erdington",
+      "Aston",
+      "Handsworth",
+      "Perry Barr",
+      "Great Barr",
+      "Kingstanding",
+      "Walsall"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Came out same day, was professional. Reasonable price. Highly recommend. The locksmith knew exactly what he was doing.",
+        "date": "2025-11-18"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Really grateful to Birmingham Secure Locksmith. Was locked out of my property and they came in after agreeing time and dealt with it professionally.",
+        "date": "2025-10-05"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 200,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Kings Norton Fencing",
+    "slug": "kings-norton-fencing",
+    "trade_type": "fencing",
+    "area": "Birmingham",
+    "phone": "0121 451 2250",
+    "email": "",
+    "website_url": "",
+    "description": "Well-established fencing supplier in Kings Norton, south Birmingham with a 4.5-star rating. Kings Norton Fencing offer great prices on fence panels, treated timber, and raised bed materials with local delivery for a fiver. A proper no-frills yard where you get quality timber at trade prices without the garden centre markup.",
+    "services": [
+      "Fence Panel Supply",
+      "Treated Timber",
+      "Raised Bed Materials",
+      "Fence Posts",
+      "Concrete Posts",
+      "Trellis",
+      "Garden Timber",
+      "Local Delivery"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Kings Norton",
+      "Northfield",
+      "Longbridge",
+      "Rubery",
+      "Bromsgrove",
+      "Bournville",
+      "Selly Oak"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Great business and good prices. Delivery for a fiver to your doorstep. The treated timber for our raised beds is a far better deal than the garden centres.",
+        "date": "2025-10-22"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 3,
+        "text": "Good fence panels but delivery timing could be better. Ordered Monday with delivery due Tuesday morning \u2014 didn't arrive until the afternoon.",
+        "date": "2025-08-15"
+      }
+    ],
+    "rating": 4.5,
+    "review_count": 195,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Buildland Ltd",
+    "slug": "buildland-ltd",
+    "trade_type": "builders",
+    "area": "Redditch",
+    "phone": "01527 519444",
+    "email": "",
+    "website_url": "",
+    "description": "Building materials supplier in Redditch with a 4.2-star rating. Buildland offer easy online ordering, flexible delivery dates, and friendly drivers. Popular for fence panels, building supplies, and bulk materials. A solid option for tradespeople and DIYers who want quality materials delivered without the hassle.",
+    "services": [
+      "Building Materials",
+      "Fence Panels",
+      "Timber Supply",
+      "Aggregates",
+      "Cement",
+      "Bricks & Blocks",
+      "Delivery Service",
+      "Trade Supplies"
+    ],
+    "areas_served": [
+      "Redditch",
+      "Bromsgrove",
+      "Studley",
+      "Alcester",
+      "Solihull",
+      "Birmingham",
+      "Stratford-upon-Avon"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Very easy ordering online. Needed to change delivery date, that was done with ease. Delivery drivers were very friendly and helpful.",
+        "date": "2025-11-02"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "We ordered 10 fence panels which were great quality and we did it all online. They were even delivered on a Bank Holiday.",
+        "date": "2025-09-20"
+      }
+    ],
+    "rating": 4.2,
+    "review_count": 190,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "DS Locksmiths",
+    "slug": "ds-locksmiths",
+    "trade_type": "locksmiths",
+    "area": "Birmingham",
+    "phone": "07969 053820",
+    "email": "",
+    "website_url": "",
+    "description": "5-star locksmith run by Dan, a reliable one-man operation in Birmingham. DS Locksmiths specialise in UPVC door repairs, lock changes, and emergency callouts. Dan knows his stuff, charges fairly, and gets the job done without any fuss. The kind of locksmith you find once and keep the number forever.",
+    "services": [
+      "UPVC Door Repairs",
+      "Lock Changes",
+      "Lock Repairs",
+      "Emergency Lockout",
+      "Door Realignment",
+      "Security Upgrades",
+      "Key Cutting",
+      "Same Day Callout"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Erdington",
+      "Sutton Coldfield",
+      "Hall Green",
+      "Moseley",
+      "Kings Heath",
+      "Acocks Green"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Dan is a decent reliable locksmith. First time I've needed his services and very glad I contacted him. He gave me great advice and fair pricing.",
+        "date": "2025-10-18"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Dan came and repaired my old UPVC front door. He knew what he was doing and charged a very reasonable fee. The door hasn't worked this well in years.",
+        "date": "2025-09-05"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 185,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "J.F. Locksmiths Birmingham",
+    "slug": "jf-locksmiths-birmingham",
+    "trade_type": "locksmiths",
+    "area": "Birmingham",
+    "phone": "0121 783 5461",
+    "email": "",
+    "website_url": "",
+    "description": "5-star locksmiths in Birmingham offering everything from emergency lockouts to car key programming. J.F. Locksmiths stand out for their efficiency and professionalism \u2014 customers find them on Google, message them, and have the job done the same day. Also handle BMW and specialist vehicle key fobs.",
+    "services": [
+      "Emergency Lockout",
+      "Car Key Programming",
+      "Key Fob Replacement",
+      "Lock Changes",
+      "UPVC Lock Repairs",
+      "Auto Locksmith",
+      "Security Locks",
+      "Same Day Service"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Yardley",
+      "Sheldon",
+      "Acocks Green",
+      "Small Heath",
+      "Tyseley",
+      "Hall Green",
+      "Solihull"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Efficient, professional, super friendly. Messaged J.F. Locksmiths after finding them on Google with great reviews. They responded quickly and did a fantastic job.",
+        "date": "2025-11-02"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "BMW 3 series key fobs \u2014 my first time using a mobile locksmith and I must say I was so impressed by this particular company. Highly recommend.",
+        "date": "2025-09-22"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 180,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "On The Go Electrical",
+    "slug": "on-the-go-electrical",
+    "trade_type": "electricians",
+    "area": "Birmingham",
+    "phone": "07518 144988",
+    "email": "",
+    "website_url": "",
+    "description": "Perfect 5-star electricians in Birmingham led by Reese. On The Go Electrical handle everything from socket installations to full house rewires. Their team helped design and spec a complete renovation rewire, showing the kind of expertise that goes beyond just pulling cables. Professional, tidy, and genuinely helpful from first quote to final sign-off.",
+    "services": [
+      "Full Rewiring",
+      "Socket Installation",
+      "Light Fitting",
+      "Downlight Replacement",
+      "Consumer Unit Upgrades",
+      "Electrical Design",
+      "Fault Finding",
+      "Smart Home Wiring"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Sutton Coldfield",
+      "Erdington",
+      "Moseley",
+      "Kings Heath",
+      "Edgbaston",
+      "Harborne"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "OTG Electrical did a fantastic job putting sockets and wireless lights into our living room as well as replacing downlights. Highly recommend.",
+        "date": "2025-10-28"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Reese and his team completed a total rewiring of our renovated house. Initially helping with the design and specification \u2014 went above and beyond.",
+        "date": "2025-09-15"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 175,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Aditum Locksmiths",
+    "slug": "aditum-locksmiths",
+    "trade_type": "locksmiths",
+    "area": "Birmingham",
+    "phone": "07412 714008",
+    "email": "",
+    "website_url": "",
+    "description": "4.9-star emergency locksmith run by Ben, covering Birmingham with rapid response times. Aditum Locksmiths are the ones to call when your key snaps in the door at midnight or you lock yourself out on a Sunday morning. Ben consistently arrives within 15-20 minutes and resolves the situation calmly and professionally.",
+    "services": [
+      "Emergency Lockout",
+      "Broken Key Extraction",
+      "Lock Changes",
+      "Lock Repairs",
+      "UPVC Lock Repairs",
+      "Auto Locksmith",
+      "24/7 Emergency Callout",
+      "Security Upgrades"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Edgbaston",
+      "Moseley",
+      "Harborne",
+      "Selly Oak",
+      "Kings Heath",
+      "Bournville"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "10/10 experience with Ben. My key snapped off in my door late at night and I was really struggling to find someone. Ben came quickly and sorted it.",
+        "date": "2025-11-10"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Ben came out about 15 to 20 minutes after I called on a Sunday morning because I'd managed to lock my keys and phone in my car. Lifesaver.",
+        "date": "2025-10-01"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 170,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "F & P Plumbing and Heating",
+    "slug": "f-p-plumbing-heating",
+    "trade_type": "plumbers",
+    "area": "Birmingham",
+    "phone": "0121 330 0323",
+    "email": "",
+    "website_url": "",
+    "description": "4.9-star plumbing and heating company in Birmingham, recommended by word of mouth across the area. F & P are led by Dave, who turns up at the agreed time and does efficient, clean work every time. Specialising in warm air systems, boiler servicing, and general plumbing \u2014 the kind of reliable tradesperson people search for after too many bad experiences elsewhere.",
+    "services": [
+      "Boiler Servicing",
+      "Warm Air Systems",
+      "Central Heating",
+      "General Plumbing",
+      "Boiler Repairs",
+      "Radiator Installation",
+      "Pipe Repairs",
+      "Gas Safety Certificates"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Sutton Coldfield",
+      "Hall Green",
+      "Moseley",
+      "Kings Heath",
+      "Edgbaston",
+      "Erdington"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "F&P were recommended to me locally after I'd had a couple of poor experiences with others. I was just in search of a good, reliable plumber \u2014 found one.",
+        "date": "2025-11-08"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Dave turned up at the agreed time and did a very efficient and clean job of servicing my warm air boiler. He also gave honest advice on its condition.",
+        "date": "2025-09-28"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 165,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "A C Heating and Plumbing",
+    "slug": "ac-heating-plumbing",
+    "trade_type": "plumbers",
+    "area": "Birmingham",
+    "phone": "07905 869603",
+    "email": "",
+    "website_url": "",
+    "description": "Perfect 5-star plumbing and heating team led by Anthony and Reece. A C Heating specialise in combi boiler upgrades, full central heating installations, and general plumbing across Birmingham. Known for quoting quickly, sticking to the price, and delivering excellent results. The kind of team that makes upgrading your heating system painless.",
+    "services": [
+      "Combi Boiler Installation",
+      "Boiler Upgrades",
+      "Central Heating",
+      "General Plumbing",
+      "Radiator Installation",
+      "Hot Water Systems",
+      "Pipe Work",
+      "Boiler Servicing"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Erdington",
+      "Sutton Coldfield",
+      "Kings Heath",
+      "Hall Green",
+      "Acocks Green",
+      "Moseley"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Had Anthony round to upgrade our old water tank system to a new combi boiler \u2014 brilliant service from start to finish. Highly recommend.",
+        "date": "2025-11-15"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Anthony and Reece were amazing. They quoted the job very quickly and kept to the quote. They did an excellent job with the complete heating installation.",
+        "date": "2025-10-02"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 160,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "I-Fix Gas & Heating",
+    "slug": "i-fix-gas-heating",
+    "trade_type": "gas-engineers",
+    "area": "Birmingham",
+    "phone": "07598 278491",
+    "email": "",
+    "website_url": "https://www.ifixgasandheating.co.uk",
+    "description": "Perfect 5-star gas engineer led by Vik, covering Birmingham and surrounds. I-Fix Gas & Heating are praised for being down to earth, reliable, and genuinely knowledgeable. From emergency boiler breakdowns to routine servicing, Vik delivers honest advice and quality work \u2014 the kind of engineer customers use year after year without thinking twice.",
+    "services": [
+      "Boiler Repairs",
+      "Boiler Servicing",
+      "Central Heating",
+      "Radiator Repairs",
+      "Gas Safety Certificates",
+      "Emergency Callouts",
+      "Thermostat Installation",
+      "Power Flushing"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Sutton Coldfield",
+      "Erdington",
+      "Hall Green",
+      "Moseley",
+      "Kings Heath",
+      "Edgbaston"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "From the initial outcall, Vik has been amazing. He is so down to earth and does not disappoint. Very reliable and honest.",
+        "date": "2025-11-05"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Vik came over to fix our radiators which hadn't been working for a long time. He was so friendly and professional throughout.",
+        "date": "2025-09-20"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 186,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "MH Heating Solutions",
+    "slug": "mh-heating-solutions",
+    "trade_type": "plumbers",
+    "area": "Solihull",
+    "phone": "07974 328740",
+    "email": "",
+    "website_url": "https://www.mhheatingsolutions.co.uk",
+    "description": "4.9-star plumbing and heating specialists in Solihull with nearly 190 reviews. MH Heating Solutions have built a loyal customer base through years of reliable annual boiler servicing and responsive repair work. The kind of company customers stick with \u2014 and recommend to their neighbours.",
+    "services": [
+      "Boiler Servicing",
+      "Boiler Installation",
+      "Central Heating",
+      "Plumbing Repairs",
+      "Gas Safety Certificates",
+      "Radiator Installation",
+      "Warm Air Systems",
+      "Emergency Plumbing"
+    ],
+    "areas_served": [
+      "Solihull",
+      "Shirley",
+      "Knowle",
+      "Dorridge",
+      "Hall Green",
+      "Moseley",
+      "Birmingham",
+      "Dickens Heath"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "We have been using MH Heating Solutions for some years for the annual servicing of our boiler and they are consistently excellent.",
+        "date": "2025-10-28"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Reliable, professional, and fair pricing. Would not use anyone else for our heating needs.",
+        "date": "2025-09-10"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 187,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Bratt Builders & Roofing Specialists",
+    "slug": "bratt-builders-roofing",
+    "trade_type": "roofers",
+    "area": "Birmingham",
+    "phone": "",
+    "email": "",
+    "website_url": "https://www.brattbuilders.co.uk",
+    "description": "4.9-star builders and roofing specialists in Birmingham with over 180 reviews. Bratt Builders handle everything from roof repairs and extensions to full renovations. A family-run outfit known for quality craftsmanship, clear communication, and projects delivered on time and on budget.",
+    "services": [
+      "Roof Repairs",
+      "Flat Roofing",
+      "Extensions",
+      "Loft Conversions",
+      "General Building",
+      "Chimney Repairs",
+      "Guttering",
+      "Property Renovations"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Sutton Coldfield",
+      "Erdington",
+      "Kings Heath",
+      "Moseley",
+      "Edgbaston",
+      "Harborne"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Excellent builders. Professional from start to finish, delivered on time and the quality of work was outstanding.",
+        "date": "2025-11-12"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Used Bratt Builders for a roof repair and loft conversion. Communication was great and the finished result exceeded expectations.",
+        "date": "2025-09-25"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 181,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Bings Roofing",
+    "slug": "bings-roofing",
+    "trade_type": "roofers",
+    "area": "Birmingham",
+    "phone": "",
+    "email": "",
+    "website_url": "https://www.bingsroofing.co.uk",
+    "description": "Perfect 5-star roofers in Birmingham with 173 reviews. Bings Roofing deliver reliable, high-quality roofing work across the West Midlands. Whether it is a leaking flat roof, missing tiles, or a complete re-roof, they turn up when they say they will and leave the job done properly.",
+    "services": [
+      "Roof Repairs",
+      "Flat Roofing",
+      "Tile Replacement",
+      "Re-roofing",
+      "Chimney Repairs",
+      "Guttering",
+      "Fascias & Soffits",
+      "Lead Work"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Sutton Coldfield",
+      "Erdington",
+      "Great Barr",
+      "Perry Barr",
+      "Handsworth",
+      "Aston"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Excellent roofing service. Professional, reliable, and the quality of work was top notch. Would recommend to anyone.",
+        "date": "2025-10-15"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Bings Roofing sorted our flat roof that had been leaking for months. Quick, clean, and fairly priced.",
+        "date": "2025-08-20"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 173,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "EV-PV Ltd",
+    "slug": "ev-pv-ltd",
+    "trade_type": "electricians",
+    "area": "Birmingham",
+    "phone": "",
+    "email": "",
+    "website_url": "https://www.ev-pv.co.uk",
+    "description": "5-star electricians in Birmingham specialising in EV charger installations and solar PV systems alongside traditional electrical work. EV-PV Ltd sit at the cutting edge of home electrification \u2014 perfect for homeowners looking to future-proof their property with green energy solutions and electric vehicle charging.",
+    "services": [
+      "EV Charger Installation",
+      "Solar PV Installation",
+      "Battery Storage",
+      "Electrical Installation",
+      "Consumer Unit Upgrades",
+      "Rewiring",
+      "Smart Home Systems",
+      "Fault Finding"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Sutton Coldfield",
+      "Bromsgrove",
+      "Redditch",
+      "Coventry",
+      "Wolverhampton",
+      "Walsall"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. EV charger installed quickly and professionally. Highly recommend.",
+        "date": "2025-11-08"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Had solar panels and battery storage fitted. The team were knowledgeable, tidy, and explained everything clearly.",
+        "date": "2025-09-15"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 175,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Matt's Lawn Mowing",
+    "slug": "matts-lawn-mowing",
+    "trade_type": "landscapers",
+    "area": "Birmingham",
+    "phone": "07999 292817",
+    "email": "",
+    "website_url": "https://www.mattslawnmowing.co.uk",
+    "description": "4.9-star lawn care specialist in Birmingham with 185 reviews. Matt delivers reliable, regular lawn mowing with those satisfying stripes every time. A straightforward, no-fuss service \u2014 he turns up, does a great job, and your lawn looks brilliant. Perfect for homeowners who want a well-kept garden without the weekend effort.",
+    "services": [
+      "Lawn Mowing",
+      "Regular Maintenance",
+      "Garden Tidying",
+      "Hedge Trimming",
+      "Leaf Clearance",
+      "One-Off Cuts"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Sutton Coldfield",
+      "Hall Green",
+      "Moseley",
+      "Kings Heath",
+      "Edgbaston",
+      "Harborne"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Highly recommend Matt's Lawn Mowing. Always turns up and puts them lovely mowed stripes on my lawn!",
+        "date": "2025-10-20"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Matt has been cutting our lawn for over a year now. Reliable, fair price, and the garden always looks great after.",
+        "date": "2025-08-30"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 185,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Plumb-On Services",
+    "slug": "plumb-on-services",
+    "trade_type": "plumbers",
+    "area": "Birmingham",
+    "phone": "07810 793185",
+    "email": "",
+    "website_url": "https://www.plumb-on.co.uk",
+    "description": "Perfect 5-star plumber in Birmingham with over 180 reviews. Plumb-On Services are led by Pam, who communicates brilliantly, arrives at the agreed time, and fixes the problem efficiently. From shower repairs to full bathroom installations, they deliver the kind of reliable, honest service that keeps customers coming back.",
+    "services": [
+      "Shower Repairs",
+      "Bathroom Installation",
+      "Tap Repairs",
+      "Toilet Repairs",
+      "Pipe Repairs",
+      "Boiler Servicing",
+      "Emergency Plumbing",
+      "General Plumbing"
+    ],
+    "areas_served": [
+      "Birmingham",
+      "Solihull",
+      "Erdington",
+      "Sutton Coldfield",
+      "Kings Heath",
+      "Hall Green",
+      "Moseley",
+      "Acocks Green"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Pam communicates brilliantly. The thermostat had broken on my shower. He arrived at the agreed time and fixed it quickly and professionally.",
+        "date": "2025-11-01"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Excellent plumber. Reliable, honest, and does quality work every time. Would not use anyone else.",
+        "date": "2025-09-18"
+      }
+    ],
+    "rating": 5.0,
+    "review_count": 181,
+    "featured": false,
+    "emergency": true,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Oakdale Fencing",
+    "slug": "oakdale-fencing",
+    "trade_type": "fencing",
+    "area": "Coventry",
+    "phone": "024 7664 4601",
+    "email": "",
+    "website_url": "https://www.oakdalefencing.co.uk",
+    "description": "4.4-star fencing supplier in Coventry with over 200 reviews. Oakdale Fencing impress with next-day delivery on fence panels, competitive trade prices, and friendly service. A go-to for both tradespeople and homeowners across the West Midlands who need quality fencing materials without the wait.",
+    "services": [
+      "Fence Panel Supply",
+      "Fence Posts",
+      "Concrete Posts",
+      "Gravel Boards",
+      "Gate Supply",
+      "Trellis",
+      "Close Board Fencing",
+      "Delivery Service"
+    ],
+    "areas_served": [
+      "Coventry",
+      "Warwick",
+      "Kenilworth",
+      "Leamington Spa",
+      "Bedworth",
+      "Nuneaton",
+      "Rugby",
+      "Solihull"
+    ],
+    "reviews": [
+      {
+        "author": "Google Reviewer",
+        "rating": 5,
+        "text": "Exceptional! Impressed that it was a next-day delivery. I was expecting a few days wait. Quality panels and friendly drivers.",
+        "date": "2025-10-25"
+      },
+      {
+        "author": "Google Reviewer",
+        "rating": 4,
+        "text": "Good quality fencing at reasonable prices. Delivery was prompt and the team were helpful.",
+        "date": "2025-09-05"
+      }
+    ],
+    "rating": 4.4,
+    "review_count": 207,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "HydroGreen Heating and Gas Engineering - Birmingham & Solihull",
+    "slug": "hydrogreen-heating-and-gas-engineering---birmingham-and-solihull",
+    "trade_type": "plumbers",
+    "area": "Birmingham",
+    "phone": "07443 365157",
+    "email": "",
+    "website_url": "",
+    "description": "Highly rated plumber in Birmingham with a 5-star rating across 504 reviews. Known for quality work, reliability, and fair pricing.",
+    "services": [],
+    "areas_served": [
+      "Birmingham"
+    ],
+    "reviews": [
+      {
+        "author": "Alex Montgomery Fleming",
+        "rating": 5,
+        "text": "10/10 would recommend. We needed a gas pipe removed asap before a kitchen installation. Naeem had great communication, completed the work to an excellent standard at a very reasonable price, we will c",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "Jonathan Brickman",
+        "rating": 5,
+        "text": "Im very pleased with the service received by Hydrogreen. My boiler broke down on a Saturday, and they came out repairing the boiler and issuing with a landlord gas safety certificate all inside the ca",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "Cyra Lee",
+        "rating": 5,
+        "text": "Had a boiler emergency and HydroGreen were able to come out very quickly, which was a huge relief. The engineer was friendly, professional, and explained everything clearly while sorting the issue. Th",
+        "date": "2025-10-01"
+      }
+    ],
+    "rating": 5,
+    "review_count": 504,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31",
+    "outreach_target": true
+  },
+  {
+    "name": "Sheldon fencing",
+    "slug": "sheldon-fencing",
+    "trade_type": "fencing",
+    "area": "Birmingham",
+    "phone": "0121 742 2325",
+    "email": "",
+    "website_url": "http://www.sheldonfencing.uk/",
+    "description": "Highly rated builder in Birmingham with a 4.1-star rating across 323 reviews. Known for quality work, reliability, and fair pricing.",
+    "services": [
+      "Fence Installation",
+      "Fence Panels",
+      "Hedge Removal",
+      "Garden Fencing",
+      "Close Board Fencing",
+      "Gate Installation"
+    ],
+    "areas_served": [
+      "Birmingham"
+    ],
+    "reviews": [
+      {
+        "author": "Saf Zaman",
+        "rating": 4,
+        "text": "Really pleased with the work carried out. The team did a great job overall. There was a small issue with one concrete post being short, and a wooden one was suggested instead. I raised my concern, and",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "Paul Goulding",
+        "rating": 4,
+        "text": "Just had hedge removed and a new fence fitted along side of our back garden by Curt and Loz really pleased with the workmenship, speed the work was carried out and tidiness. Would definitely recommend",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "T Dolan",
+        "rating": 5,
+        "text": "Brilliant service and job. Had a visit from Terry within 24 hours of asking for a quote. Different options and prices offered.  Job arranged within a few days and regular updates from Terry. The two f",
+        "date": "2025-10-01"
+      }
+    ],
+    "rating": 4.1,
+    "review_count": 323,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "On The Go Electrical (OTG Electrical)",
+    "slug": "on-the-go-electrical-otg-electrical",
+    "trade_type": "electricians",
+    "area": "Birmingham",
+    "phone": "07518 144988",
+    "email": "",
+    "website_url": "https://www.otg-electrical.co.uk/",
+    "description": "Highly rated electrician in Birmingham with a 5-star rating across 210 reviews. Known for quality work, reliability, and fair pricing.",
+    "services": [],
+    "areas_served": [
+      "Birmingham"
+    ],
+    "reviews": [
+      {
+        "author": "Dean Shepherd",
+        "rating": 5,
+        "text": "OTG Electrical did a fantastic job putting sockets and wireless lights into our living room as well as replacing downlights. Lots of chasing out to recess the wires but all worth it and was recommende",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "Kevin Wall",
+        "rating": 5,
+        "text": "Reese and his team have completed a total re wiring of our renovated house.\nInitially helping with the design and specifications to fully installed internal and external work.\nCare and quality of work",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "Stephen Homer",
+        "rating": 5,
+        "text": "Excellent service from On The Go Electrical and I can\u2019t recommend them enough for electrical works. Nothing was too much trouble for them and they are reliable, friendly, professional, timely and most",
+        "date": "2025-10-01"
+      }
+    ],
+    "rating": 5,
+    "review_count": 210,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Aditum Locksmiths (Auto & Domestic)",
+    "slug": "aditum-locksmiths-auto-and-domestic",
+    "trade_type": "locksmiths",
+    "area": "Birmingham",
+    "phone": "07412 714008",
+    "email": "",
+    "website_url": "https://www.aditumlocksmiths.co.uk/",
+    "description": "Highly rated locksmith in Birmingham with a 4.9-star rating across 204 reviews. Known for quality work, reliability, and fair pricing.",
+    "services": [],
+    "areas_served": [
+      "Birmingham"
+    ],
+    "reviews": [
+      {
+        "author": "Rachel I",
+        "rating": 5,
+        "text": "10/10 experience with Ben. My key snapped off in my door late at night and I was really struggling to find someone who could come and fix it ASAP for me - when I got in contact with Ben though, he qui",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "steve compton",
+        "rating": 5,
+        "text": "Ben came out about 15 to 20 min's after I called on a Sunday morning because I'd managed to lock my keys & phone in my car .  In less time than it takes me to make a cup of coffee my car was open and ",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "H A",
+        "rating": 5,
+        "text": "Highly recommended, 5 stars, brillant locksmith. Ben from Aditum Locksmiths is an absolute lifesaver. I was locked out of my house this evening due to a broken lock, I called Aditum Locksmiths, Ben an",
+        "date": "2025-10-01"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 204,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "CDS Car Keys",
+    "slug": "cds-car-keys",
+    "trade_type": "locksmiths",
+    "area": "Birmingham",
+    "phone": "07818 499901",
+    "email": "",
+    "website_url": "https://cdscarkeys.co.uk/",
+    "description": "Highly rated locksmith in Birmingham with a 5-star rating across 185 reviews. Known for quality work, reliability, and fair pricing.",
+    "services": [
+      "Car Key Replacement",
+      "Key Programming",
+      "Auto Locksmith",
+      "Lost Car Keys",
+      "Spare Keys",
+      "Emergency Lockout"
+    ],
+    "areas_served": [
+      "Birmingham"
+    ],
+    "reviews": [
+      {
+        "author": "Carl Snee",
+        "rating": 5,
+        "text": "Absolutely fantastic from start to finish. Customer service was second to none and the speed at which they could accommodate our FRM repair to our mini was exceptional. 100% recommend to anyone to use",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "george jennings",
+        "rating": 5,
+        "text": "Cameron is a smashing bloke! Fantastic communication, half the price of the main dealer and sorted my spare key the same day. He even disabled the lost key so it couldn\u2019t be used anymore. Couldn\u2019t rec",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "Russell Bailey",
+        "rating": 5,
+        "text": "Can\u2019t speak highly enough of Cam.came out on a Sunday and my problem couldn't be resolved due to my car having a ghost immobilizer on it until ghost came out to disable it. He was in constant dialogue",
+        "date": "2025-10-01"
+      }
+    ],
+    "rating": 5,
+    "review_count": 185,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "MH Heating Solutions Ltd - Plumbers Solihull",
+    "slug": "mh-heating-solutions-ltd---plumbers-solihull",
+    "trade_type": "plumbers",
+    "area": "Solihull",
+    "phone": "07974 328740",
+    "email": "",
+    "website_url": "https://mhheatingsolutions.co.uk/",
+    "description": "Highly rated plumber in Solihull with a 4.9-star rating across 187 reviews. Known for quality work, reliability, and fair pricing.",
+    "services": [],
+    "areas_served": [
+      "Solihull"
+    ],
+    "reviews": [
+      {
+        "author": "Paul Leonard",
+        "rating": 5,
+        "text": "We have been using MH Heating Solutions Ltd for some years for the annual servicing of our boiler and we have been very pleased with their service. Martyn and Elaine are a very friendly couple & very ",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "Hannah R",
+        "rating": 5,
+        "text": "MH Hearing recently came out to fix my boiler, and the whole experience was absolutely fantastic from start to finish. They were prompt, professional, and clearly very knowledgeable. The engineer expl",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "Paul Walters",
+        "rating": 5,
+        "text": "MH heating solutions service my boiler so having experience of dealing with them I naturally went to them when I wanted a new invented water tank fitted. They are professional, worked to the schedule ",
+        "date": "2025-10-01"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 187,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Matt\u2019s Lawn Mowing",
+    "slug": "matts-lawn-mowing",
+    "trade_type": "builders",
+    "area": "Sutton Coldfield",
+    "phone": "07999 292817",
+    "email": "",
+    "website_url": "http://www.mattslawnmowing.co.uk/",
+    "description": "Highly rated builder in Sutton Coldfield with a 4.9-star rating across 185 reviews. Known for quality work, reliability, and fair pricing.",
+    "services": [],
+    "areas_served": [
+      "Sutton Coldfield"
+    ],
+    "reviews": [
+      {
+        "author": "Sam Williams",
+        "rating": 5,
+        "text": "Highly recommend Matts Lawn Mowing. Always turns up ands puts them lovely mowed stripes on my lawn!! \u2764\ufe0f\n\nIf you need any additional gardening needs, just let them know. Removed my weeds today, a job i",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "Ben Plows",
+        "rating": 5,
+        "text": "I first contacted Matt a few years ago as I needed to find somebody to maintain the lawns at my elderly grandmothers house, due to health reasons it became too big a job for her to manage on her own.\n",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "Rachid Joulid",
+        "rating": 5,
+        "text": "Matt has been taking care of our lawn for several months now, and we couldn\u2019t be happier with his work. He\u2019s reliable, professional, and always leaves the garden looking immaculate. It\u2019s a real pleasu",
+        "date": "2025-10-01"
+      }
+    ],
+    "rating": 4.9,
+    "review_count": 185,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Smiths sheds & Fencing ltd",
+    "slug": "smiths-sheds-and-fencing-ltd",
+    "trade_type": "fencing",
+    "area": "Birmingham",
+    "phone": "0121 351 7131",
+    "email": "",
+    "website_url": "http://www.smithsfencing.co.uk/",
+    "description": "Highly rated builder in Birmingham with a 4.7-star rating across 191 reviews. Known for quality work, reliability, and fair pricing.",
+    "services": [
+      "Sheds",
+      "Fence Panels",
+      "Garden Fencing",
+      "Fence Installation",
+      "Summer Houses",
+      "Gate Installation"
+    ],
+    "areas_served": [
+      "Birmingham"
+    ],
+    "reviews": [
+      {
+        "author": "Gurbax Sanger",
+        "rating": 5,
+        "text": "FANTASTIC JOB!! I was only having a gate and the side fence fitted, however, following a very reasonable quote from Adam I  ended up having the whole fence replaced -10 panels, a further 4 panels repl",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "Joy Cook",
+        "rating": 5,
+        "text": "Very pleased with everything start to finish. Lovely staff, prompt service. Very considerate and tidied up after themselves. Would recommend and use again.",
+        "date": "2025-10-01"
+      },
+      {
+        "author": "Ezzat Mosavi",
+        "rating": 5,
+        "text": "What a wonderful company! I needed a fence panel at short notice and they came within no time and even had time to help me slot it in. I can\u2019t thank you guys enough in helping me secure my home and fo",
+        "date": "2025-10-01"
+      }
+    ],
+    "rating": 4.7,
+    "review_count": 191,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [],
+    "added_date": "2026-01-31"
+  },
+  {
+    "name": "Spark & Sons Electrical",
+    "slug": "spark-and-sons-electrical",
+    "trade_type": "electricians",
+    "area": "Brighton",
+    "phone": "01onal273 555123",
+    "email": "info@sparkelectrical.co.uk",
+    "website_url": "",
+    "description": "Family-run electricians serving Brighton and the Sussex coast since 2008. From full rewires to EV charger installations, Spark & Sons deliver meticulous work with honest pricing. NICEIC approved and known locally for going above and beyond on every job.",
+    "services": [
+      "Full Rewiring",
+      "Consumer Unit Upgrades",
+      "EV Charger Installation",
+      "Outdoor Lighting",
+      "Smart Home Wiring",
+      "Fault Finding",
+      "EICR Testing",
+      "Commercial Fit-Outs"
+    ],
+    "areas_served": [
+      "Brighton",
+      "Hove",
+      "Worthing",
+      "Lewes",
+      "Shoreham-by-Sea",
+      "Portslade",
+      "Rottingdean",
+      "Peacehaven"
+    ],
+    "reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Rewired our entire Victorian terrace. Neat, tidy, and finished ahead of schedule. Cannot recommend enough.",
+        "date": "2025-11-15"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Had our EV charger installed in a day. Really professional team \u2014 explained everything clearly.",
+        "date": "2025-09-22"
+      },
+      {
+        "author": "Dave K.",
+        "rating": 5,
+        "text": "Called them for a fault that two other sparkies couldn't find. Fixed in an hour. Legends.",
+        "date": "2025-07-04"
+      },
+      {
+        "author": "Rachel P.",
+        "rating": 4,
+        "text": "Great work on our kitchen lighting. Slight delay on start date but the finish was immaculate.",
+        "date": "2025-05-18"
+      },
+      {
+        "author": "Tom W.",
+        "rating": 5,
+        "text": "Used them for a commercial office fit-out. On budget, on time, zero fuss.",
+        "date": "2025-03-30"
+      }
+    ],
+    "rating": 4.8,
+    "review_count": 47,
+    "featured": false,
+    "emergency": false,
+    "verified": false,
+    "image": "",
+    "accreditations": [
+      "NICEIC Approved",
+      "Part P Certified",
+      "City & Guilds"
+    ],
+    "added_date": "2025-07-19",
+    "outreach_target": true
+  }
+]

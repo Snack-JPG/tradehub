@@ -1,0 +1,152 @@
+# Shared Assets & Components
+
+This directory contains reusable assets and code snippets for all TradeHub client websites.
+
+## 📁 Directory Structure
+
+```
+shared/
+├── icons/           - SVG icons (WhatsApp, social media, etc.)
+├── snippets/        - Reusable HTML/CSS/JS code patterns
+└── README.md        - This file
+```
+
+---
+
+## 🎨 Icons
+
+### WhatsApp Button
+
+**File**: `icons/whatsapp-white.svg`
+
+**Usage**: Floating WhatsApp button (white icon on green background)
+
+#### HTML:
+```html
+<!-- WhatsApp Float Button -->
+<a href="https://wa.me/44XXXXXXXXXX" class="whatsapp-float" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">
+    <svg class="whatsapp-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" fill="white"/>
+    </svg>
+</a>
+```
+
+#### CSS:
+```css
+/* WhatsApp Float Button */
+.whatsapp-float {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 65px;
+    height: 65px;
+    background: #25D366;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 16px rgba(37, 211, 102, 0.4);
+    z-index: 999;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+.whatsapp-float:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 24px rgba(37, 211, 102, 0.5);
+}
+
+.whatsapp-icon {
+    width: 36px;
+    height: 36px;
+    display: block;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .whatsapp-float {
+        bottom: 20px;
+        right: 20px;
+        width: 55px;
+        height: 55px;
+    }
+
+    .whatsapp-icon {
+        width: 32px;
+        height: 32px;
+    }
+}
+```
+
+**Customization**:
+- Replace `44XXXXXXXXXX` with client's phone number (include country code, no spaces)
+- WhatsApp green: `#25D366` (official brand color)
+
+---
+
+## 📝 Code Snippets
+
+### Coming Soon:
+- Click-to-call buttons
+- Review cards
+- Service cards
+- Emergency banners
+- Contact forms
+- Schema markup templates
+- robots.txt templates
+- Scroll animations
+
+---
+
+## 🎯 Usage Guidelines
+
+### For New Websites:
+1. Copy snippets directly into client HTML
+2. Update phone numbers, business names, etc.
+3. Customize colors to match client branding
+
+### For Updates:
+1. Check this directory first before recreating components
+2. Contribute new reusable patterns here
+3. Keep code clean, commented, and production-ready
+
+---
+
+## 🤝 Contributing
+
+When you create something reusable:
+
+1. **Extract it**: Pull the code into a snippet
+2. **Generalize it**: Remove client-specific details
+3. **Document it**: Add usage examples
+4. **Save it**: Add to appropriate directory
+5. **Update README**: List it here
+
+---
+
+## 📋 Checklist for Reusable Components
+
+Before adding a component, ensure:
+
+- [ ] Code is production-ready
+- [ ] No client-specific details
+- [ ] Commented for clarity
+- [ ] Mobile-responsive
+- [ ] Accessibility compliant
+- [ ] Cross-browser compatible
+- [ ] Usage example provided
+
+---
+
+**Last Updated**: 2026-01-31
+**Maintained By**: TradeHub Development Team

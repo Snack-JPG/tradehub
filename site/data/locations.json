@@ -1,0 +1,18 @@
+[
+  { "name": "Solihull", "slug": "solihull", "county": "West Midlands" },
+  { "name": "Birmingham", "slug": "birmingham", "county": "West Midlands" },
+  { "name": "Redditch", "slug": "redditch", "county": "Worcestershire" },
+  { "name": "Bromsgrove", "slug": "bromsgrove", "county": "Worcestershire" },
+  { "name": "Sutton Coldfield", "slug": "sutton-coldfield", "county": "West Midlands" },
+  { "name": "Knowle", "slug": "knowle", "county": "West Midlands" },
+  { "name": "Shirley", "slug": "shirley", "county": "West Midlands" },
+  { "name": "Moseley", "slug": "moseley", "county": "West Midlands" },
+  { "name": "Kings Heath", "slug": "kings-heath", "county": "West Midlands" },
+  { "name": "Hall Green", "slug": "hall-green", "county": "West Midlands" },
+  { "name": "Astwood Bank", "slug": "astwood-bank", "county": "Worcestershire" },
+  { "name": "Studley", "slug": "studley", "county": "Warwickshire" },
+  { "name": "Alcester", "slug": "alcester", "county": "Warwickshire" },
+  { "name": "Wythall", "slug": "wythall", "county": "Worcestershire" },
+  { "name": "Hampton in Arden", "slug": "hampton-in-arden", "county": "West Midlands" },
+  { "name": "Dorridge", "slug": "dorridge", "county": "West Midlands" }
+]
