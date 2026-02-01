@@ -10,6 +10,12 @@ export interface Review {
   date: string;
 }
 
+export interface TradePhoto {
+  url: string;
+  caption?: string;
+  type: "before" | "after" | "general";
+}
+
 export interface Trade {
   name: string;
   slug: string;
@@ -27,6 +33,7 @@ export interface Trade {
   featured: boolean;
   image: string;
   added_date: string;
+  photos?: TradePhoto[];
 }
 
 export interface Category {
@@ -109,6 +116,13 @@ export interface TradeHubReview {
 export function getReviewsBySlug(slug: string): TradeHubReview[] {
   const reviews = (reviewsData as Record<string, TradeHubReview[]>)[slug];
   return reviews ? reviews.filter((r) => r.approved) : [];
+}
+
+/**
+ * Check if a trade has photos
+ */
+export function tradeHasPhotos(trade: Trade): boolean {
+  return Array.isArray(trade.photos) && trade.photos.length > 0;
 }
 
 /**

@@ -10,6 +10,7 @@ import {
 } from "@/lib/trades";
 import { generateMetadata as genMeta, itemListSchema, breadcrumbSchema, faqPageSchema } from "@/lib/seo";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import NearbyLocations from "@/components/NearbyLocations";
 import FAQAccordion from "@/components/FAQAccordion";
 import faqsData from "@/data/faqs.json";
 import relatedTradesData from "@/data/related-trades.json";
@@ -262,6 +263,9 @@ export default function CategoryPage({ params }: { params: { trade: string } }) 
           </div>
         </div>
       </section>
+
+      {/* Enhanced internal linking */}
+      <NearbyLocations category={category} />
     </>
   );
 }

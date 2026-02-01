@@ -1,7 +1,7 @@
 import Link from "next/link";
-import { CheckCircle, Shield, Star, ArrowRight } from "lucide-react";
+import { CheckCircle, Shield, Star, ArrowRight, Camera } from "lucide-react";
 import ReviewStars from "./ReviewStars";
-import { Trade } from "@/lib/trades";
+import { Trade, tradeHasPhotos } from "@/lib/trades";
 
 export default function TradeCard({ trade }: { trade: Trade }) {
   const firstReview = trade.reviews && trade.reviews.length > 0 ? trade.reviews[0] : null;
@@ -47,6 +47,12 @@ export default function TradeCard({ trade }: { trade: Trade }) {
           <Shield className="h-3.5 w-3.5" />
           Insured
         </span>
+        {tradeHasPhotos(trade) && (
+          <span className="inline-flex items-center gap-1.5 rounded-full bg-purple-50 px-3 py-1 text-sm font-semibold text-purple-700 shadow-sm">
+            <Camera className="h-3.5 w-3.5" />
+            Photos
+          </span>
+        )}
       </div>
 
       {/* Description */}

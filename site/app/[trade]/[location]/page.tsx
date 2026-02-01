@@ -11,6 +11,7 @@ import {
 } from "@/lib/trades";
 import { generateMetadata as genMeta, itemListSchema, breadcrumbSchema } from "@/lib/seo";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import NearbyLocations from "@/components/NearbyLocations";
 import locationContentData from "@/data/location-content.json";
 
 export function generateStaticParams() {
@@ -216,26 +217,8 @@ export default function CombinedPage({
         </div>
       </section>
 
-      {nearbyLocations.length > 0 && (
-        <section className="py-8 border-t border-gray-100">
-          <div className="mx-auto max-w-6xl px-4">
-            <h2 className="text-lg font-semibold text-navy mb-4">
-              {category.name} in Nearby Areas
-            </h2>
-            <div className="flex flex-wrap gap-2">
-              {nearbyLocations.map((loc) => (
-                <Link
-                  key={loc.slug}
-                  href={`/${params.trade}/${loc.slug}`}
-                  className="rounded-full border border-gray-200 bg-white px-4 py-1.5 text-sm font-medium text-gray-600 transition hover:border-trust hover:text-trust"
-                >
-                  {loc.name}
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
+      {/* Enhanced internal linking */}
+      <NearbyLocations category={category} location={location} />
     </>
   );
 }

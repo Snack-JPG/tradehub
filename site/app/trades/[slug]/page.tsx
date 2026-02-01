@@ -6,6 +6,8 @@ import { getTradeBySlug, getAllTrades, getLocationByName, getAllCategories, getC
 import ReviewBadge from "@/components/ReviewBadge";
 import { generateMetadata as genMeta, localBusinessSchema, breadcrumbSchema } from "@/lib/seo";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import RelatedTradespeople from "@/components/RelatedTradespeople";
+import PhotoGallery from "@/components/PhotoGallery";
 import relatedTradesData from "@/data/related-trades.json";
 
 export function generateStaticParams() {
@@ -134,6 +136,9 @@ export default function TradeProfilePage({ params }: { params: { slug: string } 
               </div>
             </div>
 
+            {/* Photo Gallery */}
+            <PhotoGallery photos={trade.photos || []} tradeName={trade.name} />
+
             <div>
               <h2 className="font-serif text-2xl font-bold text-navy-950">Areas Served</h2>
               <div className="mt-4 flex flex-wrap gap-2">
@@ -245,6 +250,9 @@ export default function TradeProfilePage({ params }: { params: { slug: string } 
           </aside>
         </div>
       </section>
+
+      {/* Related Tradespeople */}
+      <RelatedTradespeople trade={trade} />
 
       {/* Internal Links Section */}
       <section className="border-t border-slate-200 bg-slate-50 py-12">
