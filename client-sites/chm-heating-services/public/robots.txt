@@ -1,0 +1,6 @@
+# robots.txt for CHM Heating Services
+
+User-agent: *
+Allow: /
+
+Sitemap: https://chmheating.co.uk/sitemap.xml
