@@ -112,11 +112,7 @@ export default function Home() {
               </p>
 
               {/* Stats */}
-              <div
-                initial="initial"
-                animate="animate"
-                className="grid grid-cols-3 gap-6 pt-4"
-              >
+              <div className="grid grid-cols-3 gap-6 pt-4">
                 <div>
                   <div className="text-4xl font-bold text-[#D4AF37]">715</div>
                   <div className="text-sm text-zinc-500 uppercase tracking-wide">Reviews</div>
