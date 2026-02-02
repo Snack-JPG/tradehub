@@ -581,18 +581,6 @@ export default function Home() {
               <p className="text-xl text-[#D4AF37] font-semibold mb-8">Your Trusted Local Mechanic in Coventry</p>
             </div>
 
-            {/* Image */}
-            <div className="max-w-[280px] md:max-w-sm mx-auto mb-8">
-              <div className="aspect-square rounded-2xl overflow-hidden border border-[#D4AF37]/20 shadow-2xl shadow-[#D4AF37]/10">
-                <Image
-                  src="/photo-1.jpg"
-                  alt="Dadwal Garage Location"
-                  fill
-                  className="object-cover"
-                />
-              </div>
-            </div>
-
             <div className="space-y-6 text-lg text-zinc-300 leading-relaxed max-w-3xl mx-auto">
               <p>
                 Waheed has built Dadwal Garage into one of Coventry's most trusted names in car repairs. Known for
