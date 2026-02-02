@@ -24,7 +24,7 @@ import Link from 'next/link';
 const fadeInUp = {
   initial: { opacity: 0, y: 60 },
   animate: { opacity: 1, y: 0 },
-  transition: { duration: 0.6, ease: [0.22, 1, 0.36, 1] },
+  transition: { duration: 0.6, ease: [0.22, 1, 0.36, 1] as const },
 };
 
 const staggerContainer = {
@@ -177,7 +177,7 @@ export default function Home() {
             <motion.div
               initial={{ opacity: 0, x: 60 }}
               animate={{ opacity: 1, x: 0 }}
-              transition={{ duration: 0.8, ease: [0.22, 1, 0.36, 1] }}
+              transition={{ duration: 0.8, ease: [0.22, 1, 0.36, 1] as const }}
               className="relative"
             >
               <div className="relative aspect-[4/5] rounded-2xl overflow-hidden border border-[#D4AF37]/20 shadow-2xl shadow-[#D4AF37]/10">
