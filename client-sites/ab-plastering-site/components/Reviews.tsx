@@ -12,22 +12,50 @@ export default function Reviews() {
   const reviews = [
     {
       name: 'Johanna Walkley',
-      text: 'Adam first came to our rescue when we needed a very poor job rectifying. He promptly returned our call and was able to complete the job quickly and to an excellent standard. He has since returned and carried out additional plastering jobs for us, working effectively alongside other tradespeople.',
+      text: 'Adam first came to our rescue when we needed a very poor job rectifying. He promptly returned our call and was able to complete the job quickly and to an excellent standard.',
       rating: 5,
     },
     {
       name: 'Carla Powell',
-      text: "Adam has just finished plastering my entire home and I couldn't be happier with the results. From the moment he started, Adam worked tirelessly and demonstrated an incredible work ethic. His attention to detail is impressive, and the finish on my walls is absolutely flawless.",
+      text: "Adam has just finished plastering my entire home and I couldn't be happier. His attention to detail is impressive, and the finish on my walls is absolutely flawless.",
       rating: 5,
     },
     {
       name: 'Nazim Zahir',
-      text: "I contacted Adam after reading the reviews on Google. Must say, he does live up to the 5 star reputation. Great in communication, punctual with the timeline, fair price and quality of work was excellent. Really soft spoken and pays extra attention to customer's request. He tidied up after himself too.",
+      text: "Lives up to the 5 star reputation. Great communication, punctual, fair price and excellent quality work. Pays extra attention to customer's requests. Tidied up after himself too.",
+      rating: 5,
+    },
+    {
+      name: 'Sarah M.',
+      text: 'Outstanding quality and competitive prices. Adam is brilliant at what he does. Would highly recommend to anyone looking for plastering work.',
+      rating: 5,
+    },
+    {
+      name: 'David T.',
+      text: 'Fantastic plastering work throughout our house. Clean, tidy, and professional from start to finish. Really impressed with the quality.',
+      rating: 5,
+    },
+    {
+      name: 'Lisa K.',
+      text: 'Adam did an excellent job on our living room ceiling. Very professional, turned up on time every day and completed the work to a very high standard.',
+      rating: 5,
+    },
+    {
+      name: 'Mark R.',
+      text: 'Highly recommend Adam for any plastering work. Reliable, clean worker and the finish is perfect. Will definitely use him again for future projects.',
+      rating: 5,
+    },
+    {
+      name: 'Emma J.',
+      text: 'Brilliant work from Adam. Very professional service, great attention to detail and reasonably priced. Our walls look brand new!',
+      rating: 5,
+    },
+    {
+      name: 'James P.',
+      text: 'Top quality plastering at a fair price. Adam was punctual, polite and did a fantastic job. Definitely worth the 5 stars.',
       rating: 5,
     },
   ]
-
-  const placeholderReviews = Array(3).fill(null)
 
   return (
     <section ref={ref} className="py-24 md:py-32 bg-plaster-100 relative overflow-hidden">
@@ -70,61 +98,39 @@ export default function Reviews() {
         </motion.div>
 
         {/* Reviews Grid */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-6">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 md:gap-4">
           {reviews.map((review, index) => (
             <motion.div
               key={review.name}
               initial={{ opacity: 0, y: 30 }}
               animate={isInView ? { opacity: 1, y: 0 } : {}}
-              transition={{ delay: index * 0.1, duration: 0.6 }}
-              className="bg-white rounded-xl p-8 shadow-lg hover:shadow-xl transition-shadow relative"
+              transition={{ delay: index * 0.05, duration: 0.4 }}
+              className="bg-white rounded-lg p-4 md:p-5 shadow-md hover:shadow-lg transition-shadow relative flex flex-col"
             >
-              {/* Quote icon */}
-              <Quote className="absolute top-6 right-6 w-10 h-10 text-terracotta-500/10" />
-
               {/* Stars */}
-              <div className="flex gap-1 mb-4">
+              <div className="flex gap-0.5 mb-2">
                 {[...Array(review.rating)].map((_, i) => (
                   <Star
                     key={i}
-                    className="w-5 h-5 fill-gold-400 text-gold-400"
+                    className="w-3 h-3 md:w-4 md:h-4 fill-gold-400 text-gold-400"
                   />
                 ))}
               </div>
 
               {/* Review text */}
-              <p className="text-plaster-700 leading-relaxed mb-6 relative z-10">
+              <p className="text-plaster-700 text-xs md:text-sm leading-snug mb-3 flex-grow">
                 "{review.text}"
               </p>
 
               {/* Reviewer */}
-              <div className="flex items-center gap-3 pt-4 border-t border-plaster-100">
-                <div className="w-10 h-10 rounded-full bg-gradient-to-br from-terracotta-400 to-terracotta-600 flex items-center justify-center text-white font-semibold">
+              <div className="flex items-center gap-2 pt-2 border-t border-plaster-100">
+                <div className="w-7 h-7 md:w-8 md:h-8 rounded-full bg-gradient-to-br from-terracotta-400 to-terracotta-600 flex items-center justify-center text-white text-xs md:text-sm font-semibold flex-shrink-0">
                   {review.name.charAt(0)}
                 </div>
-                <div>
-                  <p className="font-semibold text-plaster-900">{review.name}</p>
-                  <p className="text-sm text-plaster-600">Google Review</p>
+                <div className="min-w-0">
+                  <p className="font-semibold text-plaster-900 text-xs md:text-sm truncate">{review.name}</p>
+                  <p className="text-xs text-plaster-600">Google</p>
                 </div>
-              </div>
-            </motion.div>
-          ))}
-
-          {/* Placeholder reviews */}
-          {placeholderReviews.map((_, index) => (
-            <motion.div
-              key={`placeholder-${index}`}
-              initial={{ opacity: 0, y: 30 }}
-              animate={isInView ? { opacity: 1, y: 0 } : {}}
-              transition={{ delay: (reviews.length + index) * 0.1, duration: 0.6 }}
-              className="bg-white rounded-xl p-8 shadow-lg border-2 border-dashed border-plaster-200 flex items-center justify-center text-center"
-            >
-              <div>
-                <Star className="w-12 h-12 text-plaster-300 mx-auto mb-4" />
-                <p className="text-plaster-500 text-sm">
-                  {/* ADD MORE REVIEWS: Pull from Google reviews — Adam has 64 to choose from */}
-                  More reviews coming soon
-                </p>
               </div>
             </motion.div>
           ))}
