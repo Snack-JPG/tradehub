@@ -81,7 +81,7 @@ export default function Reviews() {
           </h2>
 
           {/* Summary Badge */}
-          <div className="inline-flex items-center gap-3 bg-white rounded-full px-8 py-4 shadow-lg">
+          <div className="inline-flex flex-col md:flex-row items-center gap-2 md:gap-3 bg-white rounded-2xl md:rounded-full px-6 md:px-8 py-4 shadow-lg max-w-md md:max-w-none">
             <div className="flex gap-1">
               {[...Array(5)].map((_, i) => (
                 <Star
@@ -90,10 +90,15 @@ export default function Reviews() {
                 />
               ))}
             </div>
-            <div className="h-6 w-px bg-plaster-200" />
-            <span className="font-semibold text-plaster-900">
-              5.0 average from 64 reviews — every single one is 5 stars
-            </span>
+            <div className="hidden md:block h-6 w-px bg-plaster-200" />
+            <div className="text-center md:text-left">
+              <span className="font-semibold text-plaster-900 text-sm md:text-base block">
+                5.0 from 64 reviews
+              </span>
+              <span className="text-xs md:text-sm text-plaster-600">
+                Every single one is 5★
+              </span>
+            </div>
           </div>
         </motion.div>
 
