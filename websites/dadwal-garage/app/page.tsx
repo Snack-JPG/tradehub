@@ -20,7 +20,6 @@ import {
 } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { useEffect, useState } from 'react';
 
 const fadeInUp = {
   initial: { opacity: 0, y: 60 },
@@ -37,21 +36,6 @@ const staggerContainer = {
 };
 
 export default function Home() {
-  // Disable animations on mobile for better performance
-  const [isMobile, setIsMobile] = useState(false);
-
-  useEffect(() => {
-    const checkMobile = () => {
-      setIsMobile(window.innerWidth < 768);
-    };
-    checkMobile();
-    window.addEventListener('resize', checkMobile);
-    return () => window.removeEventListener('resize', checkMobile);
-  }, []);
-
-  // Helper to disable animations on mobile
-  const anim = (props: any) => (isMobile ? {} : props);
-
   return (
     <div className="bg-black text-white">
       {/* Navigation */}
@@ -116,10 +100,12 @@ export default function Home() {
         <div className="max-w-7xl mx-auto relative z-10 w-full">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             {/* Left Column - Content */}
-            <motion.div {...anim(fadeInUp)} className="space-y-8">
+            <motion.div {...fadeInUp} className="space-y-8">
               {/* Trust Badge */}
               <motion.div
-                {...anim({ initial: { opacity: 0, scale: 0.9 }, animate: { opacity: 1, scale: 1 }, transition: { duration: 0.5 } })}
+                initial={{ opacity: 0, scale: 0.9 }}
+                animate={{ opacity: 1, scale: 1 }}
+                transition={{ duration: 0.5 }}
                 className="inline-flex items-center gap-2 px-4 py-2 bg-[#D4AF37]/10 border border-[#D4AF37]/30 rounded-full backdrop-blur-sm"
               >
                 <div className="flex">
@@ -149,7 +135,9 @@ export default function Home() {
 
               {/* Stats */}
               <motion.div
-                {...anim({ variants: staggerContainer, initial: "initial", animate: "animate" })}
+                variants={staggerContainer}
+                initial="initial"
+                animate="animate"
                 className="grid grid-cols-3 gap-6 pt-4"
               >
                 <motion.div variants={fadeInUp}>
@@ -187,7 +175,9 @@ export default function Home() {
 
             {/* Right Column - Image */}
             <motion.div
-              {...anim({ initial: { opacity: 0, x: 60 }, animate: { opacity: 1, x: 0 }, transition: { duration: 0.8, ease: [0.22, 1, 0.36, 1] as const } })}
+              initial={{ opacity: 0, x: 60 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ duration: 0.8, ease: [0.22, 1, 0.36, 1] as const }}
               className="relative"
             >
               <div className="relative aspect-[4/5] rounded-2xl overflow-hidden border border-[#D4AF37]/20 shadow-2xl shadow-[#D4AF37]/10">
@@ -210,7 +200,9 @@ export default function Home() {
 
               {/* Floating Card */}
               <motion.div
-                {...anim({ initial: { opacity: 0, y: 20 }, animate: { opacity: 1, y: 0 }, transition: { delay: 0.5, duration: 0.6 } })}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: 0.5, duration: 0.6 }}
                 className="absolute -bottom-6 -left-6 bg-black/90 backdrop-blur-md border border-[#D4AF37]/30 rounded-xl p-6 shadow-2xl"
               >
                 <div className="flex items-center gap-4">
@@ -232,7 +224,9 @@ export default function Home() {
       <section className="py-24 px-6 bg-zinc-950/50">
         <div className="max-w-7xl mx-auto">
           <motion.div
-            {...anim({ initial: { opacity: 0, y: 20 }, whileInView: { opacity: 1, y: 0 }, viewport: { once: true, amount: 0.2 } })}
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, amount: 0.2 }}
             className="text-center mb-16"
           >
             <div className="text-[#D4AF37] font-semibold mb-3 uppercase tracking-wider text-sm">Our Facility</div>
@@ -262,7 +256,10 @@ export default function Home() {
             </motion.div>
 
             <motion.div
-              {...anim({ initial: { opacity: 0, y: 20 }, whileInView: { opacity: 1, y: 0 }, viewport: { once: true, amount: 0.2 }, transition: { delay: 0.1 } })}
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true, amount: 0.2 }}
+              transition={{ delay: 0.1 }}
               className="relative aspect-[4/3] rounded-xl overflow-hidden border border-[#D4AF37]/20 hover:border-[#D4AF37]/40 transition-all duration-300 group"
             >
               <Image
@@ -278,7 +275,10 @@ export default function Home() {
             </motion.div>
 
             <motion.div
-              {...anim({ initial: { opacity: 0, y: 20 }, whileInView: { opacity: 1, y: 0 }, viewport: { once: true, amount: 0.2 }, transition: { delay: 0.2 } })}
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true, amount: 0.2 }}
+              transition={{ delay: 0.2 }}
               className="relative aspect-[4/3] rounded-xl overflow-hidden border border-[#D4AF37]/20 hover:border-[#D4AF37]/40 transition-all duration-300 group"
             >
               <Image
@@ -300,7 +300,9 @@ export default function Home() {
       <section id="services" className="py-24 px-6 bg-black">
         <div className="max-w-7xl mx-auto">
           <motion.div
-            {...anim({ initial: { opacity: 0, y: 20 }, whileInView: { opacity: 1, y: 0 }, viewport: { once: true, amount: 0.2 } })}
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, amount: 0.2 }}
             className="text-center mb-16"
           >
             <div className="text-[#D4AF37] font-semibold mb-3 uppercase tracking-wider text-sm">What We Do</div>
@@ -380,7 +382,9 @@ export default function Home() {
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             {/* Image Column */}
             <motion.div
-              {...anim({ initial: { opacity: 0, x: -40 }, whileInView: { opacity: 1, x: 0 }, viewport: { once: true, amount: 0.2 } })}
+              initial={{ opacity: 0, x: -40 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true, amount: 0.2 }}
               className="relative"
             >
               <div className="aspect-[4/3] rounded-2xl overflow-hidden border border-[#D4AF37]/20 shadow-2xl shadow-[#D4AF37]/10">
@@ -403,7 +407,9 @@ export default function Home() {
 
             {/* Content Column */}
             <motion.div
-              {...anim({ initial: { opacity: 0, x: 40 }, whileInView: { opacity: 1, x: 0 }, viewport: { once: true, amount: 0.2 } })}
+              initial={{ opacity: 0, x: 40 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true, amount: 0.2 }}
               className="space-y-8"
             >
               <div>
@@ -441,7 +447,10 @@ export default function Home() {
                 ].map((feature, index) => (
                   <motion.div
                     key={feature.title}
-                    {...anim({ initial: { opacity: 0, x: 20 }, whileInView: { opacity: 1, x: 0 }, viewport: { once: true, amount: 0.2 }, transition: { delay: index * 0.1 } })}
+                    initial={{ opacity: 0, x: 20 }}
+                    whileInView={{ opacity: 1, x: 0 }}
+                    viewport={{ once: true, amount: 0.2 }}
+                    transition={{ delay: index * 0.1 }}
                     className="flex gap-4"
                   >
                     <div className="w-12 h-12 bg-gradient-to-br from-[#D4AF37]/10 to-[#B8941E]/10 rounded-xl flex items-center justify-center text-[#D4AF37] flex-shrink-0 border border-[#D4AF37]/20">
@@ -463,7 +472,9 @@ export default function Home() {
       <section id="reviews" className="py-24 px-6 bg-black">
         <div className="max-w-7xl mx-auto">
           <motion.div
-            {...anim({ initial: { opacity: 0, y: 20 }, whileInView: { opacity: 1, y: 0 }, viewport: { once: true, amount: 0.2 } })}
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, amount: 0.2 }}
             className="text-center mb-16"
           >
             <div className="text-[#D4AF37] font-semibold mb-3 uppercase tracking-wider text-sm">
@@ -546,7 +557,9 @@ export default function Home() {
 
         <div className="max-w-5xl mx-auto relative z-10">
           <motion.div
-            {...anim({ initial: { opacity: 0, y: 20 }, whileInView: { opacity: 1, y: 0 }, viewport: { once: true, amount: 0.2 } })}
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, amount: 0.2 }}
             className="text-center space-y-8"
           >
             {/* Large Logo */}
@@ -583,7 +596,9 @@ export default function Home() {
             </div>
 
             <motion.div
-              {...anim({ initial: { opacity: 0, scale: 0.9 }, whileInView: { opacity: 1, scale: 1 }, viewport: { once: true, amount: 0.2 } })}
+              initial={{ opacity: 0, scale: 0.9 }}
+              whileInView={{ opacity: 1, scale: 1 }}
+              viewport={{ once: true, amount: 0.2 }}
               className="inline-flex items-center gap-3 px-8 py-4 bg-[#D4AF37]/10 border-2 border-[#D4AF37]/30 rounded-2xl backdrop-blur-sm"
             >
               <Coffee className="w-8 h-8 text-[#D4AF37]" />
@@ -597,7 +612,9 @@ export default function Home() {
       <section id="contact" className="py-24 px-6 bg-black">
         <div className="max-w-7xl mx-auto">
           <motion.div
-            {...anim({ initial: { opacity: 0, y: 20 }, whileInView: { opacity: 1, y: 0 }, viewport: { once: true, amount: 0.2 } })}
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, amount: 0.2 }}
             className="text-center mb-16"
           >
             <div className="text-[#D4AF37] font-semibold mb-3 uppercase tracking-wider text-sm">Get In Touch</div>
@@ -633,7 +650,10 @@ export default function Home() {
               ].map((item, index) => (
                 <motion.div
                   key={item.title}
-                  {...anim({ initial: { opacity: 0, x: -20 }, whileInView: { opacity: 1, x: 0 }, viewport: { once: true, amount: 0.2 }, transition: { delay: index * 0.1 } })}
+                  initial={{ opacity: 0, x: -20 }}
+                  whileInView={{ opacity: 1, x: 0 }}
+                  viewport={{ once: true, amount: 0.2 }}
+                  transition={{ delay: index * 0.1 }}
                   className="flex gap-4 p-6 bg-zinc-950/50 border border-[#D4AF37]/10 rounded-2xl hover:border-[#D4AF37]/30 transition-all duration-300"
                 >
                   <div className="w-12 h-12 bg-gradient-to-br from-[#D4AF37]/10 to-[#B8941E]/10 rounded-xl flex items-center justify-center text-[#D4AF37] flex-shrink-0 border border-[#D4AF37]/20">
@@ -656,7 +676,9 @@ export default function Home() {
 
             {/* Contact Form */}
             <motion.div
-              {...anim({ initial: { opacity: 0, x: 20 }, whileInView: { opacity: 1, x: 0 }, viewport: { once: true, amount: 0.2 } })}
+              initial={{ opacity: 0, x: 20 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true, amount: 0.2 }}
               className="bg-zinc-950/50 border border-[#D4AF37]/10 rounded-2xl p-8"
             >
               <h3 className="text-2xl font-bold mb-6">Request a Callback</h3>
@@ -806,7 +828,9 @@ export default function Home() {
       <motion.a
         href="https://wa.me/447943025557"
         target="_blank"
-        {...anim({ initial: { scale: 0 }, animate: { scale: 1 }, transition: { delay: 1, type: 'spring', stiffness: 260, damping: 20 } })}
+        initial={{ scale: 0 }}
+        animate={{ scale: 1 }}
+        transition={{ delay: 1, type: 'spring', stiffness: 260, damping: 20 }}
         className="fixed bottom-8 right-8 w-16 h-16 bg-[#25D366] rounded-full flex items-center justify-center shadow-2xl hover:scale-110 transition-transform duration-300 z-50 group"
       >
         <Image
