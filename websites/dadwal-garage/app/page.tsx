@@ -43,7 +43,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6 py-4">
           <div className="flex justify-between items-center">
             <Link href="/" className="flex items-center gap-3 group">
-              <div className="h-24 w-auto transform group-hover:scale-105 transition-transform duration-300">
+              <div className="h-14 md:h-20 w-auto transform group-hover:scale-105 transition-transform duration-300">
                 <Image
                   src="/logo-cropped.png"
                   alt="Dadwal Garage - Individual Vehicle Service"
@@ -226,7 +226,7 @@ export default function Home() {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
+            viewport={{ once: true, amount: 0.2 }}
             className="text-center mb-16"
           >
             <div className="text-[#D4AF37] font-semibold mb-3 uppercase tracking-wider text-sm">Our Facility</div>
@@ -240,7 +240,7 @@ export default function Home() {
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: true, amount: 0.2 }}
               className="relative aspect-[4/3] rounded-xl overflow-hidden border border-[#D4AF37]/20 hover:border-[#D4AF37]/40 transition-all duration-300 group"
             >
               <Image
@@ -258,7 +258,7 @@ export default function Home() {
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: true, amount: 0.2 }}
               transition={{ delay: 0.1 }}
               className="relative aspect-[4/3] rounded-xl overflow-hidden border border-[#D4AF37]/20 hover:border-[#D4AF37]/40 transition-all duration-300 group"
             >
@@ -277,7 +277,7 @@ export default function Home() {
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: true, amount: 0.2 }}
               transition={{ delay: 0.2 }}
               className="relative aspect-[4/3] rounded-xl overflow-hidden border border-[#D4AF37]/20 hover:border-[#D4AF37]/40 transition-all duration-300 group"
             >
@@ -302,7 +302,7 @@ export default function Home() {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
+            viewport={{ once: true, amount: 0.2 }}
             className="text-center mb-16"
           >
             <div className="text-[#D4AF37] font-semibold mb-3 uppercase tracking-wider text-sm">What We Do</div>
@@ -355,7 +355,7 @@ export default function Home() {
                 key={service.title}
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
+                viewport={{ once: true, amount: 0.2 }}
                 transition={{ delay: index * 0.1 }}
                 className="group relative bg-zinc-950/50 border border-[#D4AF37]/10 rounded-2xl p-8 hover:bg-zinc-950 hover:border-[#D4AF37]/30 transition-all duration-500 hover:scale-[1.02]"
               >
@@ -384,7 +384,7 @@ export default function Home() {
             <motion.div
               initial={{ opacity: 0, x: -40 }}
               whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: true, amount: 0.2 }}
               className="relative"
             >
               <div className="aspect-[4/3] rounded-2xl overflow-hidden border border-[#D4AF37]/20 shadow-2xl shadow-[#D4AF37]/10">
@@ -409,7 +409,7 @@ export default function Home() {
             <motion.div
               initial={{ opacity: 0, x: 40 }}
               whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: true, amount: 0.2 }}
               className="space-y-8"
             >
               <div>
@@ -449,7 +449,7 @@ export default function Home() {
                     key={feature.title}
                     initial={{ opacity: 0, x: 20 }}
                     whileInView={{ opacity: 1, x: 0 }}
-                    viewport={{ once: true }}
+                    viewport={{ once: true, amount: 0.2 }}
                     transition={{ delay: index * 0.1 }}
                     className="flex gap-4"
                   >
@@ -474,7 +474,7 @@ export default function Home() {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
+            viewport={{ once: true, amount: 0.2 }}
             className="text-center mb-16"
           >
             <div className="text-[#D4AF37] font-semibold mb-3 uppercase tracking-wider text-sm">
@@ -526,7 +526,7 @@ export default function Home() {
                 key={review.name}
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
+                viewport={{ once: true, amount: 0.2 }}
                 transition={{ delay: index * 0.1 }}
                 className="bg-gradient-to-br from-zinc-950/80 to-zinc-900/50 border border-[#D4AF37]/10 rounded-2xl p-8 hover:border-[#D4AF37]/30 transition-all duration-300"
               >
@@ -559,7 +559,7 @@ export default function Home() {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
+            viewport={{ once: true, amount: 0.2 }}
             className="text-center space-y-8"
           >
             {/* Large Logo */}
@@ -582,7 +582,7 @@ export default function Home() {
             </div>
 
             {/* Image */}
-            <div className="max-w-md mx-auto mb-8">
+            <div className="max-w-[280px] md:max-w-sm mx-auto mb-8">
               <div className="aspect-square rounded-2xl overflow-hidden border border-[#D4AF37]/20 shadow-2xl shadow-[#D4AF37]/10">
                 <Image
                   src="/photo-1.jpg"
@@ -610,7 +610,7 @@ export default function Home() {
             <motion.div
               initial={{ opacity: 0, scale: 0.9 }}
               whileInView={{ opacity: 1, scale: 1 }}
-              viewport={{ once: true }}
+              viewport={{ once: true, amount: 0.2 }}
               className="inline-flex items-center gap-3 px-8 py-4 bg-[#D4AF37]/10 border-2 border-[#D4AF37]/30 rounded-2xl backdrop-blur-sm"
             >
               <Coffee className="w-8 h-8 text-[#D4AF37]" />
@@ -626,7 +626,7 @@ export default function Home() {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
+            viewport={{ once: true, amount: 0.2 }}
             className="text-center mb-16"
           >
             <div className="text-[#D4AF37] font-semibold mb-3 uppercase tracking-wider text-sm">Get In Touch</div>
@@ -664,7 +664,7 @@ export default function Home() {
                   key={item.title}
                   initial={{ opacity: 0, x: -20 }}
                   whileInView={{ opacity: 1, x: 0 }}
-                  viewport={{ once: true }}
+                  viewport={{ once: true, amount: 0.2 }}
                   transition={{ delay: index * 0.1 }}
                   className="flex gap-4 p-6 bg-zinc-950/50 border border-[#D4AF37]/10 rounded-2xl hover:border-[#D4AF37]/30 transition-all duration-300"
                 >
@@ -690,7 +690,7 @@ export default function Home() {
             <motion.div
               initial={{ opacity: 0, x: 20 }}
               whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: true, amount: 0.2 }}
               className="bg-zinc-950/50 border border-[#D4AF37]/10 rounded-2xl p-8"
             >
               <h3 className="text-2xl font-bold mb-6">Request a Callback</h3>
