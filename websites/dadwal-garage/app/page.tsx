@@ -1,6 +1,3 @@
-'use client';
-
-import { motion } from 'framer-motion';
 import {
   Phone,
   MapPin,
@@ -20,20 +17,6 @@ import {
 } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
-
-const fadeInUp = {
-  initial: { opacity: 0, y: 60 },
-  animate: { opacity: 1, y: 0 },
-  transition: { duration: 0.6, ease: [0.22, 1, 0.36, 1] as const },
-};
-
-const staggerContainer = {
-  animate: {
-    transition: {
-      staggerChildren: 0.1,
-    },
-  },
-};
 
 export default function Home() {
   return (
@@ -100,21 +83,16 @@ export default function Home() {
         <div className="max-w-7xl mx-auto relative z-10 w-full">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             {/* Left Column - Content */}
-            <motion.div {...fadeInUp} className="space-y-8">
+            <div className="space-y-8">
               {/* Trust Badge */}
-              <motion.div
-                initial={{ opacity: 0, scale: 0.9 }}
-                animate={{ opacity: 1, scale: 1 }}
-                transition={{ duration: 0.5 }}
-                className="inline-flex items-center gap-2 px-4 py-2 bg-[#D4AF37]/10 border border-[#D4AF37]/30 rounded-full backdrop-blur-sm"
-              >
+              <div className="inline-flex items-center gap-2 px-4 py-2 bg-[#D4AF37]/10 border border-[#D4AF37]/30 rounded-full backdrop-blur-sm">
                 <div className="flex">
                   {[...Array(5)].map((_, i) => (
                     <Star key={i} className="w-4 h-4 fill-[#D4AF37] text-[#D4AF37]" />
                   ))}
                 </div>
                 <span className="text-sm font-semibold text-[#D4AF37]">4.9 from 715 Google Reviews</span>
-              </motion.div>
+              </div>
 
               {/* Headline */}
               <div>
@@ -134,25 +112,24 @@ export default function Home() {
               </p>
 
               {/* Stats */}
-              <motion.div
-                variants={staggerContainer}
+              <div
                 initial="initial"
                 animate="animate"
                 className="grid grid-cols-3 gap-6 pt-4"
               >
-                <motion.div variants={fadeInUp}>
+                <div>
                   <div className="text-4xl font-bold text-[#D4AF37]">715</div>
                   <div className="text-sm text-zinc-500 uppercase tracking-wide">Reviews</div>
-                </motion.div>
-                <motion.div variants={fadeInUp}>
+                </div>
+                <div>
                   <div className="text-4xl font-bold text-[#D4AF37]">4.9★</div>
                   <div className="text-sm text-zinc-500 uppercase tracking-wide">Rating</div>
-                </motion.div>
-                <motion.div variants={fadeInUp}>
+                </div>
+                <div>
                   <div className="text-4xl font-bold text-[#D4AF37]">100%</div>
                   <div className="text-sm text-zinc-500 uppercase tracking-wide">Honest</div>
-                </motion.div>
-              </motion.div>
+                </div>
+              </div>
 
               {/* CTAs */}
               <div className="flex flex-wrap gap-4 pt-4">
@@ -171,13 +148,10 @@ export default function Home() {
                   <ChevronRight className="w-5 h-5" />
                 </a>
               </div>
-            </motion.div>
+            </div>
 
             {/* Right Column - Image */}
-            <motion.div
-              initial={{ opacity: 0, x: 60 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ duration: 0.8, ease: [0.22, 1, 0.36, 1] as const }}
+            <div
               className="relative"
             >
               <div className="relative aspect-[4/5] rounded-2xl overflow-hidden border border-[#D4AF37]/20 shadow-2xl shadow-[#D4AF37]/10">
@@ -199,10 +173,7 @@ export default function Home() {
               </div>
 
               {/* Floating Card */}
-              <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.5, duration: 0.6 }}
+              <div
                 className="absolute -bottom-6 -left-6 bg-black/90 backdrop-blur-md border border-[#D4AF37]/30 rounded-xl p-6 shadow-2xl"
               >
                 <div className="flex items-center gap-4">
@@ -214,8 +185,8 @@ export default function Home() {
                     <div className="text-2xl font-bold">1000+ Drivers</div>
                   </div>
                 </div>
-              </motion.div>
-            </motion.div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
@@ -223,10 +194,7 @@ export default function Home() {
       {/* Gallery Section */}
       <section className="py-24 px-6 bg-zinc-950/50">
         <div className="max-w-7xl mx-auto">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.2 }}
+          <div
             className="text-center mb-16"
           >
             <div className="text-[#D4AF37] font-semibold mb-3 uppercase tracking-wider text-sm">Our Facility</div>
@@ -234,13 +202,10 @@ export default function Home() {
             <p className="text-xl text-zinc-400 max-w-2xl mx-auto">
               State-of-the-art equipment and a welcoming environment
             </p>
-          </motion.div>
+          </div>
 
           <div className="grid md:grid-cols-3 gap-6">
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true, amount: 0.2 }}
+            <div
               className="relative aspect-[4/3] rounded-xl overflow-hidden border border-[#D4AF37]/20 hover:border-[#D4AF37]/40 transition-all duration-300 group"
             >
               <Image
@@ -253,13 +218,9 @@ export default function Home() {
               <div className="absolute bottom-4 left-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <div className="text-sm text-[#D4AF37] font-semibold">Welcoming Reception</div>
               </div>
-            </motion.div>
+            </div>
 
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true, amount: 0.2 }}
-              transition={{ delay: 0.1 }}
+            <div
               className="relative aspect-[4/3] rounded-xl overflow-hidden border border-[#D4AF37]/20 hover:border-[#D4AF37]/40 transition-all duration-300 group"
             >
               <Image
@@ -272,13 +233,9 @@ export default function Home() {
               <div className="absolute bottom-4 left-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <div className="text-sm text-[#D4AF37] font-semibold">Modern Lifts & Equipment</div>
               </div>
-            </motion.div>
+            </div>
 
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true, amount: 0.2 }}
-              transition={{ delay: 0.2 }}
+            <div
               className="relative aspect-[4/3] rounded-xl overflow-hidden border border-[#D4AF37]/20 hover:border-[#D4AF37]/40 transition-all duration-300 group"
             >
               <Image
@@ -291,7 +248,7 @@ export default function Home() {
               <div className="absolute bottom-4 left-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <div className="text-sm text-[#D4AF37] font-semibold">Easy Access Location</div>
               </div>
-            </motion.div>
+            </div>
           </div>
         </div>
       </section>
@@ -299,10 +256,7 @@ export default function Home() {
       {/* Services Section */}
       <section id="services" className="py-24 px-6 bg-black">
         <div className="max-w-7xl mx-auto">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.2 }}
+          <div
             className="text-center mb-16"
           >
             <div className="text-[#D4AF37] font-semibold mb-3 uppercase tracking-wider text-sm">What We Do</div>
@@ -310,7 +264,7 @@ export default function Home() {
             <p className="text-xl text-zinc-400 max-w-2xl mx-auto">
               Comprehensive car care from Coventry's most reviewed independent garage
             </p>
-          </motion.div>
+          </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
@@ -351,12 +305,8 @@ export default function Home() {
                   'State-of-the-art engine diagnostics to pinpoint problems and get you back on the road faster.',
               },
             ].map((service, index) => (
-              <motion.div
+              <div
                 key={service.title}
-                initial={{ opacity: 0, y: 20 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true, amount: 0.2 }}
-                transition={{ delay: index * 0.1 }}
                 className="group relative bg-zinc-950/50 border border-[#D4AF37]/10 rounded-2xl p-8 hover:bg-zinc-950 hover:border-[#D4AF37]/30 transition-all duration-500 hover:scale-[1.02]"
               >
                 <div className="absolute inset-0 bg-gradient-to-br from-[#D4AF37]/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-2xl" />
@@ -368,7 +318,7 @@ export default function Home() {
                   <h3 className="text-xl font-bold mb-3">{service.title}</h3>
                   <p className="text-zinc-400 leading-relaxed">{service.description}</p>
                 </div>
-              </motion.div>
+              </div>
             ))}
           </div>
         </div>
@@ -381,10 +331,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto relative z-10">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             {/* Image Column */}
-            <motion.div
-              initial={{ opacity: 0, x: -40 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true, amount: 0.2 }}
+            <div
               className="relative"
             >
               <div className="aspect-[4/3] rounded-2xl overflow-hidden border border-[#D4AF37]/20 shadow-2xl shadow-[#D4AF37]/10">
@@ -403,13 +350,10 @@ export default function Home() {
                 <div className="font-bold text-lg">Free Tea & Coffee</div>
                 <div className="text-sm opacity-90">While You Wait</div>
               </div>
-            </motion.div>
+            </div>
 
             {/* Content Column */}
-            <motion.div
-              initial={{ opacity: 0, x: 40 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true, amount: 0.2 }}
+            <div
               className="space-y-8"
             >
               <div>
@@ -445,12 +389,8 @@ export default function Home() {
                       'Relax in our comfortable reception with complimentary tea and coffee while we work.',
                   },
                 ].map((feature, index) => (
-                  <motion.div
+                  <div
                     key={feature.title}
-                    initial={{ opacity: 0, x: 20 }}
-                    whileInView={{ opacity: 1, x: 0 }}
-                    viewport={{ once: true, amount: 0.2 }}
-                    transition={{ delay: index * 0.1 }}
                     className="flex gap-4"
                   >
                     <div className="w-12 h-12 bg-gradient-to-br from-[#D4AF37]/10 to-[#B8941E]/10 rounded-xl flex items-center justify-center text-[#D4AF37] flex-shrink-0 border border-[#D4AF37]/20">
@@ -460,10 +400,10 @@ export default function Home() {
                       <h3 className="text-lg font-bold mb-1">{feature.title}</h3>
                       <p className="text-zinc-400">{feature.description}</p>
                     </div>
-                  </motion.div>
+                  </div>
                 ))}
               </div>
-            </motion.div>
+            </div>
           </div>
         </div>
       </section>
@@ -471,10 +411,7 @@ export default function Home() {
       {/* Reviews Section */}
       <section id="reviews" className="py-24 px-6 bg-black">
         <div className="max-w-7xl mx-auto">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.2 }}
+          <div
             className="text-center mb-16"
           >
             <div className="text-[#D4AF37] font-semibold mb-3 uppercase tracking-wider text-sm">
@@ -487,7 +424,7 @@ export default function Home() {
             <p className="text-xl text-zinc-400 max-w-2xl mx-auto">
               Don't just take our word for it. Here's what our customers say.
             </p>
-          </motion.div>
+          </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
@@ -522,12 +459,8 @@ export default function Home() {
                 text: 'Fantastic service! Needed urgent brake work and they fit me in same day. Very professional and the work was completed to a high standard. Highly recommend.',
               },
             ].map((review, index) => (
-              <motion.div
+              <div
                 key={review.name}
-                initial={{ opacity: 0, y: 20 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true, amount: 0.2 }}
-                transition={{ delay: index * 0.1 }}
                 className="bg-gradient-to-br from-zinc-950/80 to-zinc-900/50 border border-[#D4AF37]/10 rounded-2xl p-8 hover:border-[#D4AF37]/30 transition-all duration-300"
               >
                 <div className="flex gap-1 mb-4">
@@ -545,7 +478,7 @@ export default function Home() {
                     <div className="text-sm text-zinc-500">{review.date}</div>
                   </div>
                 </div>
-              </motion.div>
+              </div>
             ))}
           </div>
         </div>
@@ -556,10 +489,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-gradient-to-b from-black via-zinc-950/50 to-black" />
 
         <div className="max-w-5xl mx-auto relative z-10">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.2 }}
+          <div
             className="text-center space-y-8"
           >
             {/* Large Logo */}
@@ -595,26 +525,20 @@ export default function Home() {
               </p>
             </div>
 
-            <motion.div
-              initial={{ opacity: 0, scale: 0.9 }}
-              whileInView={{ opacity: 1, scale: 1 }}
-              viewport={{ once: true, amount: 0.2 }}
+            <div
               className="inline-flex items-center gap-3 px-8 py-4 bg-[#D4AF37]/10 border-2 border-[#D4AF37]/30 rounded-2xl backdrop-blur-sm"
             >
               <Coffee className="w-8 h-8 text-[#D4AF37]" />
               <span className="text-xl font-semibold">Free Tea & Coffee While You Wait</span>
-            </motion.div>
-          </motion.div>
+            </div>
+          </div>
         </div>
       </section>
 
       {/* Contact Section */}
       <section id="contact" className="py-24 px-6 bg-black">
         <div className="max-w-7xl mx-auto">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.2 }}
+          <div
             className="text-center mb-16"
           >
             <div className="text-[#D4AF37] font-semibold mb-3 uppercase tracking-wider text-sm">Get In Touch</div>
@@ -622,7 +546,7 @@ export default function Home() {
             <p className="text-xl text-zinc-400 max-w-2xl mx-auto">
               Give us a call or send a message. We're here to help.
             </p>
-          </motion.div>
+          </div>
 
           <div className="grid lg:grid-cols-2 gap-12">
             {/* Contact Info */}
@@ -648,12 +572,8 @@ export default function Home() {
                   description: 'Open 7 days a week',
                 },
               ].map((item, index) => (
-                <motion.div
+                <div
                   key={item.title}
-                  initial={{ opacity: 0, x: -20 }}
-                  whileInView={{ opacity: 1, x: 0 }}
-                  viewport={{ once: true, amount: 0.2 }}
-                  transition={{ delay: index * 0.1 }}
                   className="flex gap-4 p-6 bg-zinc-950/50 border border-[#D4AF37]/10 rounded-2xl hover:border-[#D4AF37]/30 transition-all duration-300"
                 >
                   <div className="w-12 h-12 bg-gradient-to-br from-[#D4AF37]/10 to-[#B8941E]/10 rounded-xl flex items-center justify-center text-[#D4AF37] flex-shrink-0 border border-[#D4AF37]/20">
@@ -670,15 +590,12 @@ export default function Home() {
                     )}
                     {item.description && <p className="text-sm text-zinc-500 mt-2">{item.description}</p>}
                   </div>
-                </motion.div>
+                </div>
               ))}
             </div>
 
             {/* Contact Form */}
-            <motion.div
-              initial={{ opacity: 0, x: 20 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true, amount: 0.2 }}
+            <div
               className="bg-zinc-950/50 border border-[#D4AF37]/10 rounded-2xl p-8"
             >
               <h3 className="text-2xl font-bold mb-6">Request a Callback</h3>
@@ -726,7 +643,7 @@ export default function Home() {
                   Send Message
                 </button>
               </form>
-            </motion.div>
+            </div>
           </div>
         </div>
       </section>
@@ -825,12 +742,9 @@ export default function Home() {
       </footer>
 
       {/* WhatsApp Float Button */}
-      <motion.a
+      <a
         href="https://wa.me/447943025557"
         target="_blank"
-        initial={{ scale: 0 }}
-        animate={{ scale: 1 }}
-        transition={{ delay: 1, type: 'spring', stiffness: 260, damping: 20 }}
         className="fixed bottom-8 right-8 w-16 h-16 bg-[#25D366] rounded-full flex items-center justify-center shadow-2xl hover:scale-110 transition-transform duration-300 z-50 group"
       >
         <Image
@@ -843,7 +757,7 @@ export default function Home() {
         <span className="absolute -top-12 right-0 bg-black border border-[#D4AF37]/30 text-white px-4 py-2 rounded-lg text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap shadow-xl">
           Chat on WhatsApp
         </span>
-      </motion.a>
+      </a>
     </div>
   );
 }
