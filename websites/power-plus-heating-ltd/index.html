@@ -1184,6 +1184,13 @@
                 width: 32px;
                 height: 32px;
             }
+
+            /* Disable all animations on mobile for better performance */
+            * {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+            }
         }
     </style>
 </head>
@@ -1586,36 +1593,46 @@
             });
         });
 
-        // Scroll animations with stagger effect
-        const observerOptions = {
-            threshold: 0.1,
-            rootMargin: '0px 0px -50px 0px'
-        };
+        // Scroll animations with stagger effect (disabled on mobile)
+        const isMobile = window.innerWidth <= 768;
 
-        const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting && !entry.target.classList.contains('animated')) {
-                    // Get all siblings in the same parent
-                    const siblings = Array.from(entry.target.parentElement.children);
-                    const index = siblings.indexOf(entry.target);
+        if (!isMobile) {
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -50px 0px'
+            };
 
-                    // Add staggered delay
-                    setTimeout(() => {
-                        entry.target.style.opacity = '1';
-                        entry.target.style.transform = 'translateY(0)';
-                        entry.target.classList.add('animated');
-                    }, index * 100); // 100ms stagger
-                }
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting && !entry.target.classList.contains('animated')) {
+                        // Get all siblings in the same parent
+                        const siblings = Array.from(entry.target.parentElement.children);
+                        const index = siblings.indexOf(entry.target);
+
+                        // Add staggered delay
+                        setTimeout(() => {
+                            entry.target.style.opacity = '1';
+                            entry.target.style.transform = 'translateY(0)';
+                            entry.target.classList.add('animated');
+                        }, index * 100); // 100ms stagger
+                    }
+                });
+            }, observerOptions);
+
+            // Observe cards with animation
+            document.querySelectorAll('.service-card, .review-card, .feature-card, .area-tag').forEach(card => {
+                card.style.opacity = '0';
+                card.style.transform = 'translateY(30px)';
+                card.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+                observer.observe(card);
             });
-        }, observerOptions);
-
-        // Observe cards with animation
-        document.querySelectorAll('.service-card, .review-card, .feature-card, .area-tag').forEach(card => {
-            card.style.opacity = '0';
-            card.style.transform = 'translateY(30px)';
-            card.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
-            observer.observe(card);
-        });
+        } else {
+            // On mobile, ensure cards are visible immediately
+            document.querySelectorAll('.service-card, .review-card, .feature-card, .area-tag').forEach(card => {
+                card.style.opacity = '1';
+                card.style.transform = 'translateY(0)';
+            });
+        }
 
         // Phone click tracking
         document.querySelectorAll('a[href^="tel:"]').forEach(link => {
