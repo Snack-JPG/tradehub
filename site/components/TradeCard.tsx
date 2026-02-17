@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { CheckCircle, Shield, Star, ArrowRight, Camera } from "lucide-react";
+import { CheckCircle, Shield, Star, ArrowRight, Camera, Globe } from "lucide-react";
 import ReviewStars from "./ReviewStars";
 import { Trade, tradeHasPhotos } from "@/lib/trades";
 
@@ -51,6 +51,12 @@ export default function TradeCard({ trade }: { trade: Trade }) {
           <span className="inline-flex items-center gap-1.5 rounded-full bg-purple-50 px-3 py-1 text-sm font-semibold text-purple-700 shadow-sm">
             <Camera className="h-3.5 w-3.5" />
             Photos
+          </span>
+        )}
+        {!trade.website_url && (
+          <span className="inline-flex items-center gap-1.5 rounded-full bg-gray-100 px-3 py-1 text-sm font-medium text-gray-500 shadow-sm" title="This business doesn't have a website yet">
+            <Globe className="h-3.5 w-3.5" />
+            No Website
           </span>
         )}
       </div>

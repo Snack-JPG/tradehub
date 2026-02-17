@@ -94,6 +94,17 @@ export default function CategoryPage({ params }: { params: { trade: string } }) 
             <span className="text-amber-500">West Midlands</span>
           </h1>
           <p className="mt-4 text-lg text-slate-300">{category.description}</p>
+          {trades.length > 0 && (
+            <p className="mt-3 text-sm text-slate-400">
+              Last verified:{" "}
+              {new Date(
+                Math.max(...trades.map((t) => new Date(t.added_date).getTime()))
+              ).toLocaleDateString("en-GB", {
+                month: "long",
+                year: "numeric",
+              })}
+            </p>
+          )}
         </div>
       </section>
 
@@ -111,6 +122,28 @@ export default function CategoryPage({ params }: { params: { trade: string } }) 
           ))}
         </div>
       </section>
+
+      {/* Request a Quote CTA */}
+      {trades.length > 0 && (
+        <section className="border-b border-gray-100 bg-amber-50 py-6">
+          <div className="mx-auto flex max-w-4xl flex-col items-center gap-3 px-4 sm:flex-row sm:justify-between">
+            <div>
+              <p className="font-semibold text-navy-950">
+                Need a {category.singular.toLowerCase()}?
+              </p>
+              <p className="text-sm text-gray-600">
+                Get free, no-obligation quotes from trusted local professionals.
+              </p>
+            </div>
+            <Link
+              href="/list-your-business#quote"
+              className="inline-flex items-center gap-2 whitespace-nowrap rounded-lg bg-amber-600 px-6 py-3 text-sm font-bold text-white shadow-sm transition hover:bg-amber-700"
+            >
+              Request a Quote
+            </Link>
+          </div>
+        </section>
+      )}
 
       <section className="py-12">
         <div className="mx-auto max-w-6xl px-4">
