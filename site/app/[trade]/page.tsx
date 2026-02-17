@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import TradeCard from "@/components/TradeCard";
+import ListingsToolbar from "@/components/ListingsToolbar";
 import Link from "next/link";
 import TradeIcon from "@/components/v2/TradeIcon";
 import {
@@ -115,11 +115,11 @@ export default function CategoryPage({ params }: { params: { trade: string } }) 
       <section className="py-12">
         <div className="mx-auto max-w-6xl px-4">
           {trades.length > 0 ? (
-            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-              {trades.map((t) => (
-                <TradeCard key={t.slug} trade={t} />
-              ))}
-            </div>
+            <ListingsToolbar
+              trades={trades}
+              locations={locations.map((l) => l.name)}
+              categoryName={category.name}
+            />
           ) : (
             <p className="text-center text-gray-500">
               No {category.name.toLowerCase()} listed yet.{" "}
