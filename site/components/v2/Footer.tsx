@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { Facebook, Twitter, Instagram, Linkedin } from "lucide-react";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -22,36 +21,7 @@ export default function Footer() {
               Find trusted, local tradespeople in the West Midlands. Vetted
               professionals, real reviews, free quotes.
             </p>
-            <div className="mt-4 flex items-center gap-3">
-              <a
-                href="#"
-                className="rounded-full p-2 text-slate-400 transition hover:bg-slate-800 hover:text-amber-500"
-                aria-label="Facebook"
-              >
-                <Facebook className="h-4 w-4" />
-              </a>
-              <a
-                href="#"
-                className="rounded-full p-2 text-slate-400 transition hover:bg-slate-800 hover:text-amber-500"
-                aria-label="Twitter"
-              >
-                <Twitter className="h-4 w-4" />
-              </a>
-              <a
-                href="#"
-                className="rounded-full p-2 text-slate-400 transition hover:bg-slate-800 hover:text-amber-500"
-                aria-label="Instagram"
-              >
-                <Instagram className="h-4 w-4" />
-              </a>
-              <a
-                href="#"
-                className="rounded-full p-2 text-slate-400 transition hover:bg-slate-800 hover:text-amber-500"
-                aria-label="LinkedIn"
-              >
-                <Linkedin className="h-4 w-4" />
-              </a>
-            </div>
+            {/* Social links removed — add back when accounts are created */}
           </div>
 
           {/* Popular Trades */}
