@@ -1,0 +1,18 @@
+{
+  "name": "city-electrical-services",
+  "version": "1.0.0",
+  "description": "City Electrical Services (Midlands) - Emergency Electrician Birmingham",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Static site - no build required'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "electrician",
+    "emergency electrician",
+    "Birmingham",
+    "electrical services"
+  ],
+  "author": "TradeHub",
+  "license": "ISC"
+}

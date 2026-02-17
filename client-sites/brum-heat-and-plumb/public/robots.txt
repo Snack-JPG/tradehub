@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brumheatandplumb.co.uk/sitemap.xml

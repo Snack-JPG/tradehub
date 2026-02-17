@@ -32,7 +32,7 @@ export function generateMetadata({
   if (!cat || !loc) return {};
 
   const trades = getTradesByCategoryAndLocation(params.trade, loc.name);
-  const hasListings = trades.length > 0;
+  const hasListings = trades.length >= 3; // Minimum 3 listings to avoid thin content
 
   const desc = hasListings
     ? `Find ${trades.length} vetted ${cat.name.toLowerCase()} in ${loc.name}, ${loc.county}. Rated by local homeowners. Get free, no-obligation quotes today.`

@@ -5,11 +5,10 @@ export const metadata: Metadata = {
   title: 'MJB Electrical Services | Electrician in Halesowen | 24/7 Emergency',
   description: 'Trusted local electrician in Halesowen & West Midlands. 9.93/10 on Checkatrade with 105+ reviews. Rewiring, fuseboards, EV chargers, emergency callouts. Call 07941 746878',
   keywords: 'electrician Halesowen, emergency electrician West Midlands, rewiring, fuseboard installation, EV charger installation, EICR testing, electrical services Birmingham',
-  // DEMO SITE: Prevent indexing until client approves
+  // SEO ENABLED: Site is now indexable by search engines
   robots: {
-    index: false,
-    follow: false,
-    nocache: true,
+    index: true,
+    follow: true,
   },
   openGraph: {
     title: 'MJB Electrical Services | Trusted Electrician in Halesowen',

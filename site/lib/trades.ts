@@ -63,24 +63,30 @@ export function getTradeBySlug(slug: string): Trade | undefined {
 }
 
 export function getTradesByCategory(categorySlug: string): Trade[] {
-  return (tradesData as Trade[]).filter((t) => t.trade_type === categorySlug);
+  return (tradesData as Trade[])
+    .filter((t) => t.trade_type === categorySlug)
+    .sort((a, b) => b.rating - a.rating || b.review_count - a.review_count);
 }
 
 export function getTradesByLocation(locationName: string): Trade[] {
-  return (tradesData as Trade[]).filter((t) =>
-    t.areas_served.some((a) => a.toLowerCase() === locationName.toLowerCase())
-  );
+  return (tradesData as Trade[])
+    .filter((t) =>
+      t.areas_served.some((a) => a.toLowerCase() === locationName.toLowerCase())
+    )
+    .sort((a, b) => b.rating - a.rating || b.review_count - a.review_count);
 }
 
 export function getTradesByCategoryAndLocation(
   categorySlug: string,
   locationName: string
 ): Trade[] {
-  return (tradesData as Trade[]).filter(
-    (t) =>
-      t.trade_type === categorySlug &&
-      t.areas_served.some((a) => a.toLowerCase() === locationName.toLowerCase())
-  );
+  return (tradesData as Trade[])
+    .filter(
+      (t) =>
+        t.trade_type === categorySlug &&
+        t.areas_served.some((a) => a.toLowerCase() === locationName.toLowerCase())
+    )
+    .sort((a, b) => b.rating - a.rating || b.review_count - a.review_count);
 }
 
 export function getAllCategories(): Category[] {

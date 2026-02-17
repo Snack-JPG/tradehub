@@ -124,7 +124,7 @@ Before calling, spend 5 minutes per prospect:
 ---
 
 ## The Key Insight
-
+ 
 You're not selling websites. You're saying:
 
 "I found you, I was impressed by your reviews, I built you something, and I want to list you on our directory. Have a look."
