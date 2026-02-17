@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import TradeCard from "@/components/TradeCard";
+import ListingsToolbar from "@/components/ListingsToolbar";
 import Link from "next/link";
 import TradeIcon from "@/components/v2/TradeIcon";
 import {
@@ -121,11 +121,11 @@ export default function CombinedPage({
       <section className="py-12">
         <div className="mx-auto max-w-6xl px-4">
           {trades.length > 0 ? (
-            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-              {trades.map((t) => (
-                <TradeCard key={t.slug} trade={t} />
-              ))}
-            </div>
+            <ListingsToolbar
+              trades={trades}
+              locations={[location.name]}
+              categoryName={category.name}
+            />
           ) : (
             <div className="space-y-8">
               <div className="text-center">
