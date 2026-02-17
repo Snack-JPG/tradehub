@@ -1,7 +1,7 @@
 import { Trade } from "./trades";
 
 const SITE_NAME = "TradeHub";
-const SITE_URL = "https://tradehub.directory";
+const SITE_URL = "https://www.tradehub.directory";
 
 export function generateMetadata({
   title,

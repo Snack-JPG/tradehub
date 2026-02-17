@@ -5,7 +5,7 @@ import trades from "@/data/trades.json";
 import blogPosts from "@/data/blog-posts.json";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://tradehub.directory";
+  const baseUrl = "https://www.tradehub.directory";
 
   const routes: MetadataRoute.Sitemap = [
     {

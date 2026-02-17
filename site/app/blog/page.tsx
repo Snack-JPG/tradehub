@@ -8,18 +8,18 @@ export const metadata = {
   description:
     "Expert tips and guides for finding reliable tradespeople, home improvement advice, and everything you need to know about hiring trades in the West Midlands.",
   alternates: {
-    canonical: "https://tradehub.directory/blog",
+    canonical: "https://www.tradehub.directory/blog",
   },
   openGraph: {
     title: "TradeHub Blog | Tips, Guides & Advice for Homeowners",
     description:
       "Expert tips and guides for finding reliable tradespeople, home improvement advice, and hiring trades in the West Midlands.",
-    url: "https://tradehub.directory/blog",
+    url: "https://www.tradehub.directory/blog",
     siteName: "TradeHub",
     type: "website",
     images: [
       {
-        url: "https://tradehub.directory/api/og?title=TradeHub+Blog&subtitle=Tips%2C+Guides+%26+Advice+for+Homeowners",
+        url: "https://www.tradehub.directory/api/og?title=TradeHub+Blog&subtitle=Tips%2C+Guides+%26+Advice+for+Homeowners",
         width: 1200,
         height: 630,
         alt: "TradeHub Blog",

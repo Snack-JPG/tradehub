@@ -175,7 +175,7 @@ export default async function DashboardPage({ params, searchParams }: PageProps)
           <p>
             Powered by{' '}
             <a
-              href="https://tradehub.directory"
+              href="https://www.tradehub.directory"
               className="text-blue-500 hover:underline"
             >
               TradeHub Analytics

@@ -26,4 +26,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://tradehub.directory/sitemap.xml
+Sitemap: https://www.tradehub.directory/sitemap.xml

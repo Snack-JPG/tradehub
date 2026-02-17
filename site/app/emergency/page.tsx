@@ -6,18 +6,18 @@ export const metadata: Metadata = {
   description:
     "Find 24/7 emergency tradespeople across the West Midlands. Fast response for locksmiths, plumbers, electricians, glaziers, and vehicle recovery.",
   alternates: {
-    canonical: "https://tradehub.directory/emergency",
+    canonical: "https://www.tradehub.directory/emergency",
   },
   openGraph: {
     title: "24/7 Emergency Services | TradeHub",
     description:
       "Find 24/7 emergency tradespeople across the West Midlands. Fast response for locksmiths, plumbers, electricians, glaziers, and vehicle recovery.",
-    url: "https://tradehub.directory/emergency",
+    url: "https://www.tradehub.directory/emergency",
     siteName: "TradeHub",
     type: "website",
     images: [
       {
-        url: "https://tradehub.directory/api/og?title=24%2F7+Emergency+Services&subtitle=Fast+response+across+the+West+Midlands&type=emergency",
+        url: "https://www.tradehub.directory/api/og?title=24%2F7+Emergency+Services&subtitle=Fast+response+across+the+West+Midlands&type=emergency",
         width: 1200,
         height: 630,
         alt: "TradeHub 24/7 Emergency Services",

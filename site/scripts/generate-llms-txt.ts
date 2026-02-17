@@ -76,7 +76,7 @@ function generateLlmsTxt(): string {
   content += '- £300 one-off setup fee\n';
   content += '- £30/month hosting and maintenance\n';
   content += '- Includes: Custom website, SEO optimization, review integration, and directory listing\n';
-  content += '- List your business at: https://tradehub.directory/list-your-business\n\n';
+  content += '- List your business at: https://www.tradehub.directory/list-your-business\n\n';
 
   // Trade categories
   content += '## Trade Categories\n\n';
@@ -196,8 +196,8 @@ function generateLlmsTxt(): string {
 
   // Contact info
   content += '## Contact TradeHub\n\n';
-  content += '- **Website**: https://tradehub.directory\n';
-  content += '- **List your business**: https://tradehub.directory/list-your-business\n';
+  content += '- **Website**: https://www.tradehub.directory\n';
+  content += '- **List your business**: https://www.tradehub.directory/list-your-business\n';
   content += '- **Email**: hello@tradehub.directory\n\n';
 
   // How to use this data

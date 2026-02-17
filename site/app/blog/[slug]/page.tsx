@@ -54,7 +54,7 @@ export async function generateMetadata({
     title: `${post.title} | TradeHub Blog`,
     description: post.excerpt,
     alternates: {
-      canonical: `https://tradehub.directory/blog/${post.slug}`,
+      canonical: `https://www.tradehub.directory/blog/${post.slug}`,
     },
     openGraph: {
       title: post.title,
@@ -62,10 +62,10 @@ export async function generateMetadata({
       type: "article",
       publishedTime: post.date,
       authors: [post.author],
-      url: `https://tradehub.directory/blog/${post.slug}`,
+      url: `https://www.tradehub.directory/blog/${post.slug}`,
       images: [
         {
-          url: `https://tradehub.directory/api/og?title=${encodeURIComponent(post.title)}&subtitle=${encodeURIComponent("TradeHub Blog")}`,
+          url: `https://www.tradehub.directory/api/og?title=${encodeURIComponent(post.title)}&subtitle=${encodeURIComponent("TradeHub Blog")}`,
           width: 1200,
           height: 630,
           alt: post.title,
@@ -76,7 +76,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       title: post.title,
       description: post.excerpt,
-      images: [`https://tradehub.directory/api/og?title=${encodeURIComponent(post.title)}&subtitle=${encodeURIComponent("TradeHub Blog")}`],
+      images: [`https://www.tradehub.directory/api/og?title=${encodeURIComponent(post.title)}&subtitle=${encodeURIComponent("TradeHub Blog")}`],
     },
   };
 }
@@ -113,12 +113,12 @@ export default function BlogPostPage({ params }: { params: Params }) {
       name: "TradeHub",
       logo: {
         "@type": "ImageObject",
-        url: "https://tradehub.directory/logo.png",
+        url: "https://www.tradehub.directory/logo.png",
       },
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://tradehub.directory/blog/${post.slug}`,
+      "@id": `https://www.tradehub.directory/blog/${post.slug}`,
     },
   };
 
@@ -130,19 +130,19 @@ export default function BlogPostPage({ params }: { params: Params }) {
         "@type": "ListItem",
         position: 1,
         name: "Home",
-        item: "https://tradehub.directory",
+        item: "https://www.tradehub.directory",
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Blog",
-        item: "https://tradehub.directory/blog",
+        item: "https://www.tradehub.directory/blog",
       },
       {
         "@type": "ListItem",
         position: 3,
         name: post.title,
-        item: `https://tradehub.directory/blog/${post.slug}`,
+        item: `https://www.tradehub.directory/blog/${post.slug}`,
       },
     ],
   };

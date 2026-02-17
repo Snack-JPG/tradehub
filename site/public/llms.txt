@@ -15,7 +15,7 @@ Get listed on TradeHub and receive your own professional website:
 - £300 one-off setup fee
 - £30/month hosting and maintenance
 - Includes: Custom website, SEO optimization, review integration, and directory listing
-- List your business at: https://tradehub.directory/list-your-business
+- List your business at: https://www.tradehub.directory/list-your-business
 
 ## Trade Categories
 
@@ -8994,8 +8994,8 @@ TradeHub uses the following URL patterns:
 
 ## Contact TradeHub
 
-- **Website**: https://tradehub.directory
-- **List your business**: https://tradehub.directory/list-your-business
+- **Website**: https://www.tradehub.directory
+- **List your business**: https://www.tradehub.directory/list-your-business
 - **Email**: hello@tradehub.directory
 
 ## How LLMs Should Use This Data

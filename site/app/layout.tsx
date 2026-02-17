@@ -25,7 +25,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://tradehub.directory"),
+  metadataBase: new URL("https://www.tradehub.directory"),
   title: "TradeHub | Find Trusted Local Tradespeople",
   description:
     "Find 5,085+ trusted, vetted tradespeople across 22 categories in the West Midlands. Plumbers, electricians, roofers, builders and more — all local, all reviewed.",
@@ -35,18 +35,18 @@ export const metadata: Metadata = {
     ],
   },
   alternates: {
-    canonical: "https://tradehub.directory",
+    canonical: "https://www.tradehub.directory",
   },
   openGraph: {
     title: "TradeHub | Find Trusted Local Tradespeople",
     description:
       "Find 5,085+ trusted, vetted tradespeople across 22 categories in the West Midlands. All local, all reviewed.",
-    url: "https://tradehub.directory",
+    url: "https://www.tradehub.directory",
     siteName: "TradeHub",
     type: "website",
     images: [
       {
-        url: "https://tradehub.directory/opengraph-image",
+        url: "https://www.tradehub.directory/opengraph-image",
         width: 1200,
         height: 630,
         alt: "TradeHub - Find Trusted Tradespeople in the West Midlands",
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     title: "TradeHub | Find Trusted Local Tradespeople",
     description:
       "Find 5,085+ trusted, vetted tradespeople across 22 categories in the West Midlands.",
-    images: ["https://tradehub.directory/opengraph-image"],
+    images: ["https://www.tradehub.directory/opengraph-image"],
   },
 };
 

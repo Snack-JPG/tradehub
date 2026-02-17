@@ -51,7 +51,7 @@ export async function generateMetadata({
       title,
       description,
       type: "website",
-      url: `https://tradehub.directory/emergency/${params.trade}/${params.location}`,
+      url: `https://www.tradehub.directory/emergency/${params.trade}/${params.location}`,
     },
     twitter: {
       card: "summary_large_image",
@@ -93,19 +93,19 @@ export default function EmergencyPage({ params }: { params: Params }) {
         "@type": "ListItem",
         position: 1,
         name: "Home",
-        item: "https://tradehub.directory",
+        item: "https://www.tradehub.directory",
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Emergency Services",
-        item: "https://tradehub.directory/emergency",
+        item: "https://www.tradehub.directory/emergency",
       },
       {
         "@type": "ListItem",
         position: 3,
         name: `${category.name}`,
-        item: `https://tradehub.directory/emergency/${params.trade}/${params.location}`,
+        item: `https://www.tradehub.directory/emergency/${params.trade}/${params.location}`,
       },
     ],
   };

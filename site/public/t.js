@@ -15,7 +15,7 @@
     return;
   }
 
-  const ENDPOINT = 'https://tradehub.directory/api/events';
+  const ENDPOINT = 'https://www.tradehub.directory/api/events';
   const DEBOUNCE_MS = 5000;
   const recentEvents = new Map();
 
